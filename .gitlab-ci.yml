@@ -1,0 +1,12 @@
+image: jekyll/jekyll
+
+pages:
+  stage: deploy
+  script:
+    - jekyll build -d public/
+    - cp -r static/* public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - pages

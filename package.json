@@ -1,0 +1,17 @@
+{
+  "name": "fab16-splash",
+  "version": "1.0.0",
+  "description": "![Jekyll Version](https://img.shields.io/gem/v/jekyll.svg) ![Build Status](https://gitlab.com/jekyll-themes/creative/badges/pages/build.svg)",
+  "main": "index.js",
+  "scripts": {
+    "build": "docker run --rm --volume=\"`pwd`:/srv/jekyll\" -it jekyll/jekyll:latest  jekyll build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "docker run --rm -p 4000:4000 --volume=\"`pwd`:/srv/jekyll\" -it jekyll/jekyll:latest  jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.fabcloud.org:fabevent/FAB16/splash.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
