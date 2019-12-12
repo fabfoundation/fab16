@@ -5,6 +5,7 @@ pages:
   script:
     - jekyll build -d public/
     - cp -r static/* public/
+    - jekyll build -d static/
   artifacts:
     paths:
       - public
