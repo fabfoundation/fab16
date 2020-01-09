@@ -1,0 +1,40 @@
+<section class="" id="travel">
+    <div class="container-fluid">
+        <div class="row">
+            <h1 class="mw-100 col-lg-12 col-md-12 col-sm-12 traveltitle">{{page.travel.title}}</h1>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <img src="{{ page.travel.img | relative_url}}" class="img-responsive" alt="">
+            </div>
+            <div class="col-lg-6 text-right">
+                <p class="text-faded traveltext">{{page.travel.text}}</p>
+            </div>
+        </div>
+        <div class="row">
+            <ul class="col-lg-6">
+                <li>
+                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item1link}}" title="Coming Soon">{{page.travel.item1text}}</a>
+                </li>
+                <li>
+                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item2link}}" title="Coming Soon">{{page.travel.item2text}}</a>
+                </li>
+                <li>
+                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item3link}}" title="Coming Soon">{{page.travel.item3text}}</a>
+                </li>
+            </ul>
+            <ul class="col-lg-6">
+                <li>
+                    <a class="page-scroll travelmenu" href="{{page.travel.item4link}}">{{page.travel.item4text}}</a>
+                </li>
+                <li>
+                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item5link}}" title="Coming Soon">{{page.travel.item5text}}</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section id="travelfooter" style="background-image: url({{ 'assets/img/footer-wo-logo.webp' | relative_url }});">
+
+    <img src="{{ 'assets/img/Logo2.webp' | relative_url }}" class="img-responsive" alt="">
+</section>
