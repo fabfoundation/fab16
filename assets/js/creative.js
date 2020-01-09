@@ -28,12 +28,12 @@
     });
 
     // Fit Text Plugin for Main Header
-    $("h1").fitText(
+    /*$("h1").fitText(
         1.2, {
-            minFontSize: '35px',
-            maxFontSize: '65px'
+            minFontSize: '65px',
+            maxFontSize: '145px'
         }
-    );
+    );*/
 
     // Offset for Main Navigation
     $('#mainNav').affix({

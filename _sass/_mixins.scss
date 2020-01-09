@@ -26,9 +26,9 @@
 	&:active,
 	&.active,
 	.open > .dropdown-toggle & {
-		color: $color;
-		background-color: darken($background, 5%);
-    border-color: darken($border, 7%);
+		color: $background;
+		background-color: $color;
+    border-color: $color;
 	}
 	&:active,
 	&.active,
@@ -55,12 +55,34 @@
 	}
 }
 
+@font-face {
+  font-family: 'HKGuise-Bold';
+  src: url(../fonts/HKGuise-Bold.otf) format("opentype"), url(../fonts/HKGuise-Bold.woff) format("woff"), url(../fonts/HKGuise-Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: 'HKGuise-SemiBold';
+  src: url(../fonts/HKGuise-SemiBold.otf) format("opentype"), url(../fonts/HKGuise-SemiBold.woff) format("woff"), url(../fonts/HKGuise-SemiBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: 'HKGuise-Medium';
+  src: url(../assets/fonts/HKGuise-Medium.otf) format("opentype"), url(../fonts/HKGuise-Medium.woff) format("woff"), url(../fonts//HKGuise-Medium.ttf) format("truetype");
+}
+@font-face {
+  font-family: 'HKGuise-Regular';
+  src: url(../fonts/HKGuise-Regular.otf) format("opentype"), url(../fonts/HKGuise-Regular.woff) format("woff"), url(../fonts/HKGuise-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: 'HKGuise-Light';
+  src: url(../fonts/HKGuise-Light.otf) format("opentype"), url(../fonts/HKGuise-Light.woff) format("woff"), url(../fonts/HKGuise-Light.ttf) format("truetype");
+}
+
 @mixin sans-serif-font()
 {
-	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+	font-family: 'HKGuise-Bold', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 @mixin serif-font()
 {
-	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	font-family: 'HKGuise-Light', 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
+

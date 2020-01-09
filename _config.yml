@@ -1,14 +1,62 @@
 # Site settings
+defaults:
+  #languages
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+      layout: default
+      menu:
+        item1text: "About"
+        item1link: "#about"
+        item2text: "Speakers"
+        item2link: "#speakers"
+        item3text: "Travel"
+        item3link: "#travel"
+        item4text: "Applications"
+        item4link: "#applications"
+        item5text: "Get your tickets"
+        item5link: "https://www.weezevent.com/"
+
+  -
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"
+      layout: default
+      menu:
+        item1text: "A propos"
+        item1link: "#about"
+        item2text: "Conférenciers"
+        item2link: "#speakers"
+        item3text: "Voyage"
+        item3link: "#travel"
+        item4text: "Candidatures"
+        item4link: "#applications"
+        item5text: "Réserver votre place !"
+        item5link: "https://www.weezevent.com/fr"
+
 title: FAB16 Montreal
 email: fab16@fabfoundation.org
 description: > # this means to ignore newlines until "baseurl:"
     The annual gathering of the global Fablab Network, including representatives of more than 1700 labs around the world
+image:
+ path: assets/img/FAB16-hero.webp
+ width: 1200
+ height: 630
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "https://splash.fab16.org" # the base hostname & protocol for your site
+url: ""
+#baseurl: "/fab16staging" # the subpath of your site, e.g. /blog/
+#url: "https://djangossoul.gitlab.io" # the base hostname & protocol for your site
 
 twitter_username: "fab16"
+facebook_username: "fab16"
+instagram_username: "fab16"
 github_username: "fab16"
 
 # Build settings
 markdown: kramdown
 exclude: ["README.md", "LICENSE"]
+
