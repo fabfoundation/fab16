@@ -1,4 +1,3 @@
-
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -9,57 +8,23 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">FAB 16</a>
+            <a class="navbar-brand page-scroll" href="#page-top">FAB16 Montreal</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="{{page.menu.item1link}}">{{page.menu.item1text}}</a>
+                    <a class="page-scroll" href="#about">Conference</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{page.menu.item2link}}">{{page.menu.item2text}}</a>
+                    <a class="page-scroll" href="#services">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{page.menu.item3link}}">{{page.menu.item3text}}</a>
+                    <a class="page-scroll" href="#portfolio">Gallery</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{page.menu.item4link}}">{{page.menu.item4text}}</a>
-                </li>
-                <li>
-                    <a class="page-scroll registerbutton" href="{{page.menu.item5link}}">{{page.menu.item5text}}</a>
-                </li>
-                <li>
-                    {% for block in site.data.map %}
-                        {% for item in block[page.lang] %}
-                            {% if item == page.path %}
-                                {% for trans in block %}
-                                    {% assign trans_path = trans[1] %}
-                                    {% assign posts = site.posts | where:"path",trans_path %} 
-
-                                    {% for item in posts %}
-                                        {% if item.path == page.path %}
-                                            <!--<a hreflang="{{item.lang}}" class="active" style="display: inline-block; margin-left:0;">{{site.data.locales[item.lang].title}}</a>-->
-                                        {% else %}
-                                            <a hreflang="{{item.lang}}" href="{{item.url|absolute_url}}" style="/*display: inline-block; margin-right:0;*/">{{site.data.locales[item.lang].title}}</a>
-                                        {% endif %}
-                                    {% endfor %}
-
-                                    {% assign pages = site.pages | where:"path",trans_path %}
-
-                                    {% for item in pages %}
-                                        {% if item.path == page.path %}
-                                            <!--<a hreflang="{{item.lang}}" class="active" style="display: inline-block; margin-left:0;">{{site.data.locales[item.lang].title}}</a>-->
-                                        {% else %}
-                                            <a hreflang="{{item.lang}}" href="{{item.url|absolute_url}}" style="/*display: inline-block; margin-right:0;*/">{{site.data.locales[item.lang].title}}</a>
-                                        {% endif %}
-                                    {% endfor %}
-
-                                {% endfor %}
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
+                    <a class="page-scroll" href="#contact">Participate</a>
                 </li>
             </ul>
         </div>
