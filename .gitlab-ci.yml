@@ -1,7 +1,11 @@
 image: jekyll/jekyll
 
+#before_script:
+#  - bundle install
+
 pages:
   stage: deploy
+  environment: production
   script:
     - jekyll build -d public/
     - cp -r static/* public/
