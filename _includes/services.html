@@ -1,31 +1,23 @@
 <section id="services">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center servicestitle">
-                <h2 class="section-heading">{{page.text.servicesheading}}</h2>
-                <br>
-                {{page.text.servicesparagraph}}
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">A full week with the Fablab Network</h2>
+                <hr class="primary">
             </div>
         </div>
     </div>
-    <div class="container servicestext">
-
-        {% assign rows = page.services.size | divided_by: 4.0 | ceil %}
-        {% for i in (1..rows) %}
-          {% assign offset = forloop.index0 | times: 4 %}
-          <div class="row">
-            {% for service in page.services limit:4 offset:offset %}
-              <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <img src="{{ service.img | relative_url}}" alt="{{service.title}}" />
-                        <h3>{{service.title}}</h3>
-                        <p class="text-muted">{{service.description}}</p>
-                        <!--<a href="#">+ more</a>-->
-                    </div>
+    <div class="container">
+        <div class="row">
+        {% for service in page.services %}
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <img src="{{ service.img | relative_url}}" style="max-width: 128px"/>
+                    <h3>{{service.title}}</h3>
+                    <p class="text-muted">{{service.description}}</p>
                 </div>
-            {% endfor %}
-          </div>
+            </div>
         {% endfor %}
-
+        </div>
     </div>
 </section>

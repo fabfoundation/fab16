@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<html lang="en">
 
 {% include head.html %}
 
 <body id="page-top">
-
   {% include nav.html %}
-
   {% include header.html %}
   {% include services.html %}
-  <!--{% include portfolio.html %}-->
-  {% include speakers.html %}
+  {% include portfolio.html %}
+  {% include aside.html %}
   {% include call-to-action.html %}
-  {% include applications.html %}
-  {% include travel.html %}
-  <!--{% include aside.html %}-->
   {% include contact.html %}
   {% include scripts.html %}
 </body>
