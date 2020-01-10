@@ -192,7 +192,7 @@ aside {
       }
     }
   }
-  @media (min-width: 1051px) {
+  @media (min-width: 960px) {
     .nav > li > a,
     .nav > li > a:focus {
       margin: 0 2vw;
@@ -389,7 +389,7 @@ section#headerhero {
     float:right;
     width: 150px;
     height:auto;
-    padding-top:45px;
+    padding-top:100px;
   }
 section#headertitle {
   padding:0px;
@@ -405,14 +405,6 @@ section#headertitle {
   font-size: 5vw;
   text-align: right;
   color: $theme-primary;
-}
-@media (max-width: 991px) {
-  .headertitle{
-    font-size: 26vw;
-  }
-  .headersubtitle {
-    font-size: 10vw;
-  }
 }
 .registerlinkrow {
   margin: 100px auto;
@@ -441,11 +433,6 @@ section#speakers {
 }
 .speakerstitle {
   font-size: 8vw;
-}
-@media (max-width: 991px) {
-  .speakerstitle {
-    font-size: 10vw;
-  }
 }
 .speakersgrid {
   width: 80%;
@@ -488,11 +475,6 @@ section#travel .container-fluid .row ul {
   font-size:5vw;
   font-weight:900;
 }
-@media (max-width: 991px) {
-  .travelmenu, .travelmenu-coming {
-    font-size: 10vw;
-  }
-}
 .travelmenu, .travelmenu:hover {
   color: $theme-green;
 }
@@ -524,12 +506,6 @@ section#travelfooter {
 .applicationtitle {
   font-size: 6vw;
   color:$theme-primary;
-}
-@media (max-width: 991px) {
-  .applicationtitle {
-    font-size: 10vw;
-    padding-top: 100px;
-  }
 }
 .applicationsubtitle {
   font-size: 4vw;
@@ -578,19 +554,6 @@ section#contact {
 }
 .contactsubtitle {
   font-size: 36px;
-}
-
-// FOOTER
-footer {
-  background-color: $theme-blue;
-  @include sans-serif-font;
-  font-weight: 400;
-  letter-spacing: 0px;
-  font-style: normal;
-  .container .row {
-    padding-top: 26px;
-    padding-bottom: 26px;
-  }
 }
 
 // Bootstrap Overrides
