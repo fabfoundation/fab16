@@ -1,0 +1,12 @@
+---
+layout: page-comingsoon
+title: Terms
+lang: en
+permalink: /terms-and-conditions/
+
+title_text: "Terms and Conditions"
+subtitle_text: ""
+color_class: "colorblue"
+img: ""
+
+---

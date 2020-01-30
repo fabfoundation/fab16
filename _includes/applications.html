@@ -1,0 +1,108 @@
+<section class="" id="participate">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <img src="{{ site.data.applications[page.lang].img | relative_url}}" class="img-responsive" alt="">
+            </div>
+            <div class="col-lg-6 col-md-6 text-right">
+                <h2 class="section-heading applicationtitle title colorgreen">{{site.data.applications[page.lang].title}}</h2>
+                <br>
+                <h3 class="text-faded applicationsubtitle subtitle colorgreen">{{site.data.applications[page.lang].subtitle}}</h3>
+                <br>
+                <p class="text-faded colorgreen">{{site.data.applications[page.lang].text}}</p>
+            </div
+>        </div>
+    </div>
+</section>
+
+<div class="tab marg50top backgrey">
+  {% for application in site.data.applications[page.lang].application %}
+    {% if forloop.index == 1 %}
+      {% assign is_active = " active" %}
+    {% else %}
+      {% assign is_active = "" %}
+    {% endif %}
+  <button class="tablinks {{ application.item }}{{ is_active }}" onclick="openCity(event, 'applications-{{ application.item }}')">{{ application.menu }}</button>
+  {% endfor %}
+
+</div>
+
+{% for application in site.data.applications[page.lang].application %}
+
+  {% if forloop.index == 1 %}
+    {% assign is_display = "display: block;" %}
+  {% else %}
+    {% assign is_display = "" %}
+  {% endif %}
+
+  <section id="applications-{{ application.item }}" class="tabcontent" style="{{ is_display }}">
+    <div class="container-fluid mw-100">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="section-heading colorwhite itemtitle">{{ application.title }}</h2>
+                <br>
+                <p class="text-faded">{{ application.text }}</p>
+
+                {% if application.modal == "" and application.buttontext != "" %}
+
+                  <a href="{{ application.link }}" class="float-right btn btn-primary btn-xl registerlink">{{ application.buttontext }}</a>
+
+                {% elsif application.modal != "" %}
+
+                  <a href="{{ application.link }}" data-toggle="modal" data-target="#myModal{{ forloop.index + 10 }}" class="float-right btn btn-primary btn-xl registerlink">{{ application.buttontext }}</a>
+
+                  <div id="myModal{{ forloop.index + 10 }}" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+                      <div class="modal-content details-popup">
+
+                        <div class="col-lg-12 portfolio-box text-center">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+
+                        <div class="modal-header">
+                        </div>
+
+                        <div class="modal-body embed">
+                          <div class="embed-responsive embed-responsive-16by9">
+                            <iframe  src="{{ application.modal }}" class="embed-responsive-item" allowfullscreen="allowfullscreen" gesture="media" allow="encrypted-media"  ></iframe>
+                          </div>
+                        </div>
+
+                        <div class="modal-footer">
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endfor %}
+
+
+<script>
+  function openCity(evt, cityName) {
+    // Declare all variables
+    var i, tabcontent, tablinks;
+
+    // Get all elements with class="tabcontent" and hide them
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+</script>
+

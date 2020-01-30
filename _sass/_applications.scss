@@ -1,0 +1,110 @@
+.tab {
+  overflow: hidden;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  @include transition(all, 0.3s, ease);
+  color: $theme-green;
+  @include medium-font;
+}
+
+.tab button:hover {
+  background-color: $theme-greybg;
+}
+
+.tab button.active {
+  background-color: $theme-greybg;
+  color: white;
+  @include bold-font;
+}
+section#applications-item1,
+.tab button.item1.active,
+.tab button.item1.active:hover,
+.tab button.item7.active {
+  background-color: $theme-purple;
+}
+.tab button.item1:hover,
+.tab button.item7:hover {
+  background-color: rgba($theme-purple, 0.6);
+  color: white;
+}
+
+section#applications-item2,
+.tab button.item2.active,
+.tab button.item2.active:hover,
+.tab button.item8.active  {
+  background-color: $theme-darkorange;
+}
+.tab button.item2:hover,
+.tab button.item8:hover  {
+  background-color: rgba($theme-darkorange, 0.6);
+  color: white;
+}
+section#applications-item3,
+.tab button.item3.active,
+.tab button.item3.active:hover,
+.tab button.item9.active  {
+  background-color: $theme-green;
+}
+.tab button.item3:hover,
+.tab button.item9:hover  {
+  background-color: rgba($theme-green, 0.6);
+  color: white;
+}
+section#applications-item4,
+.tab button.item4.active,
+.tab button.item4.active:hover,
+.tab button.item10.active  {
+  background-color: $theme-primary;
+}
+.tab button.item4:hover,
+.tab button.item10:hover  {
+  background-color: rgba($theme-primary, 0.6);
+  color: white;
+}
+section#applications-item5,
+.tab button.item5.active,
+.tab button.item5.active:hover,
+.tab button.item11.active  {
+  background-color: $theme-red;
+}
+.tab button.item5:hover,
+.tab button.item11:hover  {
+  background-color: rgba($theme-red, 0.6);
+  color: white;
+}
+section#applications-item6,
+.tab button.item6.active,
+.tab button.item6.active:hover,
+.tab button.item12.active  {
+  background-color: $theme-green;
+}
+.tab button.item6:hover,
+.tab button.item12:hover  {
+  background-color: rgba($theme-green, 0.6);
+  color: white;
+}
+
+.tabcontent {
+  display: none;
+  padding: 50px 0 25px 0;
+  margin-bottom: 50px;
+  a.btn {
+    float: right;
+  }
+}
+
+.tablinks {
+  @include bold-font;
+}
+@media only screen and (max-width : 885px) {
+  .tablinks {
+    width: 100%;
+  }
+}
