@@ -7,14 +7,25 @@
 
   {% include nav.html %}
 
-  {% include header.html %}
-  {% include tracks.html %}
-  {% include speakers.html %}
-  {% include call-to-action.html %}
-  {% include applications.html %}
-  {% include travel.html %}
-  {% include contact.html %}
+  <div style="margin-top: 71px;">
+    <div class="container-fluid">
+      <section>
+        <div class="row">
 
+          {% include page-header.html %}
+
+        </div>
+
+        <div class="row">
+
+          {{ content }}
+
+        </div>
+      </section>
+  </div>
+
+  {% include call-to-action.html %}
+  {% include contact.html %}
   {% include scripts.html %}
   {% if site.google_analytics %}
   {% include analytics.html %}

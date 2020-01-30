@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+{% include head.html %}
+
+<body id="page-top">
+
+  {% include nav.html %}
+
+  <div style="margin-top: 71px;">
+    <div class="container-fluid">
+      <section>
+        <div class="row">
+
+          {% include page-header.html %}
+
+        </div>
+        
+        <div class="container">
+
+          <div class="row no-gutter comingsoon text-center pad10 backwhite">
+            {{ site.data.locales[page.lang].comingsoon }}
+          </div>
+
+        </div>
+      </section>
+  </div>
+
+  {% include call-to-action.html %}
+  {% include contact.html %}
+  {% include scripts.html %}
+  {% if site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
+</body>
+
+</html>

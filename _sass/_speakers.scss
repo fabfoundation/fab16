@@ -1,0 +1,10 @@
+.speakersgrid {
+  width: 80%;
+  margin: auto;
+}
+.speaker {
+  .portfolio-box img {
+    @include border-radius(200px);
+    max-width: 200px;
+  }
+}
