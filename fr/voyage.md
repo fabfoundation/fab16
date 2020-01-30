@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: Voyage
 lang: fr
-prefix: fr/
+prefix: /fr/
 permalink: /fr/voyage/
 
 title_text: "Voyage"
