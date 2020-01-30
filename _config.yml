@@ -1,0 +1,43 @@
+# Site settings
+defaults:
+  #languages
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"
+
+title: FAB16 Montreal
+email: fab16@fabfoundation.org
+description: > # this means to ignore newlines until "baseurl:"
+    The annual gathering of the global Fablab Network, including representatives of more than 1700 labs around the world
+image:
+ path: "assets/img/FAB16-hero.webp"
+ width: 1200
+ height: 630
+
+google_analytics: UA—XXXXXXXX-X
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: ""
+
+twitter_username: "fab16"
+twitter_link: "https://twitter.com/FAB16Montreal"
+facebook_username: "fab16"
+facebook_link: "https://www.facebook.com/FAB16Montreal/"
+instagram_username: "fab16"
+instagram_link: "https://www.instagram.com/fab16montreal/"
+youtube_username: "fab16"
+youtube_link: "https://www.youtube.com/playlist?list=PLzbfnp3WeXMEk446utFOzSqo1XYlvwa7h"
+github_username: "fab16"
+github_link: "fab16"
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md", "LICENSE"]
+

@@ -1,0 +1,24 @@
+<section id="headerhero" style="background-image: url({{ 'assets/img/FAB16-hero.webp' | relative_url }});">
+    <img src="{{ 'assets/img/Logo.webp' | relative_url }}" class="img-responsive" alt="FAB 16 Header background">
+</section>
+<section id="headertitle">
+	<div class="header-content">
+        <div class="container">
+            <div id="about" class="row">
+            <!--<div class="header-content-inner">-->
+            	<div>
+                	<h1 class="col-lg-8 col-md-8 col-sm-12 headertitle">{{page.text.title}}</h1>
+                </div>
+                <div>
+                	<h2 class="col-lg-4 col-md-4 col-sm-12 headersubtitle">{{page.text.subtitle}}</h2>
+                </div>
+            </div>
+
+            <div class="row registerlinkrow">
+                <div class="col text-center">
+                    <a href="{{page.text.registerlink}}" class="btn btn-primary btn-xl registerlink">{{page.text.registerbutton}}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
