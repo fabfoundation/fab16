@@ -1,0 +1,10 @@
+section#subscribe {
+  #open-popup {
+    background-color: $theme-green;
+    color: white;
+  }
+  #open-popup:hover {
+    background-color: white;
+    color: $theme-green;
+  }
+}

@@ -1,0 +1,86 @@
+en:
+  thankstitle           : "Thanks to all our partners and sponsors"
+  hosttitle             : "Hosted by"
+  communitypartnerstitle: "Community Partners"
+  sponsorstitle         : "Sponsored by"
+  governmenttitle       : "Government"
+  host:
+    - img: assets/img/sponsors/logo_FabFoundation-opt.png
+      url: https://fabfoundation.org/
+    - img: assets/img/sponsors/logo_CBA-opt.png
+      url: http://cba.mit.edu/
+    - img: assets/img/sponsors/logo_Communautique-opt.png
+      url: https://www.communautique.quebec/
+    #- img: assets/img/sponsors/logo_Echofab2.jpg
+    #  url: https://www.echofab.quebec/
+    #- img: assets/img/sponsors/logo_Mcgill2.png
+    #  url: https://www.mcgill.ca/
+  communitypartners:
+    - img: assets/img/sponsors/logo_FabLabsQuebec-opt.png
+      url: https://fablabs-quebec.org/
+    - img: assets/img/sponsors/logo_FabLabBarcelona-opt.png
+      url: https://fablabbcn.org/
+    - img: assets/img/sponsors/logo_TourismeMontreal-opt.png
+      url: https://www.mtl.org/en
+    - img: assets/img/sponsors/logo_The Cube Logo Red-opt.png
+      url: http://uprint3d.xyz/
+    - img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
+      url: https://thefactory.mcgilleus.ca/
+    - img: assets/img/sponsors/logo_McGillEngine-opt.png
+      url: https://www.mcgill.ca/engine/
+    - img: assets/img/sponsors/logo_Musculoskeletal_Biomechanics_McGill2.jpg
+      url: https://www.mcgill.ca/mbr/
+
+  sponsors:
+    - img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - img: assets/img/sponsors/chevron-logo-horiz-opt.png
+      url: https://www.chevron.com/
+  government:
+    - img: assets/img/sponsors/logo_Montréal.svg
+      url: https://montreal.ca/en/
+    - img: assets/img/sponsors/logo_GouvernementDuQuebec-opt.png
+      url: https://www.quebec.ca/
+
+fr:
+  thankstitle           : "Merci à tous nos partenaires et commanditaires"
+  hosttitle             : "Accueilli par"
+  communitypartnerstitle: "Partenaires de la communauté"
+  sponsorstitle         : "Commandité par"
+  governmenttitle       : "Gouvernement"
+  host:
+    - img: assets/img/sponsors/logo_FabFoundation-opt.png
+      url: https://fabfoundation.org/
+    - img: assets/img/sponsors/logo_CBA-opt.png
+      url: http://cba.mit.edu/
+    - img: assets/img/sponsors/logo_Communautique-opt.png
+      url: https://www.communautique.quebec/
+    #- img: assets/img/sponsors/logo_Echofab2.jpg
+    #  url: https://www.echofab.quebec/
+    #- img: assets/img/sponsors/logo_Mcgill2.png
+    #  url: https://www.mcgill.ca/
+  communitypartners:
+    - img: assets/img/sponsors/logo_FabLabsQuebec-opt.png
+      url: https://fablabs-quebec.org/
+    - img: assets/img/sponsors/logo_FabLabBarcelona-opt.png
+      url: https://fablabbcn.org/
+    - img: assets/img/sponsors/logo_TourismeMontreal-opt.png
+      url: https://www.mtl.org/
+    - img: assets/img/sponsors/logo_The Cube Logo Red-opt.png
+      url: http://uprint3d.xyz/
+    - img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
+      url: https://thefactory.mcgilleus.ca/
+    - img: assets/img/sponsors/logo_McGillEngine-opt.png
+      url: https://www.mcgill.ca/engine/
+    - img: assets/img/sponsors/logo_Musculoskeletal_Biomechanics_McGill2.jpg
+      url: https://www.mcgill.ca/mbr/
+  sponsors:
+    - img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/
+    - img: assets/img/sponsors/chevron-logo-horiz-opt.png
+      url: https://www.chevron.com/
+  government:
+    - img: assets/img/sponsors/logo_Montréal.svg
+      url: https://montreal.ca/
+    - img: assets/img/sponsors/logo_GouvernementDuQuebec-opt.png
+      url: https://www.quebec.ca/

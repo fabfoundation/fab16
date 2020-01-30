@@ -1,29 +1,182 @@
-<section id="contact">
-    <div class="container">
+<section id="travelfooter" class="marg0top backwhite">
+
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Let's Get In Touch!</h2>
-                <hr class="primary">
-                <p>Feel free to write us for suggestions, more information or sponsorship opportunities!</p>
-            </div>
-            <div class="col-lg-2 col-lg-offset-2 text-center">
-                <a href="https://twitter.com/{{ site.twitter_username }}">
-                    <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p>{{ site.twitter_username }}</p>
-                </a>
-            </div>
-            <div class="col-lg-2 col-lg-offset-1 text-center">
-                <a href="mailto:{{ site.email }}">
-                <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p>{{ site.email }}</p>
-                </a>
-            </div>
-            <div class="col-lg-2 col-lg-offset-1 text-center">
-                <a href="https://gitlab.fabcloud.org/fabevent/{{ site.github_username }}">
-                <i class="fa fa-github fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p>{{ site.github_username }}</p>
-                </a>
+            <div class="col-lg-12 text-center contactheader marg100bot">
+                <h2 class="section-heading contacttitle marg25bot">{{ site.data.sponsors[page.lang].thankstitle }}</h2>
+
+                <br>
+                <p class="contactsubtitle marg25top">{{ site.data.sponsors[page.lang].hosttitle }}</p>
+                <div class="row resp-grid">
+                    {% for p in site.data.sponsors[page.lang].host %}
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 sponsors text-center resp-grid-item">
+                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <br>
+                <p class="contactsubtitle">{{ site.data.sponsors[page.lang].communitypartnerstitle }}</p>
+                <div class="row resp-grid">
+                    {% for p in site.data.sponsors[page.lang].communitypartners %}
+                    {% if forloop.index == 1 %}
+                      {% assign is_offset = " " %}
+                    {% else %}
+                      {% assign is_offset = "" %}
+                    {% endif %}
+                    <style>
+                    .community.resp-grid-item:last-child {
+                        min-width: 350px;
+                    }
+                    </style>
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 sponsors resp-grid-item community mx-auto pad25bot text-center{{ is_offset }}">
+                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <br>
+                <p class="contactsubtitle">{{ site.data.sponsors[page.lang].sponsorstitle }}</p>
+                <div class="row resp-grid">
+                    {% for p in site.data.sponsors[page.lang].sponsors %}
+                    {% if forloop.index == 1 %}
+                      {% assign is_offset = " " %}
+                    {% else %}
+                      {% assign is_offset = "" %}
+                    {% endif %}
+                    <div class="col-lg-4 col-md-4 col-sm-4 {{ is_offset }} col-xs-6 sponsors  resp-grid-item mx-auto text-center">
+                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <br>
+                <p class="contactsubtitle">{{ site.data.sponsors[page.lang].governmenttitle }}</p>
+                <div class="row resp-grid">
+                    {% for p in site.data.sponsors[page.lang].government %}
+                    {% if forloop.index == 1 %}
+                      {% assign is_offset = "" %}
+                    {% else %}
+                      {% assign is_offset = "" %}
+                    {% endif %}
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors resp-grid-item mx-auto text-center{{ is_offset }}">
+                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
             </div>
         </div>
     </div>
 </section>
+
+<section id="donate" class="pad50top backgrey">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h3 class="itemtitle colorgreen">{{site.data.footer[page.lang].contact.donatetitle}}</h3>
+
+                    <br>
+                    <p class="colorgreen">{{site.data.footer[page.lang].contact.donatetext}}</p>
+
+                    <br>
+                    <a href="{{site.data.footer[page.lang].contact.buttonlink}}" target="_blank" class="btn btn-default btn-xl btn-dark">{{site.data.footer[page.lang].contact.button}}</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="footer" class="pad50top backgrey">
+    <div class="container-fluid">
+
+        <img src="{{ 'assets/img/Logo2.png' | relative_url }}" class="img-responsive fab16logo marg0top" alt="">
+
+        <img src="{{ 'assets/img/footer-wo-logo.png' | relative_url }}" class="img-responsive marg0top" style="margin: auto;" alt="">
+
+    </div>
+</section>
+
+<footer class="backblue">
+    <div class="container">
+        <div class="container">
+            <div class="row pad25top pad10bot">
+                <div class="col-md-12">
+                    <div class="col-md-2 col-md-offset-1 col-xs-3 text-center">
+                        <a href="{{ site.twitter_link }}" target="_blank">
+                            <i class="fa fa-twitter fa-3x wow bounceIn colorwhite" data-wow-delay=".1s"></i>
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-xs-3 text-center">
+                        <a href="{{ site.facebook_link }}" target="_blank">
+                            <i class="fa fa-facebook fa-3x wow bounceIn colorwhite" data-wow-delay=".1s"></i>
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-xs-3 text-center">
+                        <a href="{{ site.instagram_link }}" target="_blank">
+                            <i class="fa fa-instagram fa-3x wow bounceIn colorwhite" data-wow-delay=".1s"></i>
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-xs-3 text-center">
+                        <a href="{{ site.youtube_link }}" target="_blank">
+                            <i class="fa fa-youtube fa-3x wow bounceIn colorwhite" data-wow-delay=".1s"></i>
+                        </a>
+                    </div>
+                    <div class="col-md-2 col-xs-3 text-center">
+                        <a href="mailto:{{ site.email }}">
+                        <i class="fa fa-envelope-o fa-3x wow bounceIn colorwhite" data-wow-delay=".1s"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row pad10top pad10bot">
+            <div class="col-lg-12 text-center colorwhite">
+
+                {{ site.data.footer[page.lang].footertext1 }} <a href="https://communautique.quebec" target="_blank" class="colorwhite">Communautique</a>, <a href="https://fabfoundation.org/" target="_blank" class="colorwhite">FAB Foundation</a>, <a href="https://www.mcgill.ca/" target="_blank" class="colorwhite">Université McGill</a> {{ site.data.footer[page.lang].footertext3 }} <a href="https://fablabs-quebec.org/" target="_blank" class="colorwhite">Coopérative Fab Labs Québec</a>
+
+            </div>
+        </div>
+
+        <div class="row pad10top pad10bot">
+
+            <div class="col-lg-10 col-lg-offset-1 text-center colorwhite">
+
+                {% assign i = 0 %}
+                {% for menu in site.data.locales[page.lang].footer %}
+
+                    {% if i != 0 %}
+                       | 
+                    {% endif %}
+                    <a class="page-scroll colorwhite {{ menu.class }}" href="{{ site.baseurl }}{{ menu.link }}" target="_blank">{{ menu.text }}</a>
+
+                    {% assign i = i | plus:1 %}
+                {% endfor %}
+
+                |
+
+                <a class="page-scroll colorwhite" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+
+            </div>
+        </div>
+
+        <div class="row pad10top pad10bot">
+            <div class="col-lg-12 text-center colorwhite">
+
+                {{ site.data.footer[page.lang].footertext2 }} <a href="https://dontbe.cool" target="_blank" class="colorwhite">Guillaume Pelletier</a> {{ site.data.footer[page.lang].footertext4 }} <a href="http://demandespeciale.ca/" target="_blank" class="colorwhite">Demande Spéciale</a>
+            </div>
+        </div>
+
+    </div>
+</footer>

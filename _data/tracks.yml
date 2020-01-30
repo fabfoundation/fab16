@@ -1,0 +1,98 @@
+en:
+  title: "&#35;Fabricating the Commons"
+  text: "<p>
+           FAB16 brings together members of the international Fab Lab Network, as well as government representatives, academic researchers and experts in the field of digital fabrication, to present, envision, discuss, and create community around digital fabrication, manufacturing, technology and innovation.
+        </p>
+        <p>
+          This meeting includes several events for the manufacturing community and for the general public. The community component includes a symposium with conferences about Fab Labs, digital manufacturing methods, innovative and ecological approaches, digital fabrication workshops given by the fabber community, and a Super Fab Lab, large innovative space intended for manufacturing prototypes and workshops.
+        </p>
+        <p>
+          FAB16 reaches more than 1800 Fab Labs and over 1200 attendees : fabbers, ecofriendly designers, people in the manufacturing industry, artists, teachers, researchers, and more.
+       </p>
+        <p>
+          For a larger audience, the Fab Festival event will be the window for the entire Montréal community, a totally free event. Adults and children will discover making technologies and prototyping demonstrations about Fab Labs from around the world.
+       </p>"
+  text2: "<p>
+          From July 27th to August 2nd, 2020, Montréal (Canada) will host the 16th international meeting of Fab Labs and the <a href='https://www.fabcity-montreal.quebec/' target='_blank'>Fab City Summit</a> under the theme &#35;Fabricating the Commons. Fab Labs are communities producing and sharing knowledge and tools based on peer production. They manage their resources as commons, in a democratic processes for collaborative and solidarity-based and ecological innovations. They act as a global community that makes shared experience the powerful engine of cultural transformation to invent a new society with all generations of citizens.
+        </p>
+        <p>
+           To make this possible, FAB16 Montréal created 6 tracks to participate in the creation of meaningful narratives, discovering and harvesting capabilities.
+        </p>"
+  track:
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track1-opt.png"
+      title      : "Artificial Intelligence"
+      description: "How can artificial intelligence be used for the collective well-being of all sentient beings through inclusive, equitable and ecologically sustainable development?"
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track2-opt.png"
+      title      : "Life Sciences"
+      description: "Living has never been more complex...<br>
+                    However, in common, we can learn to manage project development at the interface of several technological fields while meeting the increasingly important needs of innovators."
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track3-opt.png"
+      title      : "Women Makers"
+      description: "Against all expectations, «it was mostly women who came to use the (CNCs),» says Mélanie Thomas - Fab Lab La Chaux-de-Fonds."
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track4-opt.png"
+      title      : "Education"
+      description: "Reconciling knowledge and doing, blurring the boundary between blue-collar and white-collar workers, using disruptive technologies and reversing the trend towards a more just and sustainable world."
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track5-opt.png"
+      title      : "Ecological Transition"
+      description: "Regenerate natural systems through a restorative economy based on cooperation, mutualisation and social innovation, and regain control of sustainable local manufacturing."
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track6-opt.png"
+      title      : "Open Culture"
+      description: "Produce common knowledge and global knowledge, a model for creating the future, that enables people to work together to create repeatable solutions while building collective resilience."
+
+fr:
+  title : "&#35;Fabriquer les Communs"
+  text  : "<p>
+          FAB16 rassemble les membres du réseau international des Fab Labs, ainsi que des représentants gouvernementaux, des chercheurs universitaires et des experts dans le domaine de la fabrication numérique, pour présenter, envisager, discuter et créer une communauté autour de la fabrication, de la technologie et de l'innovation numériques.
+        </p>
+        <p>
+          Cette rencontre comprend plusieurs événements pour la communauté fabricante et pour le grand public. Le volet pour la communauté comprend un symposium avec des conférences sur les Fab Labs, les méthodes de fabrication numérique, les approches innovatrices et écologiques, des ateliers de fabrication numérique donnés par la communauté des fabers et un Super Fab Lab, grand espace innovateur destiné à la fabrication de prototypes et aux ateliers.
+        </p>
+        <p>
+          FAB16 rejoint plus de 1800 Fab Labs et plus de 1200 participants : fabricants, designers respectueux de l'environnement, industriels, artistes, enseignants, chercheurs, et plus encore.
+        </p>
+        <p>
+          Pour rejoindre un public plus large, l'événement Fab Festival sera la vitrine pour toute la communauté montréalaise, un événement entièrement gratuit. Adultes et enfants y découvriront des technologies de fabrication et des démonstrations de prototypage offerts par les Fab Labs du monde entier.
+        </p>"
+  text2: "<p>
+           Du 27 juillet au 2 août 2020, Montréal (Canada) sera l’hôte de la 16ème rencontre internationale des Fab Labs et du <a href='https://www.fabcity-montreal.quebec/accueil' target='_blank'>Sommet Fab City</a> sous le thème &#35;Fabriquer les Communs. Les Fab Labs sont des communautés produisant et partageant des connaissances et des outils basés sur la production pair-à-pair. Ils gèrent les ressources comme des biens communs, dans un processus démocratique de collaboration, de solidarité et d'innovations écologiques. Ils agissent en tant que communauté mondiale qui fait de l'expérience partagée le moteur puissant de la transformation culturelle pour inventer une nouvelle société avec toutes les générations de citoyens.
+        </p>
+        <p>
+           Pour rendre cela possible, FAB16 Montréal a créé 6 sujets afin de participer à la création d’un narratif significatif, à la découverte et à la récolte des capabilités.
+        </p>"
+  track:
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track1-opt.png"
+      title      : "Intelligence artificielle"
+      description: "Comment utiliser l’intelligence artificielle au service du bien-être collectif de tous les êtres sensibles grâce à un développement inclusif, équitable et écologiquement durable ?"
+    
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track2-opt.png"
+      title      : "Sciences de la vie"
+      description: "Vivre n’a jamais été aussi complexe…<br>
+                    Cependant, en commun, on peut apprendre à gérer le développement de projets à l’interface de plusieurs domaines technologiques tout en répondant aux besoins de plus en plus importants des innovateurs."
+    
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track3-opt.png"
+      title      : "Femmes Makers"
+      description: "Contre toute attente, «ce sont majoritairement des femmes qui sont venues les (CNC) utiliser», précise Mélanie Thomas – Fab Lab La Chaux-de-Fonds."
+    
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track4-opt.png"
+      title      : "Éducation"
+      description: "Réconcilier le savoir et le faire, estomper la frontière entre cols bleus et cols blancs, utiliser des technologies disruptives et inverser la tendance en faveur d’un monde plus juste et plus durable."
+    
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track5-opt.png"
+      title      : "Transition écologique"
+      description: "Régénérer les systèmes naturels par une économie restaurative basée sur la coopération, la mutualisation et l'innovation sociale, et reprendre le contrôle de la fabrication locale durable."
+    
+    - img        : "assets/img/tracks/track0-opt.png"
+      imghover   : "assets/img/tracks/track6-opt.png"
+      title      : "Culture ouverte"
+      description: "Produire des savoirs communs et des connaissances à l'échelle mondiale, un modèle pour créer le futur, qui permettent aux personnes de travailler ensemble pour créer des solutions répétables tout en développant une résilience collective."

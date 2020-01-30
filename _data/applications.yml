@@ -1,0 +1,163 @@
+en:
+  title   : "PARTICIPATE"
+  img     : "assets/img/applications.png"
+  subtitle: "How to participate"
+  text    : "FAB16 integrates the knowledge acquired throughout the year from over 1800 Fab Labs around the world. As we gather together at the conference, everyone is encouraged to participate in various activities: leading or engaging in a workshop or working group, submitting a research paper, or being a volunteer, to name a few. Visit the tabs below to participate!"
+
+  application:
+    - item      : "item1"
+      menu      : "Working groups"
+      title     : "Participate with your working groups"
+      text      : "Join us in the Working Groups of the Fab Labs Network, where we gather in smaller cohorts to plan out recurring global initiatives, such as Fab Academy, International Education, Assistive Technology, and more. These are theoretical discussions, and a chance for the global community to connect and share their perspectives.
+                  <br><br>
+                  Use the link below to submit a working group!"
+      buttontext: "PARTICIPATE"
+      modal     : ""
+      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+
+    - item      : "item2"
+      menu      : "Workshops"
+      title     : "Participate with your workshops"
+      text      : "Whether you are new to FABx Events, or have been to many, workshops are a great way to share your knowledge with the Fab Lab Network. Workshops are either theoretical and/or hands-on, and have a wide range of topics, from biomaterials to hacking a machine to Sustainable Development Goals. Leaders of the workshops are community members who come in with previous experience from their local community's projects, workshops and ideas. They can be new or active members of the Fab Lab Network! 
+                  <br><br>
+                  <em>** Keep in mind that if you are leading a workshop, your workshop must be approved before you purchase your discounted ticket. No refund.</em>"
+      buttontext: "PARTICIPATE"
+      modal     : ""
+      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+
+    - item      : "item3"
+      menu      : "Research papers"
+      title     : "Submit your Paper "
+      text      : "The FAB 16 research papers stream invites original scholarly writing from researchers studying the Fab Lab movement, its ambitions and its impact from a wide range of disciplines, including computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
+                  Use the link below to propose a paper !"
+      buttontext: "PARTICIPATE"
+      modal     : ""
+      link      : "https://easychair.org/conferences/?conf=fab16"
+
+    - item      : "item4"
+      menu      : "FAB16 FAB World"
+      title     : "Participate with FAB World"
+      text      : "We want to hear about what FAB projects you and your community are developing! Fab World is an opportunity during FAB16 to present a 3 minute talk to the Fab community about projects, initiatives, teams, and developments happening in your Fab Lab and Fab community.
+                  <br><br>
+                  Keep in mind that this year's theme is 'Fabricating the Commons', looking at how we can produce and share knowledge and tools based on peer production to create a sustainable future for everyone.
+                  <br><br>
+                  Interested in sharing your project? Use the link below to propose a project!"
+      buttontext: "PARTICIPATE"
+      modal     : ""
+      link      : "https://docs.google.com/forms/d/e/1FAIpQLSfIbgzwqdfhyH2dRGVdbTpsFSTblDXtiAlSzQbM5bXfK13dcA/viewform"
+
+    - item      : "item5"
+      menu      : "Fab Festival"
+      title     : "Participate with a Fab Festival Workshop"
+      text      : "The Fab Festival is a two-day event (Saturday and Sunday) open to the public. Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies. An event you certainly won't want to miss!
+                  <br><br>
+                  If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>"
+      buttontext: ""
+      modal     : ""
+      link      : ""
+
+    - item      : "item6"
+      menu      : "Become a volunteer"
+      title     : "Become a volunteer is ..."
+      text      : "<ul class='colorwhite'>
+                    <li>Being in contact with people from different cultures</li>
+                    <li>Support participants during the conference by facilitating their experience</li>
+                    <li>Create links with other volunteers and actors in the movement.</li>
+                  </ul>
+                  <p class='colorwhite'>
+                  <br><br>
+                  Please fill the following information to apply as a volunteer during the FAB16 event.
+                  <br>
+                  This is an opportunity for you to be in the biggest Digital Fabrication event of the world.
+                  <br><br>
+                  You have to be authorized by the Canadian government to work legally as volunteer.
+                  <br><br>
+                  Interested in volunteering?
+                  </p>"
+      buttontext: "PARTICIPATE"
+      modal     : ""
+      link      : "https://forms.gle/289qVARsA2nxCBmRA"
+
+fr:
+  title   : "PARTICIPER"
+  img     : "assets/img/applications.png"
+  subtitle: "Comment participer"
+  text    : "FAB16 intégrera toute la connaissance acquise durant l’année par plus de 1800 Fab Labs à travers le monde.
+            Lors de notre rencontre à cette conférence, tout le monde est invité à participer à diverses activités : animer ou s’impliquer dans un atelier ou groupe de travail, soumettre ses publications de recherche, devenir bénévole, pour n'en citer que quelques-unes.
+            Visitez les onglets ci-bas pour participer!"
+
+  application:
+    - item      : item1
+      menu      : "Groupes de travail"
+      title     : "Participez aux groupes de travail"
+      text      : "Prenez part aux groupes de travail du réseau des Fab Labs, où nous nous réunissons en petites cohortes afin de planifier les initiatives mondiales récurrentes comme la Fab Academy, l’éducation internationale, les technologies d’assistance, et plus. Ces discussions théoriques sont une chance pour la communauté globale de se connecter ensemble et de partager leurs perspectives. 
+                  <br><br>
+                  Utilisez le lien ci-dessous pour soumettre un groupe de travail!
+                  "
+      buttontext: "PARTICIPEZ"
+      modal     : ""
+      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+    
+    - item      : item2
+      menu      : "Ateliers"
+      title     : "Participez avec vos ateliers"
+      text      : "Que vous soyez novice ou familier avec les événements FABx, les ateliers sont un fantastique moyen de partager vos connaissances avec le réseau des Fab Labs. Les ateliers sont autant théoriques que pratiques, et couvrent un large spectre de sujets, des biomatériaux jusqu'à hacker une machine avec des objectifs de développement durable.
+                  <br><br>
+                  <em>**Soyez attentif si vous êtes animateur, votre atelier devra être approuvé avant de pouvoir acheter un billet au tarif spécial.</em>"
+      buttontext: "PARTICIPEZ"
+      modal     : ""
+      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+    
+    - item      : item3
+      menu      : "Papiers de recherche"
+      title     : "Soumettez votre publication scientifique"
+      text      : "Le volet du FAB16 concernant les papiers de recherche invite les auteurs d’articles de recherche originaux étudiant le mouvement Fab Lab, ses ambitions et ses impacts au travers d’un large spectre de disciplines, incluant les sciences informatiques, l’ingénierie, les domaines scientifiques et technologiques, la gestion et les affaires, l’éducation, l’urbanisme, les médias et le design, et bien d’autres encore.
+                  <br><br>
+                  Utilisez le lien ci-dessous pour soumettre un atelier!"
+      buttontext: "PARTICIPEZ"
+      modal     : ""
+      link      : "https://easychair.org/conferences/?conf=fab16"
+    
+    - item      : item4
+      menu      : "FAB16 FAB World"
+      title     : "Participez au FAB World"
+      text      : "Nous souhaitons vous entendre sur les Projets FAB que vous développez avec votre communauté ! “Fab World” est une opportunité durant le FAB16 de présenter un exposé de 3 minutes à la communauté des Fabs Labs sur les projets, les initiatives, les équipes, les développements dans votre Fab Lab et votre communauté de Fab Labs. 
+                   Gardez à l'esprit que le thème de cette année est “Fabriquer les Communs”, en tablant sur comment nous pouvons produire et partager des connaissances et des outils basés sur la production pair-à-pair pour créer un avenir durable pour tous.
+                  <br><br>
+                  Intéressé à partager votre projet ? Utilisez le lien ci-dessous pour soumettre un projet! 
+                  "
+      buttontext: "Participez"
+      modal     : ""
+      link      : "https://docs.google.com/forms/d/e/1FAIpQLSdgkz5N_9zVF2ahDexaMAeYphnVK-uSv17YDHBG7geUjUTugA/viewform"
+    
+    - item      : item5
+      menu      : "Fab Festival"
+      title     : "Organisez un atelier au Fab Festival "
+      text      : "Le Fab Festival est un événement de deux jours (samedi et dimanche) ouvert au public. Des ateliers gratuits où les enfants, les jeunes et les moins jeunes auront la possibilité d'avoir leur première expérience des méthodologies de fabrication numérique. Un événement que vous ne pourrez certainement pas manquer !
+                  <br><br>
+                  Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>"
+      buttontext: ""
+      modal     : ""
+      link      : ""
+    
+    - item      : item6
+      menu      : "Devenir bénévole"
+      title     : "Devenir bénévole c'est ..."
+      text      : "<ul class='colorwhite'>
+                    <li>Être en contact avec des gens de cultures différentes</li>
+                    <li>Soutenir les participants durant la conférence en facilitant leur expérience</li>
+                    <li>Créer des liens avec d’autres bénévoles et acteurs du mouvement.</li>
+                  </ul>
+                  <p class='colorwhite'>
+                  <br><br>
+                  Veuillez remplir les informations suivantes afin de vous proposer en tant que bénévole durant les événements du FAB16.
+                  <br>
+                  C’est une opportunité de vous joindre au plus grand événement de fabrication numérique au monde.
+                  <br><br>
+                  Vous devez être autorisé par le gouvernement canadien à travailler légalement comme bénévole.
+                  <br><br>
+                  Intéressé à devenir bénévole ?
+                  </p>"
+      buttontext: "PARTICIPEZ"
+      modal     : ""
+      link      : "https://docs.google.com/forms/d/1czAd5srV-5iiZl7c1bpjrzMpZN45NdG6xi0Ffj95WdU/prefill"

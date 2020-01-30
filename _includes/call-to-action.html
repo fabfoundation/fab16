@@ -1,12 +1,46 @@
-<section class="bg-primary" id="about">
+<section id="subscribe" class="pad50bot backwhite">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Join this amazing event!</h2>
-                <hr class="light">
-                <p class="text-faded">Sign up for the FAB16 newsletter and access early bird discounts an much more!</p>
-                <a href="http://eepurl.com/gP8Ian" class="btn btn-default btn-xl">Subscribe</a>
+
+            <div class="col-lg-12 text-left">
+                <h2 class="section-heading colorgreen">{{site.data.cta[page.lang].title}}</h2>
+            </div>
+
+            <div class="col-lg-6 text-left">
+                <p class="text-faded colorgreen">{{site.data.cta[page.lang].text}}</p>
+            </div>
+
+            <div class="col-lg-6 text-center">
+
+                <button onclick="showMailingPopUp(); return false;" id="open-popup" class="btn btn-default btn-xl">{{site.data.cta[page.lang].button}}</button>
+
+                <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+                <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+                <script>
+                    function showMailingPopUp() {
+                      require(
+                        ["mojo/signup-forms/Loader"],
+                        function(L) {
+                          L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"703cd11616d78536ae5d303eb","lid":"c71df7883e"})
+                        }
+                      );
+
+                      document.cookie = 'MCPopupClosed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+                      document.cookie = 'MCPopupSubscribed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+                    }
+
+                    document.getElementById("open-popup").onclick = function() {showMailingPopUp()};
+                </script>
             </div>
         </div>
+
+        {% if page.title != "Home" %}
+            <br>
+            <br>
+            <br>
+            <hr>
+
+        {% endif %}
+
     </div>
 </section>

@@ -1,0 +1,48 @@
+<section id="about" class="pad0top pad0bot backwhite">
+    <div class="container pad50top">
+        <div class="row">
+            <div class="col-lg-12 text-center trackstitle colorgreen">
+                <br><br>
+                <h2 class="section-heading">{{ site.data.tracks[page.lang].title }}</h2>
+                <br>
+                {{ site.data.tracks[page.lang].text }}
+            </div>
+        </div>
+    </div>
+
+    <div class="container tracks backgrey marg25top marg0bot pad50bot">
+        <div class="container pad50top">
+            <div class="row">
+                <div class="col-lg-12 text-center trackstitle colorgreen">
+                    {{ site.data.tracks[page.lang].text2 }}
+                </div>
+            </div>
+        </div>
+
+        <div class="row resp-grid">
+            {% for track in site.data.tracks[page.lang].track %}
+                {% if forloop.index == 1 %}
+                    {% assign is_offset = "" %}
+                {% else %}
+                    {% assign is_offset = "" %}
+                {% endif %}
+
+                <div class="col-lg-4 col-md-6 text-center resp-grid-item colorgreen{{ is_offset }}">
+                    <div class="tracks-box">
+                        {% if track.img != "" %}
+                        <div class="tracks-box-img" style=""> <!-- overlay-image -->
+                            <img class="tracks-img" src="{{ track.img | relative_url}}" alt="{{track.title}}" style="/*position: relative;*/" /> <!-- image -->
+                            <div class="hover" style="">
+                                <img class="tracks-imghover" src="{{ track.imghover | relative_url}}" alt="{{track.title}}" style=" height: 100%; width: 100%;" />
+                            </div>
+                        </div>
+                        {% endif %}
+                        <h3>{{track.title}}</h3>
+                        <p class="text-muted colorgreen">{{track.description}}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</section>
