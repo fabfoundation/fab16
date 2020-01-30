@@ -1,0 +1,96 @@
+en:
+  title     : SPEAKERS
+  subtitle  : Meet our speakers
+  img       : "assets/img/services/FabConference.png"
+  comingsoon: "More speakers will be announced soon!"
+  speaker:
+    - img  : assets/img/speakers/NeilGershenfeld-square-opt.jpg
+      label: "Neil Gershenfeld"
+      title: "Director of MIT's Center for Bits and Atoms"
+      desc : "<p>
+              Prof. Neil Gershenfeld is the Director of MIT's Center for Bits and Atoms, where his unique laboratory is breaking down boundaries between the digital and physical worlds, from pioneering quantum computing to digital fabrication to the Internet of Things.
+              Technology from his lab has been seen and used in settings including New York's Museum of Modern Art and rural Indian villages, the White House and the World Economic Forum, inner-city community centers and automobile safety systems, Las Vegas shows and Sami herds.
+              <br><br>
+              He is the author of numerous technical publications, patents, and books including <a href='http://designingreality.org/' target='_blank'>Designing Reality</a>, <a href='http://books.google.com/books?id=Zw0j50HDwYUC&printsec=frontcover' target='_blank'>Fab</a>, <a href='http://books.google.com/books?id=EU0Fh97hmksC&printsec=frontcover' target='_blank'>When Things Start To Think</a>, <a href='http://books.google.com/books?id=lSTOh8U7NkkC&printsec=frontcover' target='_blank'>The Nature of Mathematical Modeling</a>, and <a href='http://books.google.com/books?id=22dZsOVFwrUC&printsec=frontcover' target='_blank'>The Physics of Information Technology</a>,
+              and has been featured in media such as The New York Times, <a href='http://www.economist.com/node/4031304' target='_blank'>The Economist</a>, <a href='http://hereandnow.wbur.org/2013/07/09/gabriel-interspecies-internet' target='_blank'>NPR</a>, <a href='http://www.cnn.com/video/?/video/bestoftv/2013/07/17/exp-gps-gershenfeld-3d-printing.cnn' target='_blank'>CNN</a>, and PBS.
+              He is a Fellow of the American Physical Society, has been named one of Scientific American's 50 leaders in science and technology, as one of 40 Modern-Day Leonardos by the Museum of Science and Industry, one of Popular Mechanic's 25 Makers, has been selected as a CNN/Time/Fortune Principal Voice, and by Prospect/Foreign Policy as one of the top 100 public intellectuals.
+              <br><br>
+              He's been called the intellectual father of the maker movement, founding a growing global network of over one thousand <a href='http://fab.cba.mit.edu/about/faq/''>fab labs</a> that provide widespread access to prototype tools for personal fabrication, directing the <a href='http://fabacademy.org/'' target='_blank'>Fab Academy</a> for distributed research and education in the principles and practices of digital fabrication, and chairing the <a href='http://fabfoundation.org/' target='_blank'>Fab Foundation</a>.
+              Dr. Gershenfeld has a BA in Physics with High Honors from Swarthmore College, a Ph.D. in Applied Physics from Cornell University, honorary doctorates from Swarthmore College, Strathclyde University and the University of Antwerp, was a Junior Fellow of the Harvard University Society of Fellows, and a member of the research staff at Bell Labs.
+            </p>"
+    - img  : assets/img/speakers/SherryLassiter-opt.jpg
+      label: "Sherry Lassiter"
+      title: "President & CEO, The Fab Foundation"
+      desc : "<p>
+              Sherry Lassiter is one of the architects of the MIT global initiative for field on-site technology development, the Fab Lab program.
+              A Fab Lab, or as users like to call it, fabulous laboratory, is a rapid prototyping platform for technical education, innovation, and personal expression.
+              <br><br>
+              The Fab Lab network includes over 1600 digital fabrication facilities in 120 countries.
+              Lassiter is Director of the Fab Foundation, a non-profit organization committed to building technical capacity in a locality, improving individuals’ abilities to develop themselves and their communities and bringing access to tools and knowledge that cultivate and support innovating practices.
+              After a two-decade career in science journalism as a producer, writer, and director for television series such as Scientific American Frontiers, Discover the World of Science, and The Science Times, she became a protagonist in science and technology, becoming part of the story, rather than just telling the story.
+              <br><br>As Program Manager for the NSF-funded Center for Bits & Atoms at MIT, she has seen and enabled the personal fabrication movement as it has grown and evolved. Today she serves as Director of the global Fab Lab Program at MIT as well as leading The Fab Foundation, the non-profit spinoff from MIT.
+              Lassiter is currently engaged in the deployment and growth of <a href='http://fabfoundation.org' target='_blank'>Fab Labs</a> around the world, enabling grassroots technology development by, for and of the community.
+            </p>"
+    - img  : assets/img/speakers/TomasDiez.jpg
+      label: "Tomàs Diez"
+      title: "Fab Cities, Iaac Barcelona"
+      desc : "<p>
+              Tomas Diez is a Venezuelan Urbanist specialized in digital fabrication and its implications in the future of cities and society.
+              He is co-founder of <a href='http://www.fablabbcn.org' target='_blank'>Fab Lab Barcelona</a> at the Institute for <a href='http://www.iaac.net' target='_blank'>Advanced Architecture of Catalonia (IAAC)</a>, and the director of the Fab City Research Laboratory, and the Director of the Master in Design for Emergent Futures at IAAC.
+              <br><br>
+              He leads the <a href='http://www.fab.city' target='_blank'>FAB City Global Initiative</a> in collaboration with an international team of thinkers and makers, and the European project manager for the <a href='http://www.fabfoundation.org' target='_blank'>Fab Foundation</a>. Tomas holds a Bachelor degree in Urban Planning and Sociology by the University Simon Bolivar (Caracas - Venezuela), a Diploma in social work at the University of La Havana (Cuba), a Master in Advanced Architecture by IAAC, and a Diploma in Digital Fabrication from a pilot program to kickstart the <a href='http://www.fabacademy.org' target='_blank'>Fab Academy</a> by completing the class «How to Make Almost Anything», offered by the MIT’s Center for Bits and Atoms in 2008.
+              He works as a close collaborator in the development of the Fab Lab Network together with MIT and the Fab Foundation.
+              <br><br>
+              Tomas co-founded the Exploring Emergent Futures platform in the Design Products department at the Royal College of Arts in London, and is co-founder of initiatives such as: the crowdsensing platform <a href='http://www.smartcitizen.me' target='_blank'>Smart Citizen</a>, the social network <a href='http://www.fablabs.io' target='_blank'>FabLabs.io</a>, and the artist residency <a href='http://www.studiop52.com' target='_blank'>StudioP52</a>; he has been the organiser and co-chair of the <a href='http://www.fab10.org' target='_blank'>FAB10 Barcelona</a>, the 10th international fab lab conference and annual meeting hosted by Fab Lab Barcelona (IAAC) in 2014.
+              Tomas has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch in 2013, and has been awarded by the Catalan ICT association as the entrepreneur of the year in 2014.
+              His research interests relate to the use of digital fabrication tools to transform the reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
+            </p>"
+  
+
+fr:
+  title     : CONFERENCIERS
+  subtitle  : Rencontrez nos conférenciers
+  img       : "assets/img/services/FabConference.png"
+  comingsoon: "Plus de conférenciers seront annoncés prochainement!"
+  speaker:
+    - img  : "assets/img/speakers/NeilGershenfeld-square-opt.jpg"
+      label: "Neil Gershenfeld"
+      title: "Directeur du MIT's Center for Bits and Atoms"
+      desc : "<p>
+              Prof. Neil Gershenfeld is the Director of MIT's Center for Bits and Atoms, where his unique laboratory is breaking down boundaries between the digital and physical worlds, from pioneering quantum computing to digital fabrication to the Internet of Things.
+              Technology from his lab has been seen and used in settings including New York's Museum of Modern Art and rural Indian villages, the White House and the World Economic Forum, inner-city community centers and automobile safety systems, Las Vegas shows and Sami herds.
+              <br><br>
+              He is the author of numerous technical publications, patents, and books including <a href='http://designingreality.org/' target='_blank'>Designing Reality</a>, <a href='http://books.google.com/books?id=Zw0j50HDwYUC&printsec=frontcover' target='_blank'>Fab</a>, <a href='http://books.google.com/books?id=EU0Fh97hmksC&printsec=frontcover' target='_blank'>When Things Start To Think</a>, <a href='http://books.google.com/books?id=lSTOh8U7NkkC&printsec=frontcover' target='_blank'>The Nature of Mathematical Modeling</a>, and <a href='http://books.google.com/books?id=22dZsOVFwrUC&printsec=frontcover' target='_blank'>The Physics of Information Technology</a>,
+              and has been featured in media such as The New York Times, <a href='http://www.economist.com/node/4031304' target='_blank'>The Economist</a>, <a href='http://hereandnow.wbur.org/2013/07/09/gabriel-interspecies-internet' target='_blank'>NPR</a>, <a href='http://www.cnn.com/video/?/video/bestoftv/2013/07/17/exp-gps-gershenfeld-3d-printing.cnn' target='_blank'>CNN</a>, and PBS.
+              He is a Fellow of the American Physical Society, has been named one of Scientific American's 50 leaders in science and technology, as one of 40 Modern-Day Leonardos by the Museum of Science and Industry, one of Popular Mechanic's 25 Makers, has been selected as a CNN/Time/Fortune Principal Voice, and by Prospect/Foreign Policy as one of the top 100 public intellectuals.
+              <br><br>
+              He's been called the intellectual father of the maker movement, founding a growing global network of over one thousand <a href='http://fab.cba.mit.edu/about/faq/''>fab labs</a> that provide widespread access to prototype tools for personal fabrication, directing the <a href='http://fabacademy.org/'' target='_blank'>Fab Academy</a> for distributed research and education in the principles and practices of digital fabrication, and chairing the <a href='http://fabfoundation.org/' target='_blank'>Fab Foundation</a>.
+              Dr. Gershenfeld has a BA in Physics with High Honors from Swarthmore College, a Ph.D. in Applied Physics from Cornell University, honorary doctorates from Swarthmore College, Strathclyde University and the University of Antwerp, was a Junior Fellow of the Harvard University Society of Fellows, and a member of the research staff at Bell Labs.
+            </p>"
+    - img  : "assets/img/speakers/SherryLassiter-opt.jpg"
+      label: "Sherry Lassiter"
+      title: "Présidente directrive générale de la Fab Foundation"
+      desc : "<p>
+              Sherry Lassiter is one of the architects of the MIT global initiative for field on-site technology development, the Fab Lab program.
+              A Fab Lab, or as users like to call it, fabulous laboratory, is a rapid prototyping platform for technical education, innovation, and personal expression.
+              <br><br>
+              The Fab Lab network includes over 1600 digital fabrication facilities in 120 countries.
+              Lassiter is Director of the Fab Foundation, a non-profit organization committed to building technical capacity in a locality, improving individuals’ abilities to develop themselves and their communities and bringing access to tools and knowledge that cultivate and support innovating practices.
+              After a two-decade career in science journalism as a producer, writer, and director for television series such as Scientific American Frontiers, Discover the World of Science, and The Science Times, she became a protagonist in science and technology, becoming part of the story, rather than just telling the story.
+              <br><br>As Program Manager for the NSF-funded Center for Bits & Atoms at MIT, she has seen and enabled the personal fabrication movement as it has grown and evolved. Today she serves as Director of the global Fab Lab Program at MIT as well as leading The Fab Foundation, the non-profit spinoff from MIT.
+              Lassiter is currently engaged in the deployment and growth of <a href='http://fabfoundation.org' target='_blank'>Fab Labs</a> around the world, enabling grassroots technology development by, for and of the community.
+            </p>"
+    - img  : "assets/img/speakers/TomasDiez.jpg"
+      label: "Tomàs Diez"
+      title: "Fab Cities, Iaac Barcelona"
+      desc : "<p>
+              Tomas Diez is a Venezuelan Urbanist specialized in digital fabrication and its implications in the future of cities and society.
+              He is co-founder of <a href='http://www.fablabbcn.org' target='_blank'>Fab Lab Barcelona</a> at the Institute for <a href='http://www.iaac.net' target='_blank'>Advanced Architecture of Catalonia (IAAC)</a>, and the director of the Fab City Research Laboratory, and the Director of the Master in Design for Emergent Futures at IAAC.
+              <br><br>
+              He leads the <a href='http://www.fab.city' target='_blank'>FAB City Global Initiative</a> in collaboration with an international team of thinkers and makers, and the European project manager for the <a href='http://www.fabfoundation.org' target='_blank'>Fab Foundation</a>. Tomas holds a Bachelor degree in Urban Planning and Sociology by the University Simon Bolivar (Caracas - Venezuela), a Diploma in social work at the University of La Havana (Cuba), a Master in Advanced Architecture by IAAC, and a Diploma in Digital Fabrication from a pilot program to kickstart the <a href='http://www.fabacademy.org' target='_blank'>Fab Academy</a> by completing the class «How to Make Almost Anything», offered by the MIT’s Center for Bits and Atoms in 2008.
+              He works as a close collaborator in the development of the Fab Lab Network together with MIT and the Fab Foundation.
+              <br><br>
+              Tomas co-founded the Exploring Emergent Futures platform in the Design Products department at the Royal College of Arts in London, and is co-founder of initiatives such as: the crowdsensing platform <a href='http://www.smartcitizen.me' target='_blank'>Smart Citizen</a>, the social network <a href='http://www.fablabs.io' target='_blank'>FabLabs.io</a>, and the artist residency <a href='http://www.studiop52.com' target='_blank'>StudioP52</a>; he has been the organiser and co-chair of the <a href='http://www.fab10.org' target='_blank'>FAB10 Barcelona</a>, the 10th international fab lab conference and annual meeting hosted by Fab Lab Barcelona (IAAC) in 2014.
+              Tomas has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch in 2013, and has been awarded by the Catalan ICT association as the entrepreneur of the year in 2014.
+              His research interests relate to the use of digital fabrication tools to transform the reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
+            </p>"

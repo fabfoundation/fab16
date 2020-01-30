@@ -1,40 +1,205 @@
-<section class="" id="travel">
+<section class="pad50bot" id="travel">
     <div class="container-fluid">
-        <div class="row">
-            <h1 class="mw-100 col-lg-12 col-md-12 col-sm-12 traveltitle">{{page.travel.title}}</h1>
-        </div>
-        <div class="row">
-            <div class="col-lg-6">
-                <img src="{{ page.travel.img | relative_url}}" class="img-responsive" alt="">
-            </div>
-            <div class="col-lg-6 text-right">
-                <p class="text-faded traveltext">{{page.travel.text}}</p>
-            </div>
-        </div>
-        <div class="row">
-            <ul class="col-lg-6">
-                <li>
-                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item1link}}" title="Coming Soon">{{page.travel.item1text}}</a>
-                </li>
-                <li>
-                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item2link}}" title="Coming Soon">{{page.travel.item2text}}</a>
-                </li>
-                <li>
-                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item3link}}" title="Coming Soon">{{page.travel.item3text}}</a>
-                </li>
-            </ul>
-            <ul class="col-lg-6">
-                <li>
-                    <a class="page-scroll travelmenu" href="{{page.travel.item4link}}">{{page.travel.item4text}}</a>
-                </li>
-                <li>
-                    <a class="page-scroll travelmenu-coming" href="{{page.travel.item5link}}" title="Coming Soon">{{page.travel.item5text}}</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</section>
-<section id="travelfooter" style="background-image: url({{ 'assets/img/footer-wo-logo.webp' | relative_url }});">
 
-    <img src="{{ 'assets/img/Logo2.webp' | relative_url }}" class="img-responsive" alt="">
+        {% if page.title == "Home" %}
+
+        <div class="row">
+            <h1 class="mw-100 col-lg-12 col-md-12 col-sm-12 traveltitle title colorgreen">{{ site.data.travel[page.lang].title}}</h1>
+        </div>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="{{ site.data.travel[page.lang].img_home | relative_url}}" class="img-responsive home" alt="{{ site.data.travel[page.lang].title}}">
+                </div>
+                <div class="col-lg-6 text-right colorgreen">
+                    <p class="traveltext colorgreen">{{ site.data.travel[page.lang].text}}</p>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <ul class="col-lg-6">
+
+                    <li>
+                        <a class="page-scroll travelmenu colorgreen" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item1id}}">{{ site.data.travel[page.lang].item1text}}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll travelmenu colorgreen" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item2id}}">{{ site.data.travel[page.lang].item2text}}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll travelmenu colorgreen" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item3id}}">{{ site.data.travel[page.lang].item3text}}</a>
+                    </li>
+                </ul>
+                <ul class="col-lg-6">
+                    <li>
+                        <a class="page-scroll travelmenu colorgreen" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item4id}}">{{ site.data.travel[page.lang].item4text}}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll travelmenu colorgreen" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item5id}}">{{ site.data.travel[page.lang].item5text}}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll travelmenu colorgreen" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item6id}}">{{ site.data.travel[page.lang].item6text}}</a>
+                    </li>
+                </ul>
+            </div>
+        {% else %}
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="{{ site.data.travel[page.lang].img | relative_url}}" class="img-responsive" alt="{{ site.data.travel[page.lang].title}}">
+                </div>
+                <div class="col-lg-6 text-right {{ page.color_class }}">
+                    <p class=" traveltext {{ page.color_class }}">{{ site.data.travel[page.lang].desc}}</p>
+
+                    <ul class="col-lg-6">
+
+                        <li>
+                            <a class="page-scroll travelmenupage {{ page.accent_color_class }}" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item1id}}">{{ site.data.travel[page.lang].item1text}}</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll travelmenupage {{ page.accent_color_class }}" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item2id}}">{{ site.data.travel[page.lang].item2text}}</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll travelmenupage {{ page.accent_color_class }}" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item3id}}">{{ site.data.travel[page.lang].item3text}}</a>
+                        </li>
+                    </ul>
+                    <ul class="col-lg-6">
+                        <li>
+                            <a class="page-scroll travelmenupage {{ page.accent_color_class }}" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item4id}}">{{ site.data.travel[page.lang].item4text}}</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll travelmenupage {{ page.accent_color_class }}" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item5id}}">{{ site.data.travel[page.lang].item5text}}</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll travelmenupage {{ page.accent_color_class }}" href="{{ site.baseurl }}{{ page.prefix }}{{ site.data.travel[page.lang].title}}/#{{ site.data.travel[page.lang].item6id}}">{{ site.data.travel[page.lang].item6text}}</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        {% endif %}
+
+        {% if page.title != "Home" %}
+
+            <!--<div class="row grid">-->
+            <div class="col-lg-6 col-md-6">
+                <!--<div class="col-lg-6 col-md-6 resp-grid-item">-->
+                <div class="col-lg-12 col-md-12">
+                    <p id="{{ site.data.travel[page.lang].item1id}}"></p>
+                    <br>
+                    <br>
+                    <br>
+                    <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item1text}}</p>
+                    <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item1desc}}</p>
+                    <div class="col-md-12 no-padding">
+
+                        {% if site.data.travel[page.lang].item1modal == "" and site.data.travel[page.lang].item1link != "" %}
+                          <a href="{{ site.data.travel[page.lang].item1link }}" class="btn btn-primary btn-xl registerlink" target="_blank">{{ site.data.travel[page.lang].item1button}}</a>
+
+                        {% elsif site.data.travel[page.lang].item1modal != "" %}
+
+                          <a href="#" data-toggle="modal" data-target="#myModal21" class="float-right btn btn-primary btn-xl registerlink">{{ site.data.travel[page.lang].item1button}}</a>
+
+                          <div id="myModal21" class="modal fade" role="dialog">
+                            <div class="modal-dialog">
+
+                              <div class="modal-content details-popup">
+                                <div class="col-lg-12 portfolio-box text-center">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+                                </div>
+
+                                <div class="modal-header">
+
+                                </div>
+                                <div class="modal-body embed">
+                                  <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe  src="{{ site.data.travel[page.lang].item1modal }}" class="embed-responsive-item" allowfullscreen="allowfullscreen" gesture="media" allow="encrypted-media"  ></iframe>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                </div>
+                              </div>
+
+                            </div>
+                          </div>
+                        {% endif %}
+                    </div>
+                </div>
+
+                <!--<div class="col-lg-6 col-md-6 resp-grid-item">-->
+                <div class="col-lg-12 col-md-12">
+                    <p id="{{ site.data.travel[page.lang].item3id}}"></p>
+                    <br>
+                    <br>
+                    <br>
+                    <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item3text}}</p>
+                    <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item3desc}}</p>
+                    <div class="col-md-12 no-padding">
+                        <a href="{{ site.data.travel[page.lang].item3link }}" class="btn btn-primary btn-xl registerlink" target="_blank">{{ site.data.travel[page.lang].item3button}}</a>
+                    </div>
+                </div>
+
+                <!--<div class="col-lg-6 col-md-6 resp-grid-item">-->
+                <div class="col-lg-12 col-md-12">
+                    <p id="{{ site.data.travel[page.lang].item6id}}"></p>
+                    <br>
+                    <br>
+                    <br>
+                    <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item6text}}</p>
+                    <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item6desc}}</p>
+                    <!--<div class="col-md-12 no-padding">
+                        <a href="{{ site.baseurl }}{{ site.data.travel[page.lang].item6link }}" class="btn btn-primary btn-xl registerlink">{{ site.data.travel[page.lang].item6button}}</a>
+                    </div>-->
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6">
+
+                <!--<div class="col-lg-6 col-md-6 resp-grid-item">-->
+                <div class="col-lg-12 col-md-12">
+                    <p id="{{ site.data.travel[page.lang].item2id}}"></p>
+                    <br>
+                    <br>
+                    <br>
+                    <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item2text}}</p>
+                    <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item2desc}}</p>
+                    <!--<div class="col-md-12 no-padding">
+                        <a href="{{ site.data.travel[page.lang].item2link }}" target="_blank" class="btn btn-primary btn-xl registerlink">{{ site.data.travel[page.lang].item2button}}</a>
+                    </div>-->
+                </div>
+
+                <!--<div class="col-lg-6 col-md-6 resp-grid-item">-->
+                <div class="col-lg-12 col-md-12">
+                    <p id="{{ site.data.travel[page.lang].item4id}}"></p>
+                    <br>
+                    <br>
+                    <br>
+                    <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item4text}}</p>
+                    <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item4desc}}</p>
+                    <div class="col-md-12 no-padding">
+                        <a href="{{ site.data.travel[page.lang].item4link }}" class="btn btn-primary btn-xl registerlink" target="_blank">{{ site.data.travel[page.lang].item4button}}</a>
+                    </div>
+                    <br><br>
+                    <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item4desc2}}</p>
+                </div>
+
+                <!--<div class="col-lg-6 col-md-6 resp-grid-item">-->
+                <div class="col-lg-12 col-md-12">
+                    <p id="{{ site.data.travel[page.lang].item5id}}"></p>
+                    <br>
+                    <br>
+                    <br>
+                    <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item5text}}</p>
+                    <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item5desc}}</p>
+                    <!--<div class="col-md-12 no-padding">
+                        <a href="{{ site.data.travel[page.lang].item5link }}" class="btn btn-primary btn-xl registerlink">{{ site.data.travel[page.lang].item5button}}</a>
+                    </div>-->
+                    <img src="{{ site.data.travel[page.lang].img_bis | relative_url}}" class="img-responsive" alt="{{ site.data.travel[page.lang].title}}">
+                </div>
+
+                
+            </div>
+
+        {% endif %}
+
+    </div>
 </section>

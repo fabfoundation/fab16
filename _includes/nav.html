@@ -1,35 +1,30 @@
-
-<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+<nav id="mainNav" class="navbar navbar-default navbar-fixed-top backgreen">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
+            <!-- Collapse button -->
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
+                <div class="animated-icon2">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </div>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">FAB 16</a>
+
+            <a class="navbar-brand page-scroll colorgrey" href="{{ site.baseurl}}{{site.data.locales[page.lang].homelink}}">FAB16</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
+
+                {% for menu in site.data.locales[page.lang].menu %}
                 <li>
-                    <a class="page-scroll" href="{{page.menu.item1link}}">{{page.menu.item1text}}</a>
+                    <a class="page-scroll {{ menu.class }}" href="{{ site.baseurl }}{{ menu.link }}">{{ menu.text }}</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="{{page.menu.item2link}}">{{page.menu.item2text}}</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{page.menu.item3link}}">{{page.menu.item3text}}</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="{{page.menu.item4link}}">{{page.menu.item4text}}</a>
-                </li>
-                <li>
-                    <a class="page-scroll registerbutton" href="{{page.menu.item5link}}">{{page.menu.item5text}}</a>
-                </li>
+                {% endfor %}
+
                 <li>
                     {% for block in site.data.map %}
                         {% for item in block[page.lang] %}
@@ -40,9 +35,9 @@
 
                                     {% for item in posts %}
                                         {% if item.path == page.path %}
-                                            <!--<a hreflang="{{item.lang}}" class="active" style="display: inline-block; margin-left:0;">{{site.data.locales[item.lang].title}}</a>-->
+                                            <!--<a hreflang="{{item.lang}}" class="active" >{{site.data.locales[item.lang].title}}</a>-->
                                         {% else %}
-                                            <a hreflang="{{item.lang}}" href="{{item.url|absolute_url}}" style="/*display: inline-block; margin-right:0;*/">{{site.data.locales[item.lang].title}}</a>
+                                            <a hreflang="{{item.lang}}" href="{{item.url|absolute_url}}">{{site.data.locales[item.lang].title}}</a>
                                         {% endif %}
                                     {% endfor %}
 
@@ -50,9 +45,9 @@
 
                                     {% for item in pages %}
                                         {% if item.path == page.path %}
-                                            <!--<a hreflang="{{item.lang}}" class="active" style="display: inline-block; margin-left:0;">{{site.data.locales[item.lang].title}}</a>-->
+                                            <!--<a hreflang="{{item.lang}}" class="active">{{site.data.locales[item.lang].title}}</a>-->
                                         {% else %}
-                                            <a hreflang="{{item.lang}}" href="{{item.url|absolute_url}}" style="/*display: inline-block; margin-right:0;*/">{{site.data.locales[item.lang].title}}</a>
+                                            <a hreflang="{{item.lang}}" href="{{item.url|absolute_url}}">{{site.data.locales[item.lang].title}}</a>
                                         {% endif %}
                                     {% endfor %}
 
