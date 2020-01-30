@@ -23,7 +23,7 @@ image:
 
 google_analytics: UA—XXXXXXXX-X
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: ""
 
 twitter_username: "fab16"
