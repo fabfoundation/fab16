@@ -2,7 +2,7 @@ en:
   title   : EN
   homelink: ""
   menu:
-    - text : "About"
+    - text : "Abbbout"
       link : "/#about"
       class: ""
     - text : "Speakers"
