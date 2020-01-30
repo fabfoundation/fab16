@@ -6,23 +6,25 @@
     <meta name="description" content="FAB16 Montreal is the annual gathering of the global Fablab network ">
     <meta name="author" content="FAB16 Team">
 
-    <title>FAB16 Montreal<br>July 27-Aug 2, 2020</title>
+    <title>FAB16 Montreal</title>
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="{{'static/css/bootstrap.min.css' | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{'assets/css/bootstrap.min.css' | relative_url }}" type="text/css">
+
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico?' | relative_url }}">
 
     <!-- Custom Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{'static/font-awesome/css/font-awesome.min.css' | relative_url}}" type="text/css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="{{'static/css/material.css' | relative_url}}" type="text/css">
+    <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>-->
+    <!--<link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>-->
+    <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">-->
+    <link rel="stylesheet" href="{{'assets/font-awesome/css/font-awesome.min.css' | relative_url}}" type="text/css">
+    <!--<link rel="stylesheet" href="{{'assets/css/material.css' | relative_url}}" type="text/css">-->
 
     <!-- Plugin CSS -->
-    <link rel="stylesheet" href="{{'static/css/animate.min.css' | relative_url}}" type="text/css">
+    <!--<link rel="stylesheet" href="{{'assets/css/animate.min.css' | relative_url}}" type="text/css">-->
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{'css/main.css' | relative_url}}" type="text/css">
+    <link rel="stylesheet" href="{{'assets/css/main.css' | relative_url}}" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -30,5 +32,52 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    {% if page.is_post %}
+      {% assign type = "article" %}
+    {% else %}
+      {% assign type = "website" %}
+    {% endif %}
+    <!-- http://ogp.me/ -->
+    <meta property="og:type" content="{{ type }}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
+    {% if page.image.path %}
+    <meta property="og:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}" />
+    <meta property="og:image:width" content="{{ page.image.width }}" />
+    <meta property="og:image:height" content="{{ page.image.height }}" />
+    {% else %}
+    <meta property="og:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ site.image.path }}" />
+    <meta property="og:image:width" content="{{ site.image.width }}" />
+    <meta property="og:image:height" content="{{ site.image.height }}" />
+    {% endif %}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="next-head-count" content="10" />
+
+
+    {%comment%} check for the presence of the path in an array of paths. {%endcomment%}
+
+{% for block in site.data.map %}
+{% for item in block[page.lang] %}
+{% if item == page.path %}
+{% for trans in block %}
+{% assign trans_path = trans[1] %}
+
+{% assign posts = site.posts | where:"path",trans_path %} 
+{% for item in posts %}
+<link rel="alternate" hreflang="{{item.lang}}" href="{{item.url|absolute_url}}" />
+{% endfor %}
+
+{% assign pages = site.pages | where:"path",trans_path %} 
+{% for item in pages %}
+<link rel="alternate" hreflang="{{item.lang}}" href="{{item.url|absolute_url}}" />
+{% endfor %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% endfor %}
 
 </head>

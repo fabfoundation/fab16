@@ -1,0 +1,144 @@
+en:
+  currency      : "$"
+  currency2     : "(USD)"
+  titletotal    : ""
+  subtitletotal : "Registration tickets cover entrance to the Fab Conference and evening events, and includes entrance to the Fab City Summit and Fab Festival. This ticket does not cover other travel costs.
+                  <br><br>
+                  <em>IMPORTANT NOTICE : If you are planning to lead a workshop, we are offering you a discount of $100 on the full registration cost. HOWEVER, your workshop must be approved <u>before</u> you can receive a discount code. If you purchase your ticket before being approved, the discount cannot be applied later. 
+                  </em>"
+
+  subtitletotal2 : "<br><br>
+                  <em>There are no refunds on any ticket sales.
+                  </em>
+                  <br><br>
+                  For any questions, feel free to contact us at <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>.
+                  <br><br>
+                  "
+  title1day      : "1-DAY Tickets"
+
+  ticket:
+    #- price: "450"
+    #  title: "FULL ACCESS Early bird"
+    #  item1: "Prix Réduit - jusqu'au 30 avril 2020"
+    #  item2: "ACCES TOTAL"
+    #  item3: "inclus le Sommet Fab City"
+    #  item4: ""
+    #  buttontext: "Réservez votre billet"
+    #  buttonlink: "#tickets"
+    
+    - price          : "450"
+      pass_fr        : ""
+      title          : "FULL<br>ACCESS"
+      pass           : "PASS"
+      img            : "assets/img/tickets/ticket1.png"
+      sale           : ""
+      salecaption    : ""
+      item1          : "EARLY BIRD FEE "
+      item2          : "includes Fab City Summit"
+      item3          : " "
+      item4          : "(750$ (USD) Regular price from May 1st)"
+      buttontext     : "Get your ticket"
+      buttonlink     : "#tickets"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=f0236146-3488-4e2a-a6e9-cabc3554284b"
+    
+    - price          : "150"
+      pass_fr        : ""
+      title          : "<br>1 DAY"
+      pass           : "PASS"
+      img            : "assets/img/tickets/ticket2.png"
+      sale           : ""
+      salecaption    : ""
+      item1          : " "
+      item2          : " "
+      item3          : " "
+      item4          : " "
+      buttontext     : "Get your ticket"
+      buttonlink     : "#tickets"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=e90ab693-6ddd-467e-a4cd-8ab0d9bf2e3f"
+    
+    - price          : "75"
+      pass_fr        : ""
+      title          : "STUDENTS SPECIAL 1 DAY"
+      pass           : "PASS"
+      img            : "assets/img/tickets/ticket3.png"
+      sale           : ""
+      salecaption    : ""
+      item1          : " "
+      item2          : " "
+      item3          : " "
+      item4          : " "
+      buttontext     : "Get your ticket"
+      buttonlink     : "#tickets"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=e4286ade-8e7f-4cd7-bb69-227722679743"
+
+fr:
+  currency      : "$"
+  currency2     : "(USD)"
+  titletotal    : ""
+  subtitletotal : "Les billets vous donnent accès aux événements de la conférence FAB 16 ainsi qu’aux événements en soirée, incluant l’entrée au Fab City Summit et au Fab Festival. Votre billet ne comprend pas les autres coûts de votre voyage.
+                  <br><br>
+                  <em>NOTE IMPORTANTE : Si vous planifiez de devenir animateur d’atelier, nous vous offrons un rabais de 100$ (USD) sur le prix du  billet “ ACCES COMPLET”. CEPENDANT, votre atelier doit être approuvé <u>avant</u> de recevoir votre code de rabais. Si vous achetez votre billet avant d’être approuvé, le rabais ne s’appliquera plus. 
+                  </em>"
+  subtitletotal2: "<br><br>
+                  <em>Nous ne faisons aucun remboursement sur les billets et passes vendus.
+                  </em><br><br>
+                  Pour toutes questions n’hésitez pas à nous contacter <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>.
+                  <br><br>
+                  "
+  title1day     : "Les tickets JOURNEE"
+
+  ticket:
+    #- price: "450"
+    #  title: "FULL ACCESS Early bird"
+    #  item1: "Prix Réduit - jusqu'au 30 avril 2020"
+    #  item2: "ACCES TOTAL"
+    #  item3: "inclus le Sommet Fab City"
+    #  item4: ""
+    #  buttontext: "Réservez votre billet"
+    #  buttonlink: "#tickets"
+    - price          : "450"
+      pass_fr        : "PASSE"
+      title          : "ACCÈS COMPLET"
+      pass           : ""
+      img            : "assets/img/tickets/ticket1.png"
+      sale           : ""
+      salecaption    : ""
+      item1          : "TARIF HÂTIF"
+      item2          : "incluant le Sommet Fab City"
+      item3          : "<em>750$ (USD) tarif plein à partir du 1er mai</em>"
+      item4          : " "
+      buttontext     : "Réservez votre billet"
+      buttonlink     : "#tickets"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=96f3b206-4299-4b57-a0b8-06df294edb49"
+
+    - price          : "150"
+      pass_fr        : "PASSE"
+      title          : "1 JOUR"
+      pass           : ""
+      img            : "assets/img/tickets/ticket2.png"
+      sale           : ""
+      salecaption    : ""
+      item1          : " "
+      item2          : " "
+      item3          : " "
+      item4          : " "
+      buttontext     : "Réservez votre billet"
+      buttonlink     : "#tickets"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=eeed4369-2a19-492c-b819-2dab084ee5b9"
+
+    - price          : "75"
+      pass_fr        : "PASSE"
+      title          : "1 JOUR SPÉCIAL ÉTUDIANT"
+      pass           : ""
+      img            : "assets/img/tickets/ticket3.png"
+      sale           : ""
+      salecaption    : ""
+      item1          : " "
+      item2          : " "
+      item3          : " "
+      item4          : " "
+      buttontext     : "Réservez votre billet"
+      buttonlink     : "#tickets"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=486a12e1-8db7-47ef-a9ed-830975fdfe5e"
+
+

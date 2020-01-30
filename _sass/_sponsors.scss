@@ -1,0 +1,19 @@
+.sponsors {
+  .portfolio-box {
+    max-height: 100px;
+    img {
+      max-width: 85%;
+      max-height: 100px;
+      margin: auto;
+    }
+  }
+}
+
+section#footer {
+  position: relative;
+  //height: 100%;
+  img.fab16logo {
+    float:right;
+    width: 150px;
+  }
+}
