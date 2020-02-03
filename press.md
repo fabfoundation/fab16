@@ -13,13 +13,13 @@ img: ""
 
 <p class="{{ color_class }}">
 <br>
-Everything you need to know to cover FAB16 and FAB CITY Events as a member of the press.
+Everything you need to know to cover FAB16 events and Fab City Summit as a member of the press.
 <br><br>
 </p>
 
 
 <p class="{{ color_class }}">
-	<strong>Contact & accreditation :</strong>
+	<strong>Contact & Accreditation :</strong>
 	<br><br>
 	Maxime Depasse (<a href='mailto:maxime.depasse@communautique.quebec'>maxime.depasse@communautique.quebec</a>)
 	<br>

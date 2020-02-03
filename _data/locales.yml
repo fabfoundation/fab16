@@ -1,6 +1,6 @@
 en:
   title   : EN
-  homelink: ""
+  homelink: "/"
   menu:
     - text : "About"
       link : "/#about"
@@ -34,9 +34,9 @@ en:
     - text : "Privacy policy"
       link : "/privacy-policy"
       class: ""
-    - text : "Sustainability"
-      link : "/sustainability"
-      class: ""
+    #- text : "Sustainability"
+    #  link : "/sustainability"
+    #  class: ""
     - text : "Press"
       link : "/press"
       class: ""
@@ -48,9 +48,9 @@ en:
 
 fr:
   title   : FR
-  homelink: "fr"
+  homelink: "/fr/"
   menu:
-    - text : "A propos"
+    - text : "À propos"
       link : "/fr/#about"
       class: ""
     - text : "Conférenciers"
@@ -82,9 +82,9 @@ fr:
     - text : "Politique de confidentialité"
       link : "/fr/politique-de-confidentialite"
       class: ""
-    - text : "Ecoresponsabilité"
-      link : "/fr/durabilite"
-      class: ""
+    #- text : "Ecoresponsabilité"
+    #  link : "/fr/durabilite"
+    #  class: ""
     - text : "Presse"
       link : "/fr/presse"
       class: ""

@@ -11,7 +11,7 @@ img: ""
 
 ---
 
-This privacy policy describes how we collect, use and disclose your personal information and how this personal information can be consulted and corrected when necessary. This policy also explains how cookies are used on our Website. By visiting www.fab16.org (the “Website”), contacting us or agreeing to receive emails from FAB16 Montréal, The Fab Foundation, and The Fab Lab Network you accept the terms and conditions of this policy. This policy does not extend to websites operated by third parties. Fab16 Montréal is therefore not liable for their privacy policies, procedures, and practices. 
+This privacy policy describes how we collect, use and disclose your personal information and how this personal information can be consulted and corrected when necessary. This policy also explains how cookies are used on our Website. By visiting www.fab16.org (the “Website”), contacting us or agreeing to receive emails from FAB16 Montréal, The Fab Foundation, and The Fab Lab Network you accept the terms and conditions of this policy. This policy does not extend to websites operated by third parties. FAB16 Montréal is therefore not liable for their privacy policies, procedures, and practices. 
 
 ## Personal Information Collected
 
@@ -36,7 +36,7 @@ According to the Organic Law 3/2018 of December 5, about the protection of perso
 
 We use and disclose your personal information mainly: 
 - To answer questions and information requests 
-- To analyze the field of interest and demography of participants of Fab16 Montréal 
+- To analyze the field of interest and demography of participants of FAB16 Montréal 
 - For the purposes of marketing, advertising, promotion or contests, in accordance with applicable laws 
 - For any other purposes authorized or required by law. 
 
@@ -46,7 +46,7 @@ When we disclose your personal information to third parties, we take reasonable 
 
 Your personal information shall be stored on servers located within Canada and the United States of America. 
 
-Please take into consideration that by completing the invitation letter form, the data collected will only be used for the purpose of helping you secure a visa and travel. The only data we may use for the purposes of the FABx Event is your Nationality, as a record of countries that come to this type of event. Also, by subscribing to the Fab16 Montréal website, you are opting into the FAB16 Subscribers List under our newsletter provider, and added to the Fab Lab Network list, receiving updates from the Fab Lab Network.
+Please take into consideration that by completing the invitation letter form, the data collected will only be used for the purpose of helping you secure a visa and travel. The only data we may use for the purposes of the FABx Event is your Nationality, as a record of countries that come to this type of event. Also, by subscribing to the FAB16 Montréal website, you are opting into the FAB16 Subscribers List under our newsletter provider, and added to the Fab Lab Network list, receiving updates from the Fab Lab Network.
 
 On written request and subject to proof of identity, you may consult the personal information that we have disclosed, and ask that any necessary corrections be made, where applicable, as authorized or required by law. However, to make sure that the personal information we maintain about you is accurate and up to date, please inform us immediately of any change in your personal information. 
 

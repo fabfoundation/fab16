@@ -9,11 +9,14 @@
   }
 }
 
-section#footer {
+section#footer, section#donate {
   position: relative;
   //height: 100%;
   img.fab16logo {
     float:right;
     width: 150px;
   }
+}
+.community.resp-grid-item:last-child {
+  //min-width: 400px;
 }

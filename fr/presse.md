@@ -14,12 +14,12 @@ img: ""
 
 <p class="{{ color_class }}">
 	<br>
-	Tout ce que vous avez besoin pour couvrir les événements FAB16 et FAB CITY en tant que professionnel de la presse.
+	Tout ce dont vous avez besoin pour couvrir les événements FAB16 et Fab City Summit en tant que professionnel de la presse.
 	<br><br>
 </p>
 
 <p class="{{ color_class }}">
-	<strong>Contact et accreditation :</strong>
+	<strong>Contact et accréditation :</strong>
 	<br><br>
 	Maxime Depasse (<a href='mailto:maxime.depasse@communautique.quebec'>maxime.depasse@communautique.quebec</a>)
 	<br>

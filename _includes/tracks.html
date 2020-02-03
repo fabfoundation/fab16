@@ -31,7 +31,7 @@
                     <div class="tracks-box">
                         {% if track.img != "" %}
                         <div class="tracks-box-img" style=""> <!-- overlay-image -->
-                            <img class="tracks-img" src="{{ track.img | relative_url}}" alt="{{track.title}}" style="/*position: relative;*/" /> <!-- image -->
+                            <img class="tracks-img" src="{{ track.img | relative_url}}" alt="{{track.title}}" />
                             <div class="hover" style="">
                                 <img class="tracks-imghover" src="{{ track.imghover | relative_url}}" alt="{{track.title}}" style=" height: 100%; width: 100%;" />
                             </div>

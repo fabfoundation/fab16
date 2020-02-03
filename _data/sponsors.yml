@@ -1,5 +1,5 @@
 en:
-  thankstitle           : "Thanks to all our partners and sponsors"
+  thankstitle           : "Thanks to all our partners"
   hosttitle             : "Hosted by"
   communitypartnerstitle: "Community Partners"
   sponsorstitle         : "Sponsored by"
@@ -22,13 +22,13 @@ en:
       url: https://fablabbcn.org/
     - img: assets/img/sponsors/logo_TourismeMontreal-opt.png
       url: https://www.mtl.org/en
-    - img: assets/img/sponsors/logo_The Cube Logo Red-opt.png
+    - img: assets/img/sponsors/logo_The-Cube-Logo-Red-opt.png
       url: http://uprint3d.xyz/
     - img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
       url: https://thefactory.mcgilleus.ca/
     - img: assets/img/sponsors/logo_McGillEngine-opt.png
       url: https://www.mcgill.ca/engine/
-    - img: assets/img/sponsors/logo_Musculoskeletal_Biomechanics_McGill2.jpg
+    - img: assets/img/sponsors/MCGILL-BIOMECHANICS.png
       url: https://www.mcgill.ca/mbr/
 
   sponsors:
@@ -37,7 +37,7 @@ en:
     - img: assets/img/sponsors/chevron-logo-horiz-opt.png
       url: https://www.chevron.com/
   government:
-    - img: assets/img/sponsors/logo_Montréal.svg
+    - img: assets/img/sponsors/MTL.png
       url: https://montreal.ca/en/
     - img: assets/img/sponsors/logo_GouvernementDuQuebec-opt.png
       url: https://www.quebec.ca/
@@ -46,7 +46,7 @@ fr:
   thankstitle           : "Merci à tous nos partenaires et commanditaires"
   hosttitle             : "Accueilli par"
   communitypartnerstitle: "Partenaires de la communauté"
-  sponsorstitle         : "Commandité par"
+  sponsorstitle         : "Soutenu par"
   governmenttitle       : "Gouvernement"
   host:
     - img: assets/img/sponsors/logo_FabFoundation-opt.png
@@ -66,13 +66,13 @@ fr:
       url: https://fablabbcn.org/
     - img: assets/img/sponsors/logo_TourismeMontreal-opt.png
       url: https://www.mtl.org/
-    - img: assets/img/sponsors/logo_The Cube Logo Red-opt.png
+    - img: assets/img/sponsors/logo_The-Cube-Logo-Red-opt.png
       url: http://uprint3d.xyz/
     - img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
       url: https://thefactory.mcgilleus.ca/
     - img: assets/img/sponsors/logo_McGillEngine-opt.png
       url: https://www.mcgill.ca/engine/
-    - img: assets/img/sponsors/logo_Musculoskeletal_Biomechanics_McGill2.jpg
+    - img: assets/img/sponsors/MCGILL-BIOMECHANICS.png
       url: https://www.mcgill.ca/mbr/
   sponsors:
     - img: assets/img/sponsors/logo_trotec2-opt.png
@@ -80,7 +80,7 @@ fr:
     - img: assets/img/sponsors/chevron-logo-horiz-opt.png
       url: https://www.chevron.com/
   government:
-    - img: assets/img/sponsors/logo_Montréal.svg
+    - img: assets/img/sponsors/MTL.png
       url: https://montreal.ca/
     - img: assets/img/sponsors/logo_GouvernementDuQuebec-opt.png
       url: https://www.quebec.ca/

@@ -2,7 +2,9 @@ en:
   currency      : "$"
   currency2     : "(USD)"
   titletotal    : ""
-  subtitletotal : "Registration tickets cover entrance to the Fab Conference and evening events, and includes entrance to the Fab City Summit and Fab Festival. This ticket does not cover other travel costs.
+  subtitletotal : "The “full access” ticket includes the FAB16 event, evening activities and the Fab City Summit event.
+                  <br><br>
+                  Tickets do not include other costs of your trip.
                   <br><br>
                   <em>IMPORTANT NOTICE : If you are planning to lead a workshop, we are offering you a discount of $100 on the full registration cost. HOWEVER, your workshop must be approved <u>before</u> you can receive a discount code. If you purchase your ticket before being approved, the discount cannot be applied later. 
                   </em>"
@@ -75,14 +77,16 @@ fr:
   currency      : "$"
   currency2     : "(USD)"
   titletotal    : ""
-  subtitletotal : "Les billets vous donnent accès aux événements de la conférence FAB 16 ainsi qu’aux événements en soirée, incluant l’entrée au Fab City Summit et au Fab Festival. Votre billet ne comprend pas les autres coûts de votre voyage.
+  subtitletotal : "Le billet “accès complet” inclus l’événement FAB16, les activités en soirée et l’événement Fab City Summit.
+                  <br><br>
+                  Les billets ne comprennent pas les autres coûts de votre voyage.
                   <br><br>
                   <em>NOTE IMPORTANTE : Si vous planifiez de devenir animateur d’atelier, nous vous offrons un rabais de 100$ (USD) sur le prix du  billet “ ACCES COMPLET”. CEPENDANT, votre atelier doit être approuvé <u>avant</u> de recevoir votre code de rabais. Si vous achetez votre billet avant d’être approuvé, le rabais ne s’appliquera plus. 
                   </em>"
   subtitletotal2: "<br><br>
-                  <em>Nous ne faisons aucun remboursement sur les billets et passes vendus.
+                  <em>Nous ne faisons aucun remboursement sur les billets vendus.
                   </em><br><br>
-                  Pour toutes questions n’hésitez pas à nous contacter <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>.
+                  Pour toutes questions n’hésitez pas à nous écrire à l'adresse courriel <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>.
                   <br><br>
                   "
   title1day     : "Les tickets JOURNEE"
@@ -103,7 +107,7 @@ fr:
       img            : "assets/img/tickets/ticket1.png"
       sale           : ""
       salecaption    : ""
-      item1          : "TARIF HÂTIF"
+      item1          : "TARIF LEVE-TÔT"
       item2          : "incluant le Sommet Fab City"
       item3          : "<em>750$ (USD) tarif plein à partir du 1er mai</em>"
       item4          : " "

@@ -12,7 +12,7 @@ img: ""
 
 ---
 
-La présente politique de confidentialité décrit la manière dont nous recueillons, utilisons et divulguons vos informations personnelles et la manière dont ces informations peuvent être consultées et corrigées si nécessaire. Cette politique explique également comment les cookies sont utilisés sur notre site web. En visitant www.fab16.org (le "site Web"), en nous contactant ou en acceptant de recevoir des courriels de FAB16 Montréal, de la Fondation The Fab et du réseau The Fab Lab, vous acceptez les termes et conditions de cette politique. Cette politique ne s'étend pas aux sites Web exploités par des tiers. FAB16 Montréal n'est donc pas responsable de leurs politiques, procédures et pratiques en matière de protection de la vie privée.
+La présente politique de confidentialité décrit la manière dont nous recueillons, utilisons et divulguons vos informations personnelles et la manière dont ces informations peuvent être consultées et corrigées si nécessaire. Cette politique explique également comment les cookies sont utilisés sur notre site web. En visitant www.fab16.org (le "site Web"), en nous contactant ou en acceptant de recevoir des courriels de FAB16 Montréal, de la Fab Foundation et du réseau des Fab Labs, vous acceptez les termes et conditions de cette politique. Cette politique ne s'étend pas aux sites Web exploités par des tiers. FAB16 Montréal n'est donc pas responsable de leurs politiques, procédures et pratiques en matière de protection de la vie privée.
 
 ## Renseignements personnels recueillis
 
@@ -26,7 +26,7 @@ Nous recueillons également des données relatives à votre visite sur le site w
 
 ### 3. Stockage des données
  
-Conformément à la loi organique 3/2018 du 5 décembre, relative à la protection des données personnelles et aux garanties des droits numériques, qui est conforme au règlement général sur la protection des données 2016/679. Nous vous informons que les données personnelles demandées dans nos formulaires ou qui peuvent nous être fournies au moyen de nos adresses électroniques seront ajoutées à nos fichiers de données personnelles appartenant au Fab Lab Network SL, et à la FAB FOUNDATION, 50 Milk St., 16th Floor, Boston, MA 02109, USA, dont le but est de maintenir le contact avec vous.
+Conformément à l’Organic Law 3/2018 du 5 décembre, relative à la protection des données personnelles et aux garanties des droits numériques, qui est conforme au règlement général sur la protection des données 2016/679. Nous vous informons que les données personnelles demandées dans nos formulaires ou qui peuvent nous être fournies au moyen de nos adresses électroniques seront ajoutées à nos fichiers de données personnelles appartenant au Fab Lab Network SL, et à la FAB FOUNDATION, 50 Milk St., 16th Floor, Boston, MA 02109, USA, dont le but est de maintenir le contact avec vous.
  
 
 
@@ -37,7 +37,7 @@ Conformément à la loi organique 3/2018 du 5 décembre, relative à la protecti
 
 Nous utilisons et divulguons principalement vos informations personnelles : 
 - Pour répondre aux questions et aux demandes d'information 
-- Analyser le champ d'intérêt et la démographie des participants de FAB16 Montréal 
+- Analyser le champ d'intérêt et la démographie des participants du FAB16 Montréal 
 - Aux fins de marketing, de publicité, de promotion ou de concours, conformément aux lois applicables
 - Pour toute autre fin autorisée ou requise par la loi. 
 
@@ -47,7 +47,7 @@ Lorsque nous divulguons vos informations personnelles à des tiers, nous prenons
 
 Vos informations personnelles sont stockées sur des serveurs situés au Canada et aux États-Unis d'Amérique. 
 
-Veuillez prendre en considération qu'en remplissant le formulaire de lettre d'invitation, les données recueillies ne seront utilisées que dans le but de vous aider à obtenir un visa et à voyager. Les seules données que nous pouvons utiliser pour les besoins de l'événement FABx sont votre nationalité, en tant que registre des pays qui viennent à ce type d'événement. De plus, en vous inscrivant sur le site web de FAB16 Montréal, vous choisissez d'être inscrit sur la liste des abonnés de FAB16 sous notre fournisseur de newsletter, et ajouté à la liste du réseau Fab Lab, recevant ainsi les mises à jour du réseau Fab Lab.
+Veuillez prendre en considération qu'en remplissant le formulaire de lettre d'invitation, les données recueillies ne seront utilisées que dans le but de vous aider à obtenir un visa et à voyager. Les seules données que nous pouvons utiliser pour les besoins de l'événement FABx sont votre nationalité, en tant que registre des pays qui viennent à ce type d'événement. De plus, en vous inscrivant sur le site web du FAB16 Montréal, vous choisissez d'être inscrit sur la liste des abonnés du FAB16 sous notre fournisseur d'infolettre, et ajouté à la liste du réseau Fab Lab, recevant ainsi les mises à jour du réseau Fab Lab.
 
 Sur demande écrite et sous réserve d'une preuve d'identité, vous pouvez consulter les renseignements personnels que nous avons divulgués et demander que les corrections nécessaires soient apportées, le cas échéant, tel qu'autorisé ou exigé par la loi. Toutefois, pour vous assurer que les informations personnelles que nous conservons à votre sujet sont exactes et à jour, veuillez nous informer immédiatement de tout changement dans vos informations personnelles. 
 

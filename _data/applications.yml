@@ -28,16 +28,16 @@ en:
     - item      : "item3"
       menu      : "Research papers"
       title     : "Submit your Paper "
-      text      : "The FAB 16 research papers stream invites original scholarly writing from researchers studying the Fab Lab movement, its ambitions and its impact from a wide range of disciplines, including computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
+      text      : "The FAB16 research papers stream invites original scholarly writing from researchers studying the Fab Lab movement, its ambitions and its impact from a wide range of disciplines, including computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
                   Use the link below to propose a paper !"
       buttontext: "PARTICIPATE"
       modal     : ""
       link      : "https://easychair.org/conferences/?conf=fab16"
 
     - item      : "item4"
-      menu      : "FAB16 FAB World"
+      menu      : "FAB World"
       title     : "Participate with FAB World"
-      text      : "We want to hear about what FAB projects you and your community are developing! Fab World is an opportunity during FAB16 to present a 3 minute talk to the Fab community about projects, initiatives, teams, and developments happening in your Fab Lab and Fab community.
+      text      : "We want to hear about what FAB projects you and your community are developing! FAB World is an opportunity during FAB16 to present a 3 minute talk to the Fab community about projects, initiatives, teams, and developments happening in your Fab Lab and Fab community.
                   <br><br>
                   Keep in mind that this year's theme is 'Fabricating the Commons', looking at how we can produce and share knowledge and tools based on peer production to create a sustainable future for everyone.
                   <br><br>
@@ -119,9 +119,9 @@ fr:
       link      : "https://easychair.org/conferences/?conf=fab16"
     
     - item      : item4
-      menu      : "FAB16 FAB World"
+      menu      : "FAB World"
       title     : "Participez au FAB World"
-      text      : "Nous souhaitons vous entendre sur les Projets FAB que vous développez avec votre communauté ! “Fab World” est une opportunité durant le FAB16 de présenter un exposé de 3 minutes à la communauté des Fabs Labs sur les projets, les initiatives, les équipes, les développements dans votre Fab Lab et votre communauté de Fab Labs. 
+      text      : "Nous souhaitons vous entendre sur les Projets FAB que vous développez avec votre communauté ! “FAB World” est une opportunité durant le FAB16 de présenter un exposé de 3 minutes à la communauté des Fabs Labs sur les projets, les initiatives, les équipes, les développements dans votre Fab Lab et votre communauté de Fab Labs. 
                    Gardez à l'esprit que le thème de cette année est “Fabriquer les Communs”, en tablant sur comment nous pouvons produire et partager des connaissances et des outils basés sur la production pair-à-pair pour créer un avenir durable pour tous.
                   <br><br>
                   Intéressé à partager votre projet ? Utilisez le lien ci-dessous pour soumettre un projet! 

@@ -35,7 +35,7 @@ en:
   item3link  : "https://partnerstravel.typeform.com/to/MAiVkC"
   item3button: "Fill out the form"
   item3desc  : "Partners Travel is Fab Foundation’s travel planning partner for FAB16 Montréal. We provide FAB16 Montréal attendees with assistance in booking flights, ground transportation and hotel accommodations.
-               <br><br>FAB Foundation has access to a wide variety of travel discounts for Air, Rail, Hotel and Car Rental. Discounted travel is available with American, Iberia, British, Delta, Alitalia, KLM, JetBlue, Cathay Pacific, Emirates, and more. In addition to a special negotiated discount with Air Canada for the FAB16 events. If you have specific questions, or need further assistance, please send all travel requests to <a href='mailto:fab16@partners-travel.com'>fab16@partners-travel.com</a>
+               <br><br>Fab Foundation has access to a wide variety of travel discounts for Air, Rail, Hotel and Car Rental. Discounted travel is available with American, Iberia, British, Delta, Alitalia, KLM, JetBlue, Cathay Pacific, Emirates, and more. In addition to a special negotiated discount with Air Canada for the FAB16 events. If you have specific questions, or need further assistance, please send all travel requests to <a href='mailto:fab16@partners-travel.com'>fab16@partners-travel.com</a>
                <br><br>As a FAB16 participant, you have two options for travel assistance:
                <br><br>1. You can request access to the Fab Foundation SAP Concur Travel booking site to self book your trip to Montreal. This option will give you all of the FAB Foundation travel discounts at a reduce booking transaction fee of $9 (USD) per person, per trip.
                <br><br>2. You can request travel assistance from a FAB Foundation travel agent who can assist you with more complex travel needs for a flat transaction fee of $30 per person, per trip.
@@ -67,7 +67,7 @@ en:
                <br>
                <em>When making the reservation the guest must provide a valid Visa, MasterCard or AMEX number to guarantee and hold their reservation. Payment accepted includes Cash, Interac, Traveler Cheques, Visa, MasterCard, and American Express only. Each guest is responsible for his or her own payment on arrival.</em>
                <br><br>
-               <strong>Reservations information</strong>
+               <strong>Booking information</strong>
                <br>
                Individual cancellations must be made in writing or by calling <strong>514-398-5200 by 12:00 pm (noon) 2 days</strong> prior to arrival, otherwise a charge equal to the first night stay plus tax will be charged to the credit card on file. 
                <strong>Check in time is 3 pm. Check out time is 11:00 am.</strong>  Please note that an early departure fee will be applied for any delegate leaving early without notice prior to 12:00 pm (noon) 2 days prior to the arrival date. 
@@ -78,9 +78,9 @@ en:
   item5modal : ""
   item5link  : ""
   item5button: ""
-  item5desc  : "<strong style='font-size:22px;'>Events & Festivals</strong>
+  item5desc  : "<strong style='font-size:22px;'>Festivals & Events</strong>
                <br><br>
-               The cultural hub of Montréal, renowned throughout the country, does not only take over theaters and theaters: it extends into the streets, transformed into gigantic outdoor stages to host large, internationally recognized festive gatherings.
+               Montréal's cultural vibe, renowned throughout the country, is not just taking over the theatres and concert halls: it's extending into the streets, transformed into gigantic outdoor stages to host large, internationally renowned festive gatherings.
                <br><br>
                For the complete list of events in Montreal, visit <a href='https://www.mtl.org/en/what-to-do/festivals-and-events?arrival=2019-04-06T04%3A00%3A00.000Z&departure=2019-04-14T04%3A00%3A00.000Z&categories=EvCat-FeteFestival' target='_blank'>the Tourisme Montréal website</a>.
                <br><br>
@@ -153,9 +153,9 @@ fr:
   img_home   : "assets/img/travel3-opt.jpg"
   img        : "assets/img/travel4-opt.jpg"
   img_bis    : "assets/img/travel_home-opt.jpg"
-  text       : "Chaque année, nous essayons de vous accueillir le mieux possible. FAB16 se tiendra à Montréal sur le campus de l’Université McGill au coeur du centre-ville.
+  text       : "Chaque année, nous voulons rendre votre séjour aussi agréable que possible. Le FAB16 se tiendra à Montréal sur le campus de l’Université McGill au coeur du centre-ville.
                 Ce site contient toute l’information nécessaire pour vous rendre au Canada et vous déplacer à Montréal.
-                <br>Vous trouverez toute l’information utile sur les modalités d’obtention du visa, les réductions sur les hôtels ainsi que les vols, les restaurants et les transports dans la ville."
+                <br>Vous y trouverez notamment des renseignements utiles concernant les modalités d’obtention du visa, les réductions sur les hôtels ainsi que les vols, les restaurants et les transports dans la ville."
 
   desc       : "Voici toute l’information dont vous avez besoin pour vous rendre à Montréal et profiter d’un magnifique séjour. Vous trouverez ci-dessous des réductions, de l’information pour organiser votre voyage, et d’autres infos utiles..."
 
@@ -215,7 +215,7 @@ fr:
                <br>
                Royal Victoria College: <a href='https://mcgill.ca/accommodations/summer/rvc' target='_blank'>https://mcgill.ca/accommodations/summer/rvc</a>
                <br><br>
-               <strong>Les réservations <u>doivent être faite avant le 1er juillet</u>, par Téléphone: 514-398-5200, Fax: 514-398-4521 ou courriel: <a href='mailto:reserve.residences@mcgill.ca'>reserve.residences@mcgill.ca</a></strong>
+               <strong>Les réservations <u>doivent être faites avant le 1er juillet</u>, par téléphone: 514-398-5200, télécopieur: 514-398-4521 ou courriel: <a href='mailto:reserve.residences@mcgill.ca'>reserve.residences@mcgill.ca</a></strong>
                <br>
                <em>Quand vous effectuez la réservation, vous devez fournir un numéro de carte VISA, MASTERCARD, AMEX valide qui garantit le maintien de la réservation. Seuls les modes de paiement suivants sont acceptés : comptant, Interac, chèques de voyage, Visa, MasterCard, American Express. Chaque participant est responsable de son propre paiement à l’arrivée.</em>
                <br><br>

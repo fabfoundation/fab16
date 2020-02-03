@@ -53,6 +53,7 @@ section#tracks {
   width: 100%;
   opacity: 0;
   transition: .1s ease;
+  @include transform(scale(1.02));
 }
 .tracks-box-img:hover .hover {
   opacity: 1;
