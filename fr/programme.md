@@ -7,7 +7,7 @@ permalink: /fr/programme/
 
 title_text: "PROGRAMME"
 subtitle_text: ""
-color_class: "colororange"
+color_class: "colorgreen"
 img: ""
 
 programdesc: "<strong>Participez à la plus grande conférence sur la fabrication numérique au monde.</strong>

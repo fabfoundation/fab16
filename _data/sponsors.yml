@@ -2,7 +2,7 @@ en:
   thankstitle           : "Thanks to all our partners"
   hosttitle             : "Hosted by"
   communitypartnerstitle: "Community Partners"
-  sponsorstitle         : "Sponsored by"
+  sponsorstitle         : "Supported by"
   governmenttitle       : "Government"
   host:
     - img: assets/img/sponsors/logo_FabFoundation-opt.png
@@ -43,7 +43,7 @@ en:
       url: https://www.quebec.ca/
 
 fr:
-  thankstitle           : "Merci à tous nos partenaires et commanditaires"
+  thankstitle           : "Merci à tous nos partenaires"
   hosttitle             : "Accueilli par"
   communitypartnerstitle: "Partenaires de la communauté"
   sponsorstitle         : "Soutenu par"

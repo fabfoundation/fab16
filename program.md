@@ -10,7 +10,7 @@ programimg: ""
 
 title_text: "PROGRAM"
 subtitle_text: ""
-color_class: "colororange"
+color_class: "colorgreen"
 img: ""
 
 programdesc: "<strong style='font-size:22px;'>Be part of the largest conference on digital fabrication in the world.</strong>
