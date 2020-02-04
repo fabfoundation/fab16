@@ -4,6 +4,8 @@ title: Exhibitions
 lang: fr
 prefix: fr/
 permalink: /fr/expositions/
+sitemap:
+  exclude: "yes"
 
 title: EXPOSITIONS
 subtitle: Lorem Ipsum

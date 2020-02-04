@@ -4,6 +4,8 @@ title: Informations
 lang: fr
 prefix: fr/
 permalink: /fr/informations-pratiques/
+sitemap:
+  exclude: "yes"
 
 title_text: ""
 subtitle_text: ""

@@ -3,6 +3,8 @@ layout: page
 title: Visa Requirements
 lang: en
 permalink: /travel/visa-requirements/
+sitemap:
+  exclude: "yes"
 
 title: Visa Requirements
 subtitle: Lorem Ipsum

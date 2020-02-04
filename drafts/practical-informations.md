@@ -3,6 +3,8 @@ layout: page
 title: Informations
 lang: en
 permalink: /practical-informations/
+sitemap:
+  exclude: "yes"
 
 title_text: ""
 subtitle_text: ""

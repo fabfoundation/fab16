@@ -4,6 +4,8 @@ title: Visa Requirements
 lang: fr
 prefix: fr/
 permalink: /fr/voyage/exigences-visa/
+sitemap:
+  exclude: "yes"
 
 title: Exigences Visa
 subtitle: Lorem Ipsum

@@ -3,6 +3,8 @@ layout: page
 title: Exhibitions
 lang: en
 permalink: /exhibitions/
+sitemap:
+  exclude: "yes"
 
 exhibitiontitle: EXHIBITIONS
 exhibitionsubtitle: Lorem Ipsum
