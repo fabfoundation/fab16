@@ -65,14 +65,11 @@ en:
                     <li>Create links with other volunteers and actors in the movement.</li>
                   </ul>
                   <p class='colorwhite'>
-                  <br><br>
                   Please fill the following information to apply as a volunteer during the FAB16 event.
-                  <br>
                   This is an opportunity for you to be in the biggest Digital Fabrication event of the world.
-                  <br><br>
-                  You have to be authorized by the Canadian government to work legally as volunteer.
-                  <br><br>
                   Interested in volunteering?
+                  <br><br>
+                  <em>**You have to be authorized by the Canadian government to work legally as volunteer.</em>
                   </p>"
       buttontext: "PARTICIPATE"
       modal     : ""
@@ -149,14 +146,11 @@ fr:
                     <li>Créer des liens avec d’autres bénévoles et acteurs du mouvement.</li>
                   </ul>
                   <p class='colorwhite'>
-                  <br><br>
                   Veuillez remplir les informations suivantes afin de vous proposer en tant que bénévole durant les événements du FAB16.
-                  <br>
                   C’est une opportunité de vous joindre au plus grand événement de fabrication numérique au monde.
-                  <br><br>
-                  Vous devez être autorisé par le gouvernement canadien à travailler légalement comme bénévole.
-                  <br><br>
                   Intéressé à devenir bénévole ?
+                  <br><br>
+                  <em>**Vous devez être autorisé par le gouvernement canadien à travailler légalement comme bénévole.</em>
                   </p>"
       buttontext: "PARTICIPEZ"
       modal     : ""

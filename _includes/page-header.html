@@ -6,8 +6,10 @@
 
 <div class="{{ which_width }}">
   <h2 class="section-heading title {{ page.color_class }}">{{page.title_text}}</h2>
+  {% if page.subtitle_text != "" %}
   <br>
   <p class="text-faded subtitle {{ page.color_class }}">{{page.subtitle_text}}</p>
+  {% endif %}
 </div>
 
 {% if page.img != "" %}

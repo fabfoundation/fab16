@@ -12,6 +12,15 @@ en:
   footertext3: "and"
   footertext4: "and"
 
+  communautique: "Communautique"
+  communautiquelink: "https://communautique.quebec"
+  fabfoundation: "Fab Foundation"
+  fabfoundationlink: "https://fabfoundation.org/"
+  mcgill: "McGill University"
+  mcgilllink: "https://www.mcgill.ca/"
+  fablabqc: "Coopérative Fab Labs Québec"
+  fablabqclink: "https://fablabs-quebec.org/"
+
 fr:
   contact:
     title      : "Pour devenir un sponsor"
@@ -25,3 +34,12 @@ fr:
   footertext2: "Conçu par"
   footertext3: "et la"
   footertext4: "et"
+
+  communautique: "Communautique"
+  communautiquelink: "https://communautique.quebec"
+  fabfoundation: "Fab Foundation"
+  fabfoundationlink: "https://fabfoundation.org/"
+  mcgill: "Université McGill"
+  mcgilllink: "https://www.mcgill.ca/fr/"
+  fablabqc: "Coopérative Fab Labs Québec"
+  fablabqclink: "https://fablabs-quebec.org/"

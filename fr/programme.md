@@ -58,7 +58,7 @@ program: ""
 
 ---
 
-<section class="no-padding" id="" style="padding: 50px 0;">
+<section class="no-padding" id="" style="padding: 25px 0px 50px 0px;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12 col-md-12">
