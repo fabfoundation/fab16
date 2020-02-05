@@ -32,7 +32,7 @@ en:
                   Use the link below to propose a paper !"
       buttontext: "PARTICIPATE"
       modal     : ""
-      link      : "https://easychair.org/conferences/?conf=fab16"
+      link      : "https://easychair.org/cfp/Fab16"
 
     - item      : "item4"
       menu      : "FAB World"
@@ -113,7 +113,7 @@ fr:
                   Utilisez le lien ci-dessous pour soumettre un atelier!"
       buttontext: "PARTICIPEZ"
       modal     : ""
-      link      : "https://easychair.org/conferences/?conf=fab16"
+      link      : "https://easychair.org/cfp/Fab16"
     
     - item      : item4
       menu      : "FAB World"
