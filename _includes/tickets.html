@@ -5,6 +5,12 @@
     <h2 class="title {{ color_class }}">{{ site.data.tickets[page.lang].titletotal }}</h2>
     <p class="text-center">{{ site.data.tickets[page.lang].subtitletotal }}</p>
 
+    {% if site.data.tickets[page.lang].comingsoon != "" %}
+    <div class="row no-gutter comingsoon text-center pad10 colorblue backwhite">
+      {{ site.data.tickets[page.lang].comingsoon}}
+    </div>
+    {% endif %}
+
     <div class="container">
       <div class="row flex-items-xs-middle flex-items-xs-center resp-grid">
 

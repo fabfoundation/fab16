@@ -1,4 +1,5 @@
 en:
+  comingsoon    : "Coming Soon"
   currency      : "$"
   currency2     : "(CAD)"
   titletotal    : ""
@@ -6,7 +7,7 @@ en:
                   <br><br>
                   Tickets do not include other costs of your trip.
                   <br><br>
-                  <em>IMPORTANT NOTICE : If you are planning to lead a workshop, we are offering you a discount of $100 on the full registration cost. HOWEVER, your workshop must be approved <u>before</u> you can receive a discount code. If you purchase your ticket before being approved, the discount cannot be applied later. 
+                  <em>IMPORTANT NOTICE : If you are planning to lead a workshop, we are offering you a discount of $125 on the full registration cost. HOWEVER, your workshop must be approved <u>before</u> you can receive a discount code. If you purchase your ticket before being approved, the discount cannot be applied later. 
                   </em>"
 
   subtitletotal2 : "<br><br>
@@ -74,6 +75,7 @@ en:
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=e4286ade-8e7f-4cd7-bb69-227722679743"
 
 fr:
+  comingsoon    : "Bientôt disponible"
   currency      : "$"
   currency2     : "(CAD)"
   titletotal    : ""
@@ -81,7 +83,7 @@ fr:
                   <br><br>
                   Les billets ne comprennent pas les autres coûts de votre voyage.
                   <br><br>
-                  <em>NOTE IMPORTANTE : Si vous planifiez de devenir animateur d’atelier, nous vous offrons un rabais de 100$ (CAD) sur le prix du  billet “ ACCES COMPLET”. CEPENDANT, votre atelier doit être approuvé <u>avant</u> de recevoir votre code de rabais. Si vous achetez votre billet avant d’être approuvé, le rabais ne s’appliquera plus. 
+                  <em>NOTE IMPORTANTE : Si vous planifiez de devenir animateur d’atelier, nous vous offrons un rabais de 125$ (CAD) sur le prix du  billet “ ACCES COMPLET”. CEPENDANT, votre atelier doit être approuvé <u>avant</u> de recevoir votre code de rabais. Si vous achetez votre billet avant d’être approuvé, le rabais ne s’appliquera plus. 
                   </em>"
   subtitletotal2: "<br><br>
                   <em>Nous ne faisons aucun remboursement sur les billets vendus.
