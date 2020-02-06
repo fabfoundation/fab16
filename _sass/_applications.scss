@@ -10,8 +10,26 @@
   cursor: pointer;
   padding: 14px 16px;
   @include transition(all, 0.3s, ease);
+  @include bold-font;
+}
+
+.tab button.item1, .tab button.item7 {
+  color: $theme-purple;
+}
+.tab button.item2, .tab button.item8 {
+  color: $theme-darkorange;
+}
+.tab button.item3, .tab button.item9 {
   color: $theme-green;
-  @include medium-font;
+}
+.tab button.item4, .tab button.item10 {
+  color: $theme-primary;
+}
+.tab button.item5, .tab button.item11 {
+  color: $theme-red;
+}
+.tab button.item6, .tab button.item12 {
+  color: $theme-blue;
 }
 
 .tab button:hover {
@@ -83,11 +101,11 @@ section#applications-item6,
 .tab button.item6.active,
 .tab button.item6.active:hover,
 .tab button.item12.active  {
-  background-color: $theme-green;
+  background-color: $theme-blue;
 }
 .tab button.item6:hover,
 .tab button.item12:hover  {
-  background-color: rgba($theme-green, 0.6);
+  background-color: rgba($theme-blue, 0.6);
   color: white;
 }
 

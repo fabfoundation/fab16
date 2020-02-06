@@ -6,7 +6,8 @@ permalink: /tickets/
 
 title_text: "Get your ticket"
 subtitle_text: ""
-color_class: "colorblue"
+color_class: "colorgrey"
+background: "backdarkblue"
 img: ""
 
 ---

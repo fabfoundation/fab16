@@ -11,6 +11,9 @@
   background-position: center;
   background-size: cover;
 }
+@media (max-width: 992px) {
+  margin-bottom: 25px;
+}
 .card:after {
   content: '';
   position: absolute;

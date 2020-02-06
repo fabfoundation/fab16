@@ -7,7 +7,8 @@ permalink: /fr/billets/
 
 title_text: "Réservez votre billet"
 subtitle_text: ""
-color_class: "colorblue"
+color_class: "colorgrey"
+background: "backdarkblue"
 img: ""
 
 ---
