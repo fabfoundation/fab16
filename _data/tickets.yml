@@ -1,6 +1,6 @@
 en:
   currency      : "$"
-  currency2     : "(USD)"
+  currency2     : "(CAD)"
   titletotal    : ""
   subtitletotal : "The “full access” ticket includes the FAB16 event, evening activities and the Fab City Summit event.
                   <br><br>
@@ -28,7 +28,7 @@ en:
     #  buttontext: "Réservez votre billet"
     #  buttonlink: "#tickets"
     
-    - price          : "450"
+    - price          : "595"
       pass_fr        : ""
       title          : "FULL<br>ACCESS"
       pass           : "PASS"
@@ -37,13 +37,13 @@ en:
       salecaption    : ""
       item1          : "EARLY BIRD FEE "
       item2          : "including the Fab City Summit"
-      item3          : "<em>(750 (USD) full rate as of May 1st)</em>"
+      item3          : "<em>(995 (CAD) full rate as of May 1st)</em>"
       item4          : ""
       buttontext     : "Get your ticket"
       buttonlink     : "#tickets"
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=f0236146-3488-4e2a-a6e9-cabc3554284b"
     
-    - price          : "150"
+    - price          : "195"
       pass_fr        : ""
       title          : "<br>1 DAY"
       pass           : "PASS"
@@ -58,7 +58,7 @@ en:
       buttonlink     : "#tickets"
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=e90ab693-6ddd-467e-a4cd-8ab0d9bf2e3f"
     
-    - price          : "75"
+    - price          : "95"
       pass_fr        : ""
       title          : "STUDENTS SPECIAL 1 DAY"
       pass           : "PASS"
@@ -75,13 +75,13 @@ en:
 
 fr:
   currency      : "$"
-  currency2     : "(USD)"
+  currency2     : "(CAD)"
   titletotal    : ""
   subtitletotal : "Le billet “accès complet” inclus l’événement FAB16, les activités en soirée et l’événement Fab City Summit.
                   <br><br>
                   Les billets ne comprennent pas les autres coûts de votre voyage.
                   <br><br>
-                  <em>NOTE IMPORTANTE : Si vous planifiez de devenir animateur d’atelier, nous vous offrons un rabais de 100$ (USD) sur le prix du  billet “ ACCES COMPLET”. CEPENDANT, votre atelier doit être approuvé <u>avant</u> de recevoir votre code de rabais. Si vous achetez votre billet avant d’être approuvé, le rabais ne s’appliquera plus. 
+                  <em>NOTE IMPORTANTE : Si vous planifiez de devenir animateur d’atelier, nous vous offrons un rabais de 100$ (CAD) sur le prix du  billet “ ACCES COMPLET”. CEPENDANT, votre atelier doit être approuvé <u>avant</u> de recevoir votre code de rabais. Si vous achetez votre billet avant d’être approuvé, le rabais ne s’appliquera plus. 
                   </em>"
   subtitletotal2: "<br><br>
                   <em>Nous ne faisons aucun remboursement sur les billets vendus.
@@ -102,7 +102,7 @@ fr:
     #  item4: ""
     #  buttontext: "Réservez votre billet"
     #  buttonlink: "#tickets"
-    - price          : "450"
+    - price          : "595"
       pass_fr        : "PASSE"
       title          : "ACCÈS COMPLET"
       pass           : ""
@@ -111,13 +111,13 @@ fr:
       salecaption    : ""
       item1          : "TARIF LEVE-TÔT"
       item2          : "incluant le Sommet Fab City"
-      item3          : "<em>750$ (USD) tarif plein à partir du 1er mai</em>"
+      item3          : "<em>995$ (CAD) tarif plein à partir du 1er mai</em>"
       item4          : " "
       buttontext     : "Réservez votre billet"
       buttonlink     : "#tickets"
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=96f3b206-4299-4b57-a0b8-06df294edb49"
 
-    - price          : "150"
+    - price          : "195"
       pass_fr        : "PASSE"
       title          : "1 JOUR"
       pass           : ""
@@ -132,7 +132,7 @@ fr:
       buttonlink     : "#tickets"
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=eeed4369-2a19-492c-b819-2dab084ee5b9"
 
-    - price          : "75"
+    - price          : "95"
       pass_fr        : "PASSE"
       title          : "1 JOUR SPÉCIAL ÉTUDIANT"
       pass           : ""
