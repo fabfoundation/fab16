@@ -20,6 +20,9 @@ en:
   mcgilllink: "https://www.mcgill.ca/"
   fablabqc: "Coopérative Fab Labs Québec"
   fablabqclink: "https://fablabs-quebec.org/"
+  photocredit: "Photo credits : "
+  phototext: "Tourisme Montréal"
+  photolink: "https://www.mtl.org/en/"
 
 fr:
   contact:
@@ -43,3 +46,6 @@ fr:
   mcgilllink: "https://www.mcgill.ca/fr/"
   fablabqc: "Coopérative Fab Labs Québec"
   fablabqclink: "https://fablabs-quebec.org/"
+  photocredit: "Crédit photos : "
+  phototext: "Tourisme Montréal"
+  photolink: "https://www.mtl.org"
