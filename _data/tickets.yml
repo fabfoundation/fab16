@@ -42,7 +42,7 @@ en:
       item4          : ""
       buttontext     : "Get your ticket"
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=f0236146-3488-4e2a-a6e9-cabc3554284b"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=a1907b3e-c06d-4fc3-9fe7-930e556ef4e1"
     
     - price          : "195"
       pass_fr        : ""
@@ -57,7 +57,7 @@ en:
       item4          : " "
       buttontext     : "Get your ticket"
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=e90ab693-6ddd-467e-a4cd-8ab0d9bf2e3f"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=4dec2a51-7859-441b-92a7-a2d9a8acea14"
     
     - price          : "95"
       pass_fr        : ""
@@ -72,7 +72,7 @@ en:
       item4          : " "
       buttontext     : "Get your ticket"
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=47&code=9118&width_auto=1&color_primary=00AEEF&widget_key=e4286ade-8e7f-4cd7-bb69-227722679743"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=720074fe-7894-4a91-8b64-bff3996d7739"
 
 fr:
   comingsoon    : "Bientôt disponible"
@@ -117,7 +117,7 @@ fr:
       item4          : " "
       buttontext     : "Réservez votre billet"
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=96f3b206-4299-4b57-a0b8-06df294edb49"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=a60ee8d2-23db-4f15-82da-e088c210a102"
 
     - price          : "195"
       pass_fr        : "PASSE"
@@ -132,7 +132,7 @@ fr:
       item4          : " "
       buttontext     : "Réservez votre billet"
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=eeed4369-2a19-492c-b819-2dab084ee5b9"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=cd943ff7-8c62-4407-895c-6753ae1e72a9"
 
     - price          : "95"
       pass_fr        : "PASSE"
@@ -147,6 +147,6 @@ fr:
       item4          : " "
       buttontext     : "Réservez votre billet"
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=580533&lg_billetterie=38&code=9118&width_auto=1&color_primary=00AEEF&widget_key=486a12e1-8db7-47ef-a9ed-830975fdfe5e"
+      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=9e156796-c0e3-4cfe-bba7-a4afae14be53"
 
 
