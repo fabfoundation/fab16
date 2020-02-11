@@ -16,13 +16,17 @@ title: FAB16 Montreal
 email: fab16@fabfoundation.org
 description: > # this means to ignore newlines until "baseurl:"
     The annual gathering of the global Fablab Network, including representatives of more than 1700 labs around the world
+
 image:
- width: 1200
- height: 630
- en:
-   path: "assets/img/Fab16_facebookbanner_EN.jpg"
- fr:
-   path: "assets/img/Fab16_facebookbanner_FR.jpg"
+    width: 1200
+    height: 630
+en:
+  image:
+    path: "assets/img/Fab16_facebookbanner_EN.jpg"
+fr:
+  image:
+    path: "assets/img/Fab16_facebookbanner_FR.jpg"
+
 google_analytics: UA—XXXXXXXX-X
 
 baseurl: "" # the subpath of your site, e.g. /blog/
