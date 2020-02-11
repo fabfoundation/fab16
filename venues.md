@@ -9,7 +9,6 @@ subtitle_text: ""
 color_class: "colorgreen"
 img: ""
 
-
 ---
 
 {% include venues.html %}
