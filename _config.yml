@@ -14,7 +14,7 @@ defaults:
 
 title: FAB16 Montreal
 email: fab16@fabfoundation.org
-description: > # this means to ignore newlines until "baseurl:"
+description:
     The annual gathering of the global Fablab Network, including representatives of more than 1700 labs around the world
 
 image:
@@ -22,10 +22,14 @@ image:
     height: 630
 en:
   image:
-    path: "assets/img/Fab16_facebookbanner_EN.jpg"
+    path: "/assets/img/Fab16_facebookbanner_EN.jpg"
+  description:
+    The annual gathering of the global Fablab Network, including representatives of more than 1800 labs around the world
 fr:
   image:
-    path: "assets/img/Fab16_facebookbanner_FR.jpg"
+    path: "/assets/img/Fab16_facebookbanner_FR.jpg"
+  description:
+    Le rassemblement annuel du réseau mondial Fablab, comprenant des représentants de plus de 1800 labs à travers le monde
 
 google_analytics: UA—XXXXXXXX-X
 
