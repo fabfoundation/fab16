@@ -45,7 +45,7 @@
 
     {% if page.lang == 'fr' %}
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.fr.description }}{% endif %}" />
-    <meta property="og:image" content="{{ site.url | prepend: site.baseurl }}/{{ site.fr.image.path }}" />
+    <meta property="og:image" content="{{ site.url | prepend: site.baseurl }}{{ site.fr.image.path }}" />
     {% else %}
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.en.description }}{% endif %}" />
     <meta property="og:image" content="{{ site.url | prepend: site.baseurl }}{{ site.en.image.path }}" />
