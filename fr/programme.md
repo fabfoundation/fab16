@@ -7,7 +7,7 @@ permalink: /fr/programme/
 
 title_text: "PROGRAMME"
 subtitle_text: ""
-color_class: "colorgreen"
+color_class: "colorblue"
 img: ""
 
 programdesc: "<strong>Participez à la plus grande conférence sur la fabrication numérique au monde.</strong>
@@ -53,7 +53,16 @@ programdesc: "<strong>Participez à la plus grande conférence sur la fabricatio
                     <li>Foire interactive de projets inspirants</li>
                     <li>Conférences</li>
                     <li>Démonstrations</li>
-                </ul>"
+                </ul>
+                <br><br>
+                <strong style='font-size:22px;'>Le Fab City Summit du 31 juillet au 2 août</strong>
+                <br><br>
+                Une série de conférences et d’ateliers sur trois jours offerts par des sommités mondiales et locales qui mettent en lumière les enjeux globaux auxquels font face les villes et territoires et les initiatives concrètes entourant l’essor des Fab City.
+                <br><br><br>              
+                <strong style='font-size:22px;'>Le Campus Fab City du 30 juillet au 6 août</strong>
+                <br><br><br>
+                Une intervention à court terme, neuf (9) jours, qui mettra en valeur les expériences locales et internationales et les prototypes de Fab City. Il comprendra des expositions, des visites guidées des Fab Labs locaux et des ateliers de fabrication.<br>
+                "
 program: ""
 
 ---

@@ -10,7 +10,7 @@ programimg: ""
 
 title_text: "PROGRAM"
 subtitle_text: ""
-color_class: "colorgreen"
+color_class: "colorblue"
 img: ""
 
 programdesc: "<strong style='font-size:22px;'>Be part of the largest conference on digital fabrication in the world.</strong>
@@ -56,7 +56,16 @@ programdesc: "<strong style='font-size:22px;'>Be part of the largest conference 
                     <li>Interactive fair of inspiring projects</li>
                     <li>Conferences</li>
                     <li>Demonstrations</li>
-                </ul>"
+                </ul>
+                <br><br>
+                <strong style='font-size:22px;'>The Fab City Summit from July 31th to August 2nd</strong>
+                <br><br>
+                A three-day series of conferences and workshops offered by world and local luminaries that highlight the global issues facing cities and territories and the concrete initiatives surrounding the growth of Fab Cities.
+                <br><br><br>
+                <strong style='font-size:22px;'>Fab City Campus from July 30 to August 6</strong>
+                <br><br>
+                A short term intervention, nine (9) days, which will highlight local and international experiences and Fab City prototypes. It will include exhibits, tours of local Fab Labs and fabricating workshops.<br>
+                "
 program: ""
 
 ---
