@@ -1,19 +1,7 @@
-{% if page.img != "" %}
-  {% assign which_width = "col-lg-6 col-md-6" %}
-{% else %}
-  {% assign which_width = "col-lg-12 col-md-12" %}
-{% endif %}
-
-<div class="{{ which_width }}">
+<div class="col-lg-12 col-md-12">
   <h2 class="section-heading text-center title {{ page.color_class }}">{{page.title_text}}</h2>
   {% if page.subtitle_text != "" %}
   <br>
   <p class="text-faded text-center subtitle {{ page.color_class }}">{{page.subtitle_text}}</p>
   {% endif %}
 </div>
-
-{% if page.img != "" %}
-  <div class="col-lg-6 col-md-6 text-right">
-    <img src="{{ page.img | relative_url}}" class="img-responsive" alt="{{page.title}}" style="float: right;">
-  </div>
-{% endif %}

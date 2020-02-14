@@ -88,7 +88,7 @@ en:
               <br><br>
               His focus is on cross-cultural digital fabrication for corporate transformation, to accelerate prototyping and scaling disruptive innovation in emerging markets.
               </p>"
-    - img  : assets/img/speakers/NathanSeidle.jpg
+    - img  : assets/img/speakers/NathanSeidle2.jpg
       label: "Nathan Seidle"
       title: "Founder of SparkFun"
       desc : "<p>
@@ -203,7 +203,7 @@ fr:
                <br><br>
               Il se concentre sur la fabrication numérique interculturelle pour la transformation des entreprises, afin d'accélérer le prototypage et la mise à l'échelle des innovations disruptives dans les marchés émergents.
               </p>"
-    - img  : "assets/img/speakers/NathanSeidle.jpg"
+    - img  : "assets/img/speakers/NathanSeidle2.jpg"
       label: "Nathan Seidle"
       title: "Fondateur de SparkFun"
       desc : "<p>
