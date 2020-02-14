@@ -88,6 +88,29 @@ en:
               <br><br>
               His focus is on cross-cultural digital fabrication for corporate transformation, to accelerate prototyping and scaling disruptive innovation in emerging markets.
               </p>"
+    - img  : assets/img/speakers/NathanSeidle.jpg
+      label: "Nathan Seidle"
+      title: "Founder of SparkFun"
+      desc : "<p>
+              While studying electrical engineering as an undergraduate, Nathan Seidle founded <a href='https://www.sparkfun.com/' target='_blank'>SparkFun Electronics</a>, an open source hardware company. 
+              For 17 years, SparkFun has been a leader in open source technology and manufacturing and is committed to releasing products that are as easy to use as they are helpful. 
+              The company provides tools, hardware and educational resources for engineers, prototypers, researchers, and hobbyists who want to explore electronic gadgetry and digital fabrication. 
+              <br>
+              Nathan is one of the founding members, and has served on the board of the <a href='https://www.oshwa.org/' target='_blank'>Open Source Hardware Association</a>. 
+              He has been invited to the White House to participate in discussions around intellectual property policy and patent reform, and has spoken in front of Congress on copyright and trademark policy. 
+              <br><br>
+              Link--<a href='https://www.sparkfun.com/' target='_blank'>SparkFun</a>
+              </p>"
+    - img  : assets/img/speakers/AlysiaGarmulewicz.jpg
+      label: "Alysia Garmulewicz"
+      title: "Founder and director of Materiom"
+      desc : "<p>
+              Alysia Garmulewicz is founder and director of <a href='https://materiom.org/' target='_blank'>Materiom</a>, an open platform for biomaterial recipes. 
+              She is an Associate Professor of the circular economy at the Facultad de Administración y Economía, Universidad de Santiago de Chile. 
+              She is also an Associate Fellow at the CABDyN Complexity Centre, Saïd Business School, at the University of Oxford. 
+              Alysia researches digital fabrication and the circular economy, with a particular focus on biomaterials, open data and local material markets. 
+              Alysia has a Doctorate from the Saïd Business School, University of Oxford.
+              </p>"
   
 
 fr:
@@ -180,3 +203,26 @@ fr:
                <br><br>
               Il se concentre sur la fabrication numérique interculturelle pour la transformation des entreprises, afin d'accélérer le prototypage et la mise à l'échelle des innovations disruptives dans les marchés émergents.
               </p>"
+    - img  : "assets/img/speakers/NathanSeidle.jpg"
+      label: "Nathan Seidle"
+      title: "Fondateur de SparkFun"
+      desc : "<p>
+              Alors qu'il étudiait l'ingénierie électrique en premier cycle, Nathan Seidle a fondé <a href='https://www.sparkfun.com/' target='_blank'>SparkFun Electronics</a>, une entreprise de matériel informatique à code source libre. 
+              Depuis 17 ans, SparkFun est un leader dans la technologie et la fabrication de logiciels libres et s'engage à lancer des produits aussi faciles à utiliser qu'utiles. 
+              La société fournit des outils, du matériel et des ressources éducatives aux ingénieurs, aux prototypistes, aux chercheurs et aux amateurs qui souhaitent explorer les gadgets électroniques et la fabrication numérique. 
+              <br>
+              Nathan est l'un des membres fondateurs et a siégé au conseil d'administration de l'<a href='https://www.oshwa.org/' target='_blank'>Open Source Hardware Association</a>. 
+              Il a été invité à la Maison Blanche pour participer à des discussions sur la politique de propriété intellectuelle et la réforme des brevets, et s'est exprimé devant le Congrès sur la politique en matière de droits d'auteur et de marques.
+              <br><br>
+              Lien--<a href='https://www.sparkfun.com/' target='_blank'>SparkFun</a>
+              </p>"
+    - img  : "assets/img/speakers/AlysiaGarmulewicz.jpg"
+      label: "Alysia Garmulewicz"
+      title: "Fondatrice et directrice de Materiom"
+      desc : "<p>
+              Alysia Garmulewicz est la fondatrice et directrice de <a href='https://materiom.org/' target='_blank'>Materiom</a>, une plateforme ouverte de recettes de biomatériaux. 
+              Elle est professeure associée d'économie circulaire à la Facultad de Administración y Economía, Universidad de Santiago du Chili. 
+              Elle est également Associate Fellow au CABDyN Complexity Centre, Saïd Business School, à l'Université d'Oxford. 
+              Alysia fait des recherches sur la fabrication numérique et l'économie circulaire, en se concentrant particulièrement sur les biomatériaux, les données ouvertes et les marchés locaux de matériaux.
+               Alysia est titulaire d'un doctorat de la Saïd Business School de l'Université d'Oxford.
+               </p>"
