@@ -74,6 +74,22 @@ en:
       buttontext: "PARTICIPATE"
       modal     : ""
       link      : "https://forms.gle/289qVARsA2nxCBmRA"
+    
+    - item      : "item7"
+      menu      : "Become a sponsor"
+      title     : "Become a sponsor is …"
+      text      : "<ul class='colorwhite'>
+                    <li>An opportunity to be thought leader in disruptive technology fields such as 3D Printing, CAD design, robotics, laser machining and more!</li>
+                    <li>Create a collaborative spirit among fabricators worldwide to move complex projects forward.</li>
+                    <li>Connect with leaders who are using digital fabrication as a means to breakthroughs in diverse fields.</li>
+                    <li>Make your brand or products and services known to a creative audience who utilize a wide variety of hardware and software.</li>
+                  </ul>
+                  <p class='colorwhite'>
+                  Contact us to find out how you can take part in this extraordinary event and secure your participation, at <a href='mailto:fab16@communautique.quebec'>fab16@communautique.quebec</a> 
+                  </p>"
+      buttontext: ""
+      modal     : ""
+      link      : ""
 
 fr:
   title   : "PARTICIPER"
@@ -138,7 +154,7 @@ fr:
       link      : ""
     
     - item      : item6
-      menu      : "Devenir bénévole"
+      menu      : "Devenez bénévole"
       title     : "Devenir bénévole c'est ..."
       text      : "<ul class='colorwhite'>
                     <li>Être en contact avec des gens de cultures différentes</li>
@@ -155,3 +171,19 @@ fr:
       buttontext: "PARTICIPEZ"
       modal     : ""
       link      : "https://docs.google.com/forms/d/e/1FAIpQLScpdv4bVR-KPC_U6WllS1fAMZLeeFGZF3oO6wmuc5R0OKzldw/viewform"
+    
+    - item      : item7
+      menu      : "Devenez commanditaire"
+      title     : "Devenir commanditaire c’est …"
+      text      : "<ul class='colorwhite'>
+                    <li>Une occasion d’être un chef de file dans les domaines des technologies de rupture comme l’impression 3D, la conception CAO, la robotique, l’usinage laser et plus encore.</li>
+                    <li>Créez un esprit de collaboration entre les fabricants du monde entier pour faire avancer des projets complexes.</li>
+                    <li>Communiquez avec des chefs de file qui utilisent la fabrication numérique comme moyen de faire des percées dans divers domaines.</li>
+                    <li>Faites connaître votre marque ou vos produits et services à un public créatif qui utilise une grande variété de matériel et de logiciels.</li>
+                  </ul>
+                  <p class='colorwhite'>
+                  Contactez-nous pour trouver comment vous pouvez prendre part à cet extraordinaire événement et assurer votre participation, en nous écrivant à <a href='mailto:fab16@communautique.quebec'>fab16@communautique.quebec</a>
+                  </p>"
+      buttontext: ""
+      modal     : ""
+      link      : ""

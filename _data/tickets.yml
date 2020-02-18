@@ -12,9 +12,10 @@ en:
 
   subtitletotal2 : "<br><br>
                   <em>There are no refunds on any ticket sales.
-                  </em>
+                  </em><br><br>
+                  The masculine gender is used as a generic, for the sole purpose of not burdening the text.
                   <br><br>
-                  For any questions, feel free to contact us at <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>.
+                  For any questions, contact us at <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>.
                   <br><br>
                   "
   title1day      : "1-DAY Tickets"

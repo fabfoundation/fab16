@@ -42,9 +42,11 @@
   @include bold-font;
 }
 section#applications-item1,
+section#applications-item7,
 .tab button.item1.active,
 .tab button.item1.active:hover,
-.tab button.item7.active {
+.tab button.item7.active,
+.tab button.item7.active:hover {
   background-color: $theme-purple;
 }
 .tab button.item1:hover,
