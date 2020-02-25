@@ -33,7 +33,7 @@ programdesc: "<br><br>
                     <li>Instructeurs Academany</li>
                     <li>Assistive technologies</li>
                     <li>Humanitarian Lab</li>
-                    <li>Scopes</li>
+                    <li><a href="https://www.scopesdf.org/">SCOPES-DF</a></li>
                     <li>Regional Networks</li>
                     <li>Education STEAM</li>
                     <li>Fab Labs with impact</li>
