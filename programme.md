@@ -37,7 +37,7 @@ programdesc: "<br><br>
                     <li><a href='https://www.scopesdf.org/'>SCOPES-DF</a></li>
                     <li>Regional Networks</li>
                     <li>STEAM Education</li>
-                    <li>Fab Labs with impact</li>
+                    <li>Women Makers</li>
                     <li>Fab Kids</li>
                 </ul>
                 Research presentations<br>
@@ -51,7 +51,7 @@ programdesc: "<br><br>
                 <br><br>
                 "
 programdesc2: "<br><br>
-                <strong style='' class='travelmenu'>Fab Festival - August 1st and 2nd</strong>
+                <strong style='' class='travelmenu'>Fab Festival - August 1st</strong>
                 <br><br>
                 The Fab Festival is a weekend event that follows the structure of the main event, but with activities, adapted for the general public and children, offered by Fab Labs around the world.<br>
                 <ul>
@@ -60,13 +60,17 @@ programdesc2: "<br><br>
                     <li>Demonstrations</li>
                 </ul>
                 <br><br>
+                <strong style='' class='travelmenu'>Sunday Walk - August 2nd</strong>
+                <br><br>
+                A day trip to visit the Fab Labs in the city.
+                <br><br>
                 <strong style='' class='travelmenu'>The Fab City Summit from July 31th to August 2nd</strong>
                 <br><br>
-                A three-day series of conferences and workshops offered by world and local luminaries that highlight the global issues facing cities and territories and the concrete initiatives surrounding the growth of Fab Cities.
+                A two-day series of conferences and workshops offered by world and local luminaries that highlight the global issues facing cities and territories and the concrete initiatives surrounding the growth of Fab Cities. And a day of key destinations in the city.
                 <br><br><br>
                 <strong style='' class='travelmenu'>Fab City Campus from July 30 to August 6</strong>
                 <br><br>
-                A short term intervention, nine (9) days, which will highlight local and international experiences and Fab City prototypes. It will include exhibits, tours of local Fab Labs and fabricating workshops.<br>
+                A short term intervention, eight (8) days, which will highlight local and international experiences and Fab City prototypes. It will include exhibits, tours of local Fab Labs and fabricating workshops.<br>
                 "
 program: ""
 

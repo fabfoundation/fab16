@@ -36,7 +36,7 @@ programdesc: "<br><br>
                     <li><a href='https://www.scopesdf.org/'>SCOPES-DF</a></li>
                     <li>Regional Networks</li>
                     <li>Education STEAM</li>
-                    <li>Fab Labs with impact</li>
+                    <li>Femmes Makers</li>
                     <li>Fab Kids</li>
                 </ul>
                 Des présentations de recherches<br>
@@ -49,22 +49,26 @@ programdesc: "<br><br>
                 Des Fab Labs mobiles<br>
                 "
 programdesc2: "<br><br>
-                <strong style='' class='travelmenu'>Fab Festival - Les 1er et 2 août</strong>
+                <strong style='' class='travelmenu'>Fab Festival - Le 1er août</strong>
                 <br><br>
-                Le Fab Festival est un événement se déroulant tout le weekend et qui reprend la structure de l’événement principal, mais avec des activités, adaptées pour le grand public et les enfants, offertes par les Fab Labs du monde entier.<br>
+                Le Fab Festival est un événement se déroulant tout le samedi et qui reprend la structure de l’événement principal, mais avec des activités, adaptées pour le grand public et les enfants, offertes par les Fab Labs du monde entier.<br>
                 <ul>
                     <li>Foire interactive de projets inspirants</li>
                     <li>Conférences</li>
                     <li>Démonstrations</li>
                 </ul>
                 <br><br>
+                <strong style='' class='travelmenu'>La promenade du dimanche - le 2 août</strong>
+                <br><br>
+                Une journée de visite des Fab Labs dans la ville.
+                <br><br>
                 <strong style='' class='travelmenu'>Le Fab City Summit du 31 juillet au 2 août</strong>
                 <br><br>
-                Une série de conférences et d’ateliers sur trois jours offerts par des sommités mondiales et locales qui mettent en lumière les enjeux globaux auxquels font face les villes et territoires et les initiatives concrètes entourant l’essor des Fab City.
+                Une série de conférences et d’ateliers sur deux jours offerts par des sommités mondiales et locales qui mettent en lumière les enjeux globaux auxquels font face les villes et territoires et les initiatives concrètes entourant l’essor des Fab City. Et une journée de visites des destinations phares dans la ville.
                 <br><br><br>              
                 <strong style='' class='travelmenu'>Le Campus Fab City du 30 juillet au 6 août</strong>
                 <br><br><br>
-                Une intervention à court terme, neuf (9) jours, qui mettra en valeur les expériences locales et internationales et les prototypes de Fab City. Il comprendra des expositions, des visites guidées des Fab Labs locaux et des ateliers de fabrication.<br>
+                Une intervention à court terme, huit (8) jours, qui mettra en valeur les expériences locales et internationales et les prototypes de Fab City. Il comprendra des expositions, des visites guidées des Fab Labs locaux et des ateliers de fabrication.<br>
                 "
 program: ""
 
