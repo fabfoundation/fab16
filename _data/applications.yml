@@ -49,7 +49,7 @@ en:
     - item      : "item5"
       menu      : "Fab Festival"
       title     : "Participate with a Fab Festival Workshop"
-      text      : "The Fab Festival is a two-day event (Saturday and Sunday) open to the public. Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies. An event you certainly won't want to miss!
+      text      : "The Fab Festival is an all-Saturday event open to the public. Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies. An event you certainly won't want to miss!
                   <br><br>
                   If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>"
       buttontext: ""
@@ -146,7 +146,7 @@ fr:
     - item      : item5
       menu      : "Fab Festival"
       title     : "Organisez un atelier au Fab Festival "
-      text      : "Le Fab Festival est un événement de deux jours (samedi et dimanche) ouvert au public. Des ateliers gratuits où les enfants, les jeunes et les moins jeunes auront la possibilité d'avoir leur première expérience des méthodologies de fabrication numérique. Un événement que vous ne pourrez certainement pas manquer !
+      text      : "Le Fab Festival est un événement d’une journée, le samedi, ouvert au public. Des ateliers gratuits où les enfants, les jeunes et les moins jeunes auront la possibilité d'avoir leur première expérience des méthodologies de fabrication numérique. Un événement que vous ne pourrez certainement pas manquer !
                   <br><br>
                   Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>"
       buttontext: ""
