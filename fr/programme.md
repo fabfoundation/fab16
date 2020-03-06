@@ -51,7 +51,7 @@ programdesc: "<br><br>
 programdesc2: "<br><br>
                 <strong style='' class='travelmenu'>Fab Festival - Le 1er août</strong>
                 <br><br>
-                Le Fab Festival est un événement se déroulant tout le samedi et qui reprend la structure de l’événement principal, mais avec des activités, adaptées pour le grand public et les enfants, offertes par les Fab Labs du monde entier.<br>
+                Le Fab Festival est un événement se déroulant le samedi et qui reprend la structure de l’événement principal, mais avec des activités, adaptées pour le grand public et les enfants, offertes par les Fab Labs du monde entier.<br>
                 <ul>
                     <li>Foire interactive de projets inspirants</li>
                     <li>Conférences</li>

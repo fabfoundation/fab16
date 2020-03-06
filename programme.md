@@ -53,7 +53,7 @@ programdesc: "<br><br>
 programdesc2: "<br><br>
                 <strong style='' class='travelmenu'>Fab Festival - August 1st</strong>
                 <br><br>
-                The Fab Festival is a weekend event that follows the structure of the main event, but with activities, adapted for the general public and children, offered by Fab Labs around the world.<br>
+                The Fab Festival is a Saturday event that follows the structure of the main event, but with activities, adapted for the general public and children, offered by Fab Labs around the world.<br>
                 <ul>
                     <li>Interactive fair of inspiring projects</li>
                     <li>Conferences</li>
