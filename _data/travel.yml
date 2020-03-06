@@ -48,10 +48,12 @@ en:
   item4button: "Book your hotel"
   item4desc  : "Partners Travel is Fab Foundation’s travel planning partner for FAB16 Montréal. We provide FAB16 Montréal attendees with assistance in booking flights, ground transportation and hotel accommodations.
                <br><br>
-               <strong>To view all of the hotels in the area, and conference discounts, click here for the full hotel booking site!</strong>
+               <strong>To view all of the hotels in the area, and conference discounts, click here for the full hotel booking site! See below for two special offers in addition to our booking website.</strong>
                "
   item4desc2 : "<br><br>
-               <strong style='font-size:22px;'>Special offer!</strong>
+               <strong style='font-size:22px;'>McGill University and Marriott Special offer!</strong>
+               <br><br>
+               <strong style='font-size:22px;'>McGill’s accommodations</strong>
                <br><br>
                Interested in McGill’s accommodations? We have reserved rooms in the following residencies for July 26 - Aug 2 (you may reserve for any dates within this time and remember to mention that you are participating in FAB16): 
                <br><br>
@@ -71,6 +73,10 @@ en:
                <br>
                Individual cancellations must be made in writing or by calling <strong>514-398-5200 by 12:00 pm (noon) 2 days</strong> prior to arrival, otherwise a charge equal to the first night stay plus tax will be charged to the credit card on file. 
                <strong>Check in time is 3 pm. Check out time is 11:00 am.</strong>  Please note that an early departure fee will be applied for any delegate leaving early without notice prior to 12:00 pm (noon) 2 days prior to the arrival date. 
+               <br><br>
+               <strong style='font-size:22px;'>Delta Hotels Montréal by Marriott</strong>
+               <br><br>
+               Delta Hotels Montréal is offering FAB16 participants a special discount at 249$ CAD/night. <a href='https://www.marriott.com/event-reservations/reservation-link.mi?id=1581533650744&key=GRP&app=resvlink' target='_blank'>BOOK HERE</a>
                "
 
   item5text  : "What to do in Montréal?"
@@ -196,10 +202,12 @@ fr:
   item4button: "Réservez votre hôtel"
   item4desc  : "Notre partenaire de voyage pour FAB16 Montréal est celui de la Fab Foundation. Nous offrons aux participants de FAB16 Montréal une assistance pour la réservation des vols, des transports terrestres et de l’hébergement.
                <br><br>
-               <strong>Pour consulter tous les hôtels dans le secteur et les offres spéciales, cliquez ici pour le site de réservation complet!</strong>
+               <strong>Pour consulter tous les hôtels dans le secteur et les offres spéciales, cliquez ici pour le site de réservation complet! Voir ci-dessous pour deux offres spéciales en plus de notre site de réservation.</strong>
                "
   item4desc2 : "<br><br>
-               <strong style='font-size:22px;'>Offre spéciale!</strong>
+               <strong style='font-size:22px;'>Offre spéciale de l’Université McGill et de Marriott!</strong>
+               <br><br>
+               <strong style='font-size:22px;'>Les résidences McGill</strong>
                <br><br>
                Intéressé par les hébergements sur le Campus McGill ? Nous avons réservé des chambres dans les résidences suivantes du 26 juillet au 2 août (Vous pouvez réserver uniquement durant cette période et rappelez-vous de mentionner que vous participez au FAB16):
                <br><br>
@@ -219,6 +227,10 @@ fr:
                <br>
                L’annulation est possible en nous informant par écrit ou en téléphonant au <strong>514-398-5200 jusqu’à midi (12h00), deux jours</strong> avant votre arrivée, dans le cas contraire le montant équivalent au prix de la première nuit incluant les taxes sera prélevé sur votre carte de crédit.
                <strong>Heure d’arrivée à partir de 15h00 en après-midi. Heure de départ jusque 11h00 au matin.</strong> Veuillez noter que des frais de départ anticipé seront appliqués pour tout délégué partant plus tôt et sans avoir averti avant 12h00 (midi) 2 jours avant la date d’arrivée.
+               <br><br>
+               <strong style='font-size:22px;'>Delta Hotels Montréal par Marriott</strong>
+               <br><br>
+               Delta Hotels Montréal offre aux participants du FAB16 un rabais spécial à 249$ CAD/nuit.  <a href='https://www.marriott.com/event-reservations/reservation-link.mi?id=1581533650744&key=GRP&app=resvlink' target='_blank'>RÉSERVEZ ICI</a>
                "
 
   item5text  : "Quoi faire à Montréal!"
