@@ -118,6 +118,25 @@ en:
               Alysia researches digital fabrication and the circular economy, with a particular focus on biomaterials, open data and local material markets. 
               Alysia has a Doctorate from the Saïd Business School, University of Oxford.
               </p>"
+    - img  : assets/img/speakers/BobMartin.jpg
+      label: "Bob Martin"
+      title: "“The Wizard of Make”, Senior Staff Engineer at Microchip"
+      desc : "<p>
+              An avid Maker before it was a common term, Bob Martin has been disassembling things to see how they work and trying to improve the designs for his entire life. After obtaining a Degree in Electrical Engineering from the University of Saskatchewan in Canada, his early career spanned everything from installing specialized instruments into Arctic weather stations, designing industrial control systems and supporting high altitude balloon research projects for Environment Canada and NASA.
+              <br><br>
+              With 30+ years of embedded system design experience (hardware and software) he now serves as the “Wizard of Make” for <a href='http://www.microchip.com' target='_blank'>Microchip</a> in which he keeps the Maker spirit alive within Microchip. He educates aspiring Makers and continues to help them create, experiment and develop.
+             <br><br>
+              He lives in Sunnyvale CA with his wife, twin daughters, a cat with no teeth, and a garage full of surplus wire and “vintage electronics” that really should be recycled.
+              </p>"
+    - img  : assets/img/speakers/PaulSacaridiz.jpg
+      label: "Paul Sacaridiz"
+      title: "Founder and director of Materiom"
+      desc : "<p>
+              Paul Sacaridiz is the Executive Director of the <a href='http://www.haystack-mtn.org' target='_blank'>Haystack Mountain School of Crafts</a> in Deer Isle, Maine. 
+              He has nearly twenty years of experience in higher education, and prior to leading Haystack served as Professor and Chair of the Department of Art at the University of Wisconsin-Madison.
+              <br><br>
+              Paul has been a fellow with the National Council of Arts Administrators and has served on the boards of the National Council on Education for the Ceramic Arts (NCECA) and the Craft Emergency Relief Fund (CERF+). His work as an artist has been included in exhibitions at the Philadelphia Museum of Art, the Denver Art Museum and the Houston Center for Contemporary Craft among others.
+               </p>"
   
 
 fr:
@@ -229,7 +248,7 @@ fr:
               <br><br>
               Lien--<a href='https://www.sparkfun.com/' target='_blank'>SparkFun</a>
               </p>"
-    - img  : "assets/img/speakers/AlysiaGarmulewicz.jpg"
+    - img  : assets/img/speakers/AlysiaGarmulewicz.jpg
       label: "Alysia Garmulewicz"
       title: "Fondatrice et directrice de Materiom"
       desc : "<p>
@@ -238,4 +257,24 @@ fr:
               Elle est également Associate Fellow au CABDyN Complexity Centre, Saïd Business School, à l'Université d'Oxford. 
               Alysia fait des recherches sur la fabrication numérique et l'économie circulaire, en se concentrant particulièrement sur les biomatériaux, les données ouvertes et les marchés locaux de matériaux.
                Alysia est titulaire d'un doctorat de la Saïd Business School de l'Université d'Oxford.
+               </p>"
+    - img  : assets/img/speakers/BobMartin.jpg
+      label: "Bob Martin"
+      title: "“The Wizard of Make”, ingénieur principal chez Microchip"
+      desc : "<p>
+              Fervent Maker avant que ce terme ne devienne commun, Bob Martin a démonté des objets pour voir comment ils fonctionnaient et a essayé d'améliorer les designs toute sa vie. Après avoir obtenu un diplôme en génie électrique à l'Université de Saskatchewan au Canada, sa carrière a débuté par l'installation d'instruments spécialisés dans les stations météorologiques de l'Arctique, la conception de systèmes de contrôle industriels et le soutien de projets de recherche sur les ballons à haute altitude pour Environnement Canada et la NASA.
+              <br><br>
+              Avec plus de 30 ans d'expérience dans la conception de systèmes embarqués (matériel et logiciel), il est aujourd'hui le \"Wizard of Make\" pour <a href='http://www.microchip.com' target='_blank'>Microchip</a>, dans lequel il soutient l'esprit du Maker bien vivant. Il forme les futurs Makers et continue à les aider à créer, expérimenter et développer. 
+             <br><br>
+             Il vit à Sunnyvale, en Californie, avec sa femme, ses filles jumelles, un chat sans dents et un garage rempli de surplus de fil et de \"matériel électronique vintage\" qui devrait vraiment être recyclé.
+              </p>"
+    - img  : assets/img/speakers/PaulSacaridiz.jpg
+      label: "Paul Sacaridiz"
+      title: "Directeur du Haystack Mountain School of Crafts"
+      desc : "<p>
+              Paul Sacaridiz est le directeur exécutif du <a href='http://www.haystack-mtn.org' target='_blank'>Haystack Mountain School of Crafts</a> à Deer Isle, dans le Maine.
+              Il a près de vingt ans d'expérience dans l'enseignement supérieur, et avant de diriger Haystack, il a été professeur et directeur du département d'art de l'Université du Wisconsin-Madison.
+              <br><br>
+              Paul a été membre du National Council of Arts Administrators et a siégé aux conseils d'administration du National Council on Education for the Ceramic Arts (NCECA) et au Craft Emergency Relief Fund (CERF+).
+              Son travail d'artiste a fait l'objet d'expositions, entre autres, au Philadelphia Museum of Art, au Denver Art Museum et au Houston Center for Contemporary Craft.
                </p>"
