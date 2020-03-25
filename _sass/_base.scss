@@ -594,3 +594,8 @@ img::-moz-selection {
     color: white;
     background: transparent;
 }
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
