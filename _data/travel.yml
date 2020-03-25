@@ -1,6 +1,6 @@
 en:
-  title      : "travel"
-  img_home   : "assets/img/travel3-opt.jpg"
+  title      : "Practical info"
+  img_home   : "assets/img/travel3-opt3.jpg"
   img        : "assets/img/travel4-opt.jpg"
   img_bis    : "assets/img/travel_home-opt.jpg"
   text       : "Each year we try to make your stay as gratifying as possible. FAB16 will be in Montréal on the McGill University campus in the heart of the city. Our site includes information on all of your travel needs getting to Canada, and getting around Montréal.
@@ -151,8 +151,8 @@ en:
                "
 
 fr:
-  title      : "voyage"
-  img_home   : "assets/img/travel3-opt.jpg"
+  title      : "Infos pratiques"
+  img_home   : "assets/img/travel3-opt3.jpg"
   img        : "assets/img/travel4-opt.jpg"
   img_bis    : "assets/img/travel_home-opt.jpg"
   text       : "Chaque année, nous voulons rendre votre séjour aussi agréable que possible. Le FAB16 se tiendra à Montréal sur le campus de l’Université McGill au coeur du centre-ville.

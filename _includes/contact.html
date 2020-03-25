@@ -2,14 +2,14 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-12 text-center contactheader marg100bot">
+            <div class="col-lg-10 col-lg-offset-1 text-left contactheader marg100bot">
                 <h2 class="section-heading contacttitle marg25bot">{{ site.data.sponsors[page.lang].thankstitle }}</h2>
 
                 <br>
                 <p class="contactsubtitle marg25top">{{ site.data.sponsors[page.lang].hosttitle }}</p>
-                <div class="row resp-grid">
+                <div class="row">
                     {% for p in site.data.sponsors[page.lang].host %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors text-center resp-grid-item">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors text-left">
                         <a href="{{ p.url }}" class="portfolio-box" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
                         </a>
@@ -19,10 +19,10 @@
 
                 <br>
                 <p class="contactsubtitle">{{ site.data.sponsors[page.lang].communitypartnerstitle }}</p>
-                <div class="row resp-grid">
+                <div class="row">
 
                     {% for p in site.data.sponsors[page.lang].communitypartners %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors resp-grid-item community mx-auto pad25bot text-center">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsor community mx-auto pad25bot text-left">
                         <a href="{{ p.url }}" class="portfolio-box" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
                         </a>
@@ -32,10 +32,10 @@
 
                 <br>
                 <p class="contactsubtitle">{{ site.data.sponsors[page.lang].sponsorstitle }}</p>
-                <div class="row resp-grid">
+                <div class="row">
 
                     {% for p in site.data.sponsors[page.lang].sponsors %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 {{ is_offset }} sponsors  resp-grid-item mx-auto text-center">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 {{ is_offset }} sponsors mx-auto text-left">
                         <a href="{{ p.url }}" class="portfolio-box" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
                         </a>
@@ -45,10 +45,10 @@
 
                 <br>
                 <p class="contactsubtitle">{{ site.data.sponsors[page.lang].governmenttitle }}</p>
-                <div class="row resp-grid">
+                <div class="row">
 
                     {% for p in site.data.sponsors[page.lang].government %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors resp-grid-item mx-auto text-center{{ is_offset }}">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
                         <a href="{{ p.url }}" class="portfolio-box" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
                         </a>
@@ -72,7 +72,7 @@
                     <p class="colorgreen">{{site.data.footer[page.lang].contact.donatetext}}</p>
 
                     <br>
-                    <a href="{{site.data.footer[page.lang].contact.buttonlink}}" target="_blank" class="btn btn-default btn-xl btn-dark">{{site.data.footer[page.lang].contact.button}}</a>
+                    <a href="{{site.data.footer[page.lang].contact.buttonlink}}" target="_blank" class="btn btn-default btn-sm btn-primary">{{site.data.footer[page.lang].contact.button}}</a>
 
                 </div>
             </div>
@@ -85,9 +85,34 @@
     </div>
 </section>
 
+
+
 <footer class="backblue">
-    <div class="container">
-        <div class="container">
+    <div class="container" style="width: 90%; margin: auto;">
+        <div class="col-lg-12 pad10top" style="text-align: left; margin-bottom: 25px; margin-top:50px;padding-left:0px">
+            <a class="navbar-brand page-scroll colorgrey" style="font-size: 44px;padding:0px;" href="{{ site.baseurl}}{{site.data.locales[page.lang].homelink}}">FAB16</a>
+            <br>
+        </div>
+        <div class="col-lg-8 pad10top pad10bot">
+            <div class="row colorwhite" style="text-align: left;">
+                {{ site.data.footer[page.lang].footertext1 }} <a href="{{ site.data.footer[page.lang].communautiquelink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].communautique }}</a>, <a href="{{ site.data.footer[page.lang].fabfoundationlink }}"
+                    target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fabfoundation }}</a>, <a href="{{ site.data.footer[page.lang].mcgilllink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].mcgill }}</a> {{ site.data.footer[page.lang].footertext3
+                }} <a href="{{ site.data.footer[page.lang].fablabqclink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fablabqc }}</a>
+            </div>
+
+            <div class="row colorwhite" style="text-align: left;">
+                {% assign i = 0 %} {% for menu in site.data.locales[page.lang].footer %} {% if i != 0 %} | {% endif %}
+                <a class="page-scroll colorwhite {{ menu.class }}" href="{{ site.baseurl }}{{ menu.link }}" target="_blank">{{ menu.text }}</a> {% assign i = i | plus:1 %} {% endfor %} |
+
+                <a class="page-scroll colorwhite" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+            </div>
+
+            <div class="row colorwhite" style="text-align: left;">
+                {{ site.data.footer[page.lang].photocredit }}<a class="page-scroll colorwhite" href="{{ site.data.footer[page.lang].photolink }}" target="_blank">{{ site.data.footer[page.lang].phototext }}</a> | {{ site.data.footer[page.lang].footertext2
+                }} <a href="https://dontbe.cool" target="_blank" class="colorwhite">Guillaume Pelletier</a> {{ site.data.footer[page.lang].footertext4 }} <a href="http://demandespeciale.ca/" target="_blank" class="colorwhite">Demande Spéciale</a>
+            </div>
+        </div>
+        <div class="col-lg-4 pad10top pad10bot" style="text-align: right;">
             <div class="row pad25top pad10bot">
                 <div class="col-md-12">
                     <div class="col-md-2 col-md-offset-1 col-xs-3 text-center">
@@ -112,53 +137,12 @@
                     </div>
                     <div class="col-md-2 col-xs-3 text-center">
                         <a href="mailto:{{ site.email }}">
-                        <i class="fa fa-envelope-o fa-3x colorwhite" data-wow-delay=".1s"></i>
+                            <i class="fa fa-envelope-o fa-3x colorwhite" data-wow-delay=".1s"></i>
                         </a>
                     </div>
                 </div>
             </div>
+
         </div>
-
-        <div class="row pad10top pad10bot">
-            <div class="col-lg-12 text-center colorwhite">
-
-                {{ site.data.footer[page.lang].footertext1 }} <a href="{{ site.data.footer[page.lang].communautiquelink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].communautique }}</a>, <a href="{{ site.data.footer[page.lang].fabfoundationlink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fabfoundation }}</a>, <a href="{{ site.data.footer[page.lang].mcgilllink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].mcgill }}</a> {{ site.data.footer[page.lang].footertext3 }} <a href="{{ site.data.footer[page.lang].fablabqclink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fablabqc }}</a>
-
-            </div>
-        </div>
-
-        <div class="row pad10top pad10bot">
-
-            <div class="col-lg-10 col-lg-offset-1 text-center colorwhite">
-
-                {% assign i = 0 %}
-                {% for menu in site.data.locales[page.lang].footer %}
-
-                    {% if i != 0 %}
-                       | 
-                    {% endif %}
-                    <a class="page-scroll colorwhite {{ menu.class }}" href="{{ site.baseurl }}{{ menu.link }}" target="_blank">{{ menu.text }}</a>
-
-                    {% assign i = i | plus:1 %}
-                {% endfor %}
-
-                |
-
-                <a class="page-scroll colorwhite" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>
-
-            </div>
-        </div>
-
-        <div class="row pad10top pad10bot">
-            <div class="col-lg-12 text-center colorwhite">
-
-                {{ site.data.footer[page.lang].photocredit }}<a class="page-scroll colorwhite" href="{{ site.data.footer[page.lang].photolink }}" target="_blank">{{ site.data.footer[page.lang].phototext }}</a>
-
-                |
-
-                {{ site.data.footer[page.lang].footertext2 }} <a href="https://dontbe.cool" target="_blank" class="colorwhite">Guillaume Pelletier</a> {{ site.data.footer[page.lang].footertext4 }} <a href="http://demandespeciale.ca/" target="_blank" class="colorwhite">Demande Spéciale</a>
-            </div>
-        </div>
-
     </div>
 </footer>

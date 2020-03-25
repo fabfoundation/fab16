@@ -1,47 +1,60 @@
 <section id="about" class="pad0top pad0bot backblue">
     <div class="container pad25top pad25bot">
         <div class="row">
-            <div class="col-lg-12 text-center trackstitle colorgrey">
+            <div class="col-lg-4">
+                <img class="" style="max-height:400px; width:auto; margin:auto;" src="{{ site.data.tracks[page.lang].img1 | relative_url}}" alt="{{site.data.tracks[page.lang].title}}" />
+            </div>
+            <div class="col-lg-8 text-left trackstitle colorgrey">
                 <br><br>
                 <h2 class="section-heading">{{ site.data.tracks[page.lang].title }}</h2>
-                <br>
-                {{ site.data.tracks[page.lang].text }}
+                <br> {{ site.data.tracks[page.lang].text }}
             </div>
         </div>
     </div>
 
-    <div class="container tracks backgrey marg25top marg0bot pad50bot">
+    <div class="container tracks backwhite marg25top marg0bot pad50bot">
         <div class="container pad50top">
             <div class="row">
-                <div class="col-lg-12 text-center trackstitle colorgreen">
-                    {{ site.data.tracks[page.lang].text2 }}
+                <div class="col-lg-8 text-left trackstitle colorgreen">
+                    <h2 class="section-heading">{{ site.data.tracks[page.lang].title2 }}</h2>
+                    <br> {{ site.data.tracks[page.lang].text2 }}
+                </div>
+                <div class="col-lg-4">
+                    <img class="" style="max-height:300px; width:auto; margin:auto;" src="{{ site.data.tracks[page.lang].img2 | relative_url}}" alt="{{site.data.tracks[page.lang].title2}}" />
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="row resp-grid">
-            {% for track in site.data.tracks[page.lang].track %}
-                {% if forloop.index == 1 %}
-                    {% assign is_offset = "" %}
-                {% else %}
-                    {% assign is_offset = "" %}
-                {% endif %}
+    <div class="container tracks backgrey pad25top marg0bot pad50bot">
+        <div class="container pad50top">
+            <div class="row">
+                <div class="col-lg-12 text-left trackstitle colorgreen">
+                    <h2 class="section-heading">{{ site.data.tracks[page.lang].tracktitle }}</h2>
+                </div>
+            </div>
+
+            <div class="row resp-grid">
+                {% for track in site.data.tracks[page.lang].track %} {% if forloop.index == 1 %} {% assign is_offset = "" %} {% else %} {% assign is_offset = "" %} {% endif %}
 
                 <div class="col-lg-4 col-md-6 text-center resp-grid-item colorgreen{{ is_offset }}">
                     <div class="tracks-box">
                         {% if track.img != "" %}
-                        <div class="tracks-box-img" style=""> <!-- overlay-image -->
+                        <div class="tracks-box-img">
+                            <!-- overlay-image
                             <img class="tracks-img" src="{{ track.img | relative_url}}" alt="{{track.title}}" />
-                            <div class="hover" style="">
+                            <div class="hover">
                                 <img class="tracks-imghover" src="{{ track.imghover | relative_url}}" alt="{{track.title}}" style=" height: 100%; width: 100%;" />
-                            </div>
+                            </div> -->
+                            <img class="tracks-img" src="{{ track.imghover | relative_url}}" alt="{{track.title}}" />
                         </div>
                         {% endif %}
                         <h3>{{track.title}}</h3>
                         <p class="text-muted colorgreen">{{track.description}}</p>
                     </div>
                 </div>
-            {% endfor %}
+                {% endfor %}
+            </div>
         </div>
 
     </div>

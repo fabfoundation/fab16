@@ -6,58 +6,61 @@
 }
 
 @mixin button-variant($color, $background, $border) {
-	color: $color;
-	background-color: $background;
-	border-color: $border;
-	@include transition(all, 0.35s, ease);
-
-	&:hover,
-	&:focus,
-	&.focus,
-	&:active,
-	&.active,
-	.open > .dropdown-toggle & {
-		color: $background;
-		background-color: $color;
-    border-color: $color;
-	}
-	&:active,
-	&.active,
-	.open > .dropdown-toggle & {
-		background-image: none;
-	}
-	&.disabled,
-	&[disabled],
-	fieldset[disabled] & {
-		&,
-		&:hover,
-		&:focus,
-		&.focus,
-		&:active,
-		&.active {
-			background-color: $background;
-			border-color: $border;
-		}
-	}
-
-	.badge {
-		color: $background;
-		background-color: $color;
-	}
+    color: $color;
+    background-color: $background;
+    border-color: $border;
+    @include transition(all, 0.35s, ease);
+    &:hover,
+    &:focus,
+    &.focus,
+    &:active,
+    &.active,
+    .open>.dropdown-toggle & {
+        color: $color;
+        background-color: rgba( $background, .7);
+        border-color: rgba( $background, .7);
+    }
+    &:active,
+    &.active,
+    .open>.dropdown-toggle & {
+        background-image: none;
+    }
+    &.disabled,
+    &[disabled],
+    fieldset[disabled] & {
+        &,
+        &:hover,
+        &:focus,
+        &.focus,
+        &:active,
+        &.active {
+            background-color: $background;
+            border-color: $border;
+        }
+    }
+    .badge {
+        color: $background;
+        background-color: $color;
+    }
 }
+
 
 /*@font-face {
   font-family: 'HKGuise-Bold';
   src: url(../fonts/HKGuise-Bold.otf) format("opentype"), url(../fonts/HKGuise-Bold.woff) format("woff"), url(../fonts/HKGuise-Bold.ttf) format("truetype");
 }*/
+
 @font-face {
-  font-family: 'HKGuise-SemiBold';
-  src: url(../fonts/HKGuise-SemiBold.otf) format("opentype"), url(../fonts/HKGuise-SemiBold.woff) format("woff"), url(../fonts/HKGuise-SemiBold.ttf) format("truetype");
+    font-family: 'HKGuise-SemiBold';
+    src: url(../fonts/HKGuise-SemiBold.otf) format("opentype"), url(../fonts/HKGuise-SemiBold.woff) format("woff"), url(../fonts/HKGuise-SemiBold.ttf) format("truetype");
 }
+
 @font-face {
-  font-family: 'HKGuise-Medium';
-  src: url(../fonts/HKGuise-Medium.otf) format("opentype"), url(../fonts/HKGuise-Medium.woff) format("woff"), url(../fonts//HKGuise-Medium.ttf) format("truetype");
+    font-family: 'HKGuise-Medium';
+    src: url(../fonts/HKGuise-Medium.otf) format("opentype"), url(../fonts/HKGuise-Medium.woff) format("woff"), url(../fonts//HKGuise-Medium.ttf) format("truetype");
 }
+
+
 /*@font-face {
   font-family: 'HKGuise-Regular';
   src: url(../fonts/HKGuise-Regular.otf) format("opentype"), url(../fonts/HKGuise-Regular.woff) format("woff"), url(../fonts/HKGuise-Regular.ttf) format("truetype");
@@ -67,39 +70,39 @@
   src: url(../fonts/HKGuise-Light.otf) format("opentype"), url(../fonts/HKGuise-Light.woff) format("woff"), url(../fonts/HKGuise-Light.ttf) format("truetype");
 }*/
 
-
-
 @mixin bold-font() {
-	font-family: 'HKGuise-SemiBold', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'HKGuise-SemiBold', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 @mixin medium-font() {
-	font-family: 'HKGuise-Medium', 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'HKGuise-Medium', 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 
 ///////
-
 @mixin border-radius ($radius: 4px) {
-	border-radius			: $radius;
-	-moz-border-radius		: $radius;
-	-webkit-border-radius	: $radius;
+    border-radius: $radius;
+    -moz-border-radius: $radius;
+    -webkit-border-radius: $radius;
 }
 
 @mixin opacity ($opacity: 0.5) {
-	$ieOpacity			: $opacity * 100;
-	opacity				: $opacity;
-	-moz-opacity		: $opacity;
-	-webkit-opacity		: $opacity;
-	-ms-filter			: progid:DXImageTransform.Microsoft.Alpha(opacity=#{$ieOpacity}); /* IE 8 */
-	filter				: alpha(opacity = #{$ieOpacity}); /* IE 5-7 */
+    $ieOpacity: $opacity * 100;
+    opacity: $opacity;
+    -moz-opacity: $opacity;
+    -webkit-opacity: $opacity;
+    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=#{$ieOpacity});
+    /* IE 8 */
+    filter: alpha(opacity=#{$ieOpacity});
+    /* IE 5-7 */
 }
 
 @mixin transition ($type:all, $time:0.2s, $ease:ease) {
-    transition			: $type $time $ease;
-    -moz-transition		: $type $time $ease;
-    -webkit-transition	: $type $time $ease;
-    -o-transition		: $type $time $ease;
+    transition: $type $time $ease;
+    -moz-transition: $type $time $ease;
+    -webkit-transition: $type $time $ease;
+    -o-transition: $type $time $ease;
 }
+
 
 /*@mixin animation ($name, $duration: 300ms, $delay: 0, $ease: ease) {
 	-moz-animation		: $name, $duration, $delay, $ease;
@@ -108,24 +111,24 @@
 }*/
 
 @mixin transform ($deg) {
-	transform			: $deg;
-	-moz-transform		: $deg;
-	-ms-transform		: $deg;
-	-o-transform		: $deg;
-	-webkit-transform	: $deg;
+    transform: $deg;
+    -moz-transform: $deg;
+    -ms-transform: $deg;
+    -o-transform: $deg;
+    -webkit-transform: $deg;
 }
 
 @mixin scale ($multiplier) {
-	transform			: scale($multiplier);
-	-moz-transform		: scale($multiplier);
-	-ms-transform		: scale($multiplier);
-	-o-transform		: scale($multiplier);
-	-webkit-transform	: scale($multiplier);
+    transform: scale($multiplier);
+    -moz-transform: scale($multiplier);
+    -ms-transform: scale($multiplier);
+    -o-transform: scale($multiplier);
+    -webkit-transform: scale($multiplier);
 }
 
 @mixin rotate ($deg) {
-	-moz-transform		: rotate($deg);
-	-ms-transform		: rotate($deg);
-	-o-transform		: rotate($deg);
-	-webkit-transform	: rotate($deg);
+    -moz-transform: rotate($deg);
+    -ms-transform: rotate($deg);
+    -o-transform: rotate($deg);
+    -webkit-transform: rotate($deg);
 }

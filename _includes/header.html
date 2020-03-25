@@ -2,27 +2,17 @@
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
-            {% for gallery in page.gallery %}
-            {% if forloop.index == 1 %}
-                {% assign is_active = " active" %}
-            {% else %}
-                {% assign is_active = "" %}
-            {% endif %}
+            {% for gallery in page.gallery %} {% if forloop.index == 1 %} {% assign is_active = " active" %} {% else %} {% assign is_active = "" %} {% endif %}
             <li data-target="#myCarousel" data-slide-to="{{ forloop.index | minus: 1}}" class="{{ is_active }}"></li>
             {% endfor %}
         </ol>
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-            {% for gallery in page.gallery %}
-                {% if forloop.index == 1 %}
-                    {% assign is_active = " active" %}
-                {% else %}
-                    {% assign is_active = "" %}
-                {% endif %}
-                <div class="item{{ is_active }}">
-                    <img src="{{ gallery.img | relative_url }}" alt="{{ gallery.title }}">
-                </div>
+            {% for gallery in page.gallery %} {% if forloop.index == 1 %} {% assign is_active = " active" %} {% else %} {% assign is_active = "" %} {% endif %}
+            <div class="item{{ is_active }}">
+                <img src="{{ gallery.img | relative_url }}" alt="{{ gallery.title }}">
+            </div>
             {% endfor %}
 
         </div>
@@ -33,7 +23,7 @@
             </div>
 
             <div>
-                <h2 class="col-lg-8 col-md-8 col-sm-12 headertitle colorwhite">{{page.text.herodate}}</h2>
+                <h2 class="col-lg-8 col-md-8 col-sm-12 headertitle colorwhite"><span class="backgreen">{{page.text.herodate}}</span></h2>
             </div>
             <div>
                 <h1 class="col-lg-8 col-md-8 col-sm-12 headertitle colorwhite">{{page.text.title}}</h1>
@@ -46,11 +36,11 @@
 </div>
 
 <section id="register">
-	<div class="header-content">
+    <div class="header-content">
         <div class="container">
             <div class="row about-text">
                 <div class="col">
-                    <h2 class="col-lg-12 col-md-12 col-sm-12 text-center colorgreen" style="">{{page.text.date}}</h2>
+                    <h2 class="col-lg-12 col-md-12 col-sm-12 text-center colorgreen">{{page.text.date}}</h2>
                 </div>
             </div>
 
