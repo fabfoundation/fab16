@@ -45,7 +45,7 @@
                                 <strong>{{  ticket.pass }}</strong> {% endif %}
                             </h4>
 
-                            <a href="#" class="btn btn-primary btn-sm btn-ticket mt-2 bottom-align-text" data-toggle="modal" data-target="#myModal{{ forloop.index }}">
+                            <a href="#" class="btn btn-primary btn-sm btn-ticket mt-2 bottom-align-text disabled backwhite" data-toggle="modal" data-target="#myModal{{ forloop.index }}">
                 {{  ticket.buttontext }}
               </a>
                         </div>
@@ -60,7 +60,8 @@
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
 
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe src="{{ ticket.weezeventiframe }}" class="embed-responsive-item" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+                                {% comment %}<iframe src="{{ ticket.weezeventiframe }}" class="embed-responsive-item" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>{% endcomment %}
+                                <h2 style="color: #000;margin: auto;text-align:center;">{{site.data.locales[page.lang].notice}}</h2>
                             </div>
                         </div>
                     </div>

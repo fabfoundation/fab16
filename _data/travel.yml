@@ -35,7 +35,7 @@ en:
   item3link  : "https://partnerstravel.typeform.com/to/MAiVkC"
   item3button: "Fill out the form"
   item3desc  : "Partners Travel is Fab Foundation’s travel planning partner for FAB16 Montréal. We provide FAB16 Montréal attendees with assistance in booking flights, ground transportation and hotel accommodations.
-               <br><br>Fab Foundation has access to a wide variety of travel discounts for Air, Rail, Hotel and Car Rental. Discounted travel is available with American, Iberia, British, Delta, Alitalia, KLM, JetBlue, Cathay Pacific, Emirates, and more. In addition to a special negotiated discount with Air Canada for the FAB16 events. If you have specific questions, or need further assistance, please send all travel requests to <a href='mailto:fab16@partners-travel.com'>fab16@partners-travel.com</a>
+               <br><br>Fab Foundation has access to a wide variety of travel discounts for Air, Rail, Hotel and Car Rental. Discounted travel is available with American, Iberia, British, Delta, Alitalia, KLM, JetBlue, Cathay Pacific, Emirates, and more. In addition to a special negotiated discount with Air Canada for the FAB16 events. If you have specific questions, or need further assistance, please send all travel requests to <a href='mailto:fab16@partners-travel.com' class='btn disabled line' >fab16@partners-travel.com</a>
                <br><br>As a FAB16 participant, you have two options for travel assistance:
                <br><br>1. You can request access to the Fab Foundation SAP Concur Travel booking site to self book your trip to Montreal. This option will give you all of the FAB Foundation travel discounts at a reduce booking transaction fee of $9 (USD) per person, per trip.
                <br><br>2. You can request travel assistance from a FAB Foundation travel agent who can assist you with more complex travel needs for a flat transaction fee of $30 per person, per trip.
@@ -65,7 +65,7 @@ en:
                <br>
                Royal Victoria College: <a href='https://mcgill.ca/accommodations/summer/rvc' target='_blank'>https://mcgill.ca/accommodations/summer/rvc</a>
                <br><br>
-               <strong>Reservations <u>must be made before July 1</u>, and can be made by phone: 514-398-5200, Fax: 514-398-4521 or E-mail: <a href='mailto:reserve.residences@mcgill.ca'>reserve.residences@mcgill.ca</a></strong>
+               <strong>Reservations <u>must be made <span class='line'>before July 1</span></u>, and can be made by phone: 514-398-5200, Fax: 514-398-4521 or E-mail: <a href='mailto:reserve.residences@mcgill.ca' class='btn disabled line'>reserve.residences@mcgill.ca</a></strong>
                <br>
                <em>When making the reservation the guest must provide a valid Visa, MasterCard or AMEX number to guarantee and hold their reservation. Payment accepted includes Cash, Interac, Traveler Cheques, Visa, MasterCard, and American Express only. Each guest is responsible for his or her own payment on arrival.</em>
                <br><br>
@@ -76,7 +76,7 @@ en:
                <br><br>
                <strong style='font-size:22px;'>Delta Hotels Montréal by Marriott</strong>
                <br><br>
-               Delta Hotels Montréal is offering FAB16 participants a special discount at 249$ CAD/night. <a href='https://www.marriott.com/event-reservations/reservation-link.mi?id=1581533650744&key=GRP&app=resvlink' target='_blank'>BOOK HERE</a>
+               Delta Hotels Montréal is offering FAB16 participants a special discount at 249$ CAD/night. <a href='https://www.marriott.com/event-reservations/reservation-link.mi?id=1581533650744&key=GRP&app=resvlink' class='btn disabled line' target='_blank'>BOOK HERE</a>
                "
 
   item5text  : "What to do in Montréal?"
@@ -189,7 +189,7 @@ fr:
   item3link  : "https://partnerstravel.typeform.com/to/MAiVkC"
   item3button: "Remplir le formulaire"
   item3desc  : "Notre partenaire de voyage pour FAB16 Montréal est celui de la Fab Foundation. Nous offrons aux participants de FAB16 Montréal une assistance pour la réservation des vols, des transports terrestres et de l’hébergement.
-               <br><br>La Fab Foundation a accès à une large gamme de rabais de voyage auprès des compagnies aériennes, ferroviaires, hôtelières et de location de voiture. Des voyages à prix réduit sont disponibles pour les compagnies aériennes suivantes : American, Ibera, British, Delta, Alitalia, KLM, JetBlye, Cathay Pacific, Emirates, et d’autres. En plus, nous avons des prix spéciaux négociés avec Air Canada pour les événements du FAB16. Si vous avez des questions particulières, ou besoin d’aide supplémentaire, veuillez envoyer toutes les demandes concernant votre voyage à <a href='mailto:fab16@partners-travel.com'>fab16@partners-travel.com</a>
+               <br><br>La Fab Foundation a accès à une large gamme de rabais de voyage auprès des compagnies aériennes, ferroviaires, hôtelières et de location de voiture. Des voyages à prix réduit sont disponibles pour les compagnies aériennes suivantes : American, Ibera, British, Delta, Alitalia, KLM, JetBlye, Cathay Pacific, Emirates, et d’autres. En plus, nous avons des prix spéciaux négociés avec Air Canada pour les événements du FAB16. Si vous avez des questions particulières, ou besoin d’aide supplémentaire, veuillez envoyer toutes les demandes concernant votre voyage à <a href='mailto:fab16@partners-travel.com' class='btn disabled line' >fab16@partners-travel.com</a>
                <br><br>En tant que participant au FAB16, nous vous proposons deux options d’assistance à l’organisation de votre voyage :
                <br><br>1. Vous pouvez demander l’accès au site de réservation SAP Concur Travel Booking afin de réserver vous même votre voyage à Montréal. Cette option vous donne accès à toutes les réductions de voyage de la Fab Foundation pour un frais de réservation modique de 9$ (USD) par personne, par voyage.
                <br><br>2. Vous pouvez demander l'assistance à la réservation par l’intermédiaire d’un agent de voyage de la Fab Foundation qui vous assistera pour toutes demandes spécifiques complexes pour un frais de réservation unique de 30$ (USD) par personne, par voyage.
@@ -219,7 +219,7 @@ fr:
                <br>
                Royal Victoria College: <a href='https://mcgill.ca/accommodations/summer/rvc' target='_blank'>https://mcgill.ca/accommodations/summer/rvc</a>
                <br><br>
-               <strong>Les réservations <u>doivent être faites avant le 1er juillet</u>, par téléphone: 514-398-5200, télécopieur: 514-398-4521 ou courriel: <a href='mailto:reserve.residences@mcgill.ca'>reserve.residences@mcgill.ca</a></strong>
+               <strong>Les réservations <u>doivent être faites <span class='line'>avant le 1er juillet</span></u>, par téléphone: 514-398-5200, télécopieur: 514-398-4521 ou courriel: <a href='mailto:reserve.residences@mcgill.ca' class='btn disabled line'>reserve.residences@mcgill.ca</a></strong>
                <br>
                <em>Quand vous effectuez la réservation, vous devez fournir un numéro de carte VISA, MASTERCARD, AMEX valide qui garantit le maintien de la réservation. Seuls les modes de paiement suivants sont acceptés : comptant, Interac, chèques de voyage, Visa, MasterCard, American Express. Chaque participant est responsable de son propre paiement à l’arrivée.</em>
                <br><br>
@@ -230,7 +230,7 @@ fr:
                <br><br>
                <strong style='font-size:22px;'>Delta Hotels Montréal par Marriott</strong>
                <br><br>
-               Delta Hotels Montréal offre aux participants du FAB16 un rabais spécial à 249$ CAD/nuit.  <a href='https://www.marriott.com/event-reservations/reservation-link.mi?id=1581533650744&key=GRP&app=resvlink' target='_blank'>RÉSERVEZ ICI</a>
+               Delta Hotels Montréal offre aux participants du FAB16 un rabais spécial à 249$ CAD/nuit.  <a href='https://www.marriott.com/event-reservations/reservation-link.mi?id=1581533650744&key=GRP&app=resvlink' class='btn disabled line' target='_blank'>RÉSERVEZ ICI</a>
                "
 
   item5text  : "Quoi faire à Montréal!"

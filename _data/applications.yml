@@ -51,7 +51,7 @@ en:
       title     : "Participate with a Fab Festival Workshop"
       text      : "The Fab Festival is an all-Saturday event open to the public. Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies. An event you certainly won't want to miss!
                   <br><br>
-                  If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>"
+                  If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org' class='btn disabled line' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
       modal     : ""
       link      : ""
@@ -85,7 +85,7 @@ en:
                     <li>Make your brand or products and services known to a creative audience who utilize a wide variety of hardware and software.</li>
                   </ul>
                   <p class='colorwhite'>
-                  Contact us to find out how you can take part in this extraordinary event and secure your participation, at <a href='mailto:fab16@communautique.quebec'>fab16@communautique.quebec</a> 
+                  Contact us to find out how you can take part in this extraordinary event and secure your participation, at <a href='mailto:fab16@communautique.quebec' class='btn disabled line' style='float:unset;'>fab16@communautique.quebec</a> 
                   </p>"
       buttontext: ""
       modal     : ""
@@ -148,7 +148,7 @@ fr:
       title     : "Organisez un atelier au Fab Festival "
       text      : "Le Fab Festival est un événement d’une journée, le samedi, ouvert au public. Des ateliers gratuits où les enfants, les jeunes et les moins jeunes auront la possibilité d'avoir leur première expérience des méthodologies de fabrication numérique. Un événement que vous ne pourrez certainement pas manquer !
                   <br><br>
-                  Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a>"
+                  Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org' class='btn disabled line' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
       modal     : ""
       link      : ""
@@ -182,7 +182,7 @@ fr:
                     <li>Faites connaître votre marque ou vos produits et services à un public créatif qui utilise une grande variété de matériel et de logiciels.</li>
                   </ul>
                   <p class='colorwhite'>
-                  Contactez-nous pour trouver comment vous pouvez prendre part à cet extraordinaire événement et assurer votre participation, en nous écrivant à <a href='mailto:fab16@communautique.quebec'>fab16@communautique.quebec</a>
+                  Contactez-nous pour trouver comment vous pouvez prendre part à cet extraordinaire événement et assurer votre participation, en nous écrivant à <a href='mailto:fab16@communautique.quebec' class='btn disabled line' style='float:unset;'>fab16@communautique.quebec</a>
                   </p>"
       buttontext: ""
       modal     : ""

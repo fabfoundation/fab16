@@ -1,4 +1,18 @@
 $menu-breakpoint: 1162px;
+
+.notification-top-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 40px;
+  line-height: 34px;
+  width: 100%;
+  text-align: center;
+}
+.notification-top-bar p {
+   margin-top: 6px;
+}
+
 .navbar-fixed-bottom .navbar-collapse,
 .navbar-fixed-top .navbar-collapse {
     max-height: none;

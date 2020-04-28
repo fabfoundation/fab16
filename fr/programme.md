@@ -14,11 +14,11 @@ programheader: "<strong style='font-size:22px;'>Participez à la plus grande con
             <br><br>
             Rejoignez-nous à Montréal, au Canada, pour la réunion annuelle du réseau international des Fab Labs !
             <br><br>
-            Rejoignez les panélistes de classe mondiale, les membres de la communauté des Fab Labs, les fabricants du monde entier et les professionnels de tous les domaines à la 16e conférence annuelle des Fab Labs et au Fab Festival de Montréal, au Canada, du 27 juillet au 2 août, combiné avec le Fab City Summit, du 31 juillet au 2 août. Assistez à des panels de classe mondiale, démonstrations, ateliers, discussions et présentations de laboratoires par des représentants en provenance de tous les coins du globe !
+            Rejoignez les panélistes de classe mondiale, les membres de la communauté des Fab Labs, les fabricants du monde entier et les professionnels de tous les domaines à la 16e conférence annuelle des Fab Labs et au Fab Festival de Montréal, au Canada, <span class='line'>du 27 juillet au 2 août</span>, combiné avec le Fab City Summit, <span class='line'>du 31 juillet au 2 août</span>. Assistez à des panels de classe mondiale, démonstrations, ateliers, discussions et présentations de laboratoires par des représentants en provenance de tous les coins du globe !
             <br><br>
                 "
 programdesc: "<br><br>
-                <strong style='' class='travelmenu'>Fab Lab Conference -  Du 27 au 30 Juillet</strong>
+                <strong style='' class='travelmenu'>Fab Lab Conference -  <span class='line'>Du 27 au 30 Juillet</span></strong>
                 <br><br>
                 Conférence sur l’état du réseau des Fab Labs et les impacts du mouvement des Fab Labs<br>
                 Conférences prospectives<br>
@@ -49,7 +49,7 @@ programdesc: "<br><br>
                 Des Fab Labs mobiles<br>
                 "
 programdesc2: "<br><br>
-                <strong style='' class='travelmenu'>Fab Festival - Le 1er août</strong>
+                <strong style='' class='travelmenu'>Fab Festival - <span class='line'>Le 1er août</span></strong>
                 <br><br>
                 Le Fab Festival est un événement se déroulant le samedi et qui reprend la structure de l’événement principal, mais avec des activités, adaptées pour le grand public et les enfants, offertes par les Fab Labs du monde entier.<br>
                 <ul>
@@ -58,15 +58,15 @@ programdesc2: "<br><br>
                     <li>Démonstrations</li>
                 </ul>
                 <br><br>
-                <strong style='' class='travelmenu'>La promenade du dimanche - le 2 août</strong>
+                <strong style='' class='travelmenu'>La promenade du dimanche - <span class='line'>le 2 août</span></strong>
                 <br><br>
                 Une journée de visite des Fab Labs dans la ville.
                 <br><br>
-                <strong style='' class='travelmenu'>Le Fab City Summit du 31 juillet au 2 août</strong>
+                <strong style='' class='travelmenu'>Le Fab City Summit <span class='line'>du 31 juillet au 2 août</span></strong>
                 <br><br>
                 Une série de conférences et d’ateliers sur deux jours offerts par des sommités mondiales et locales qui mettent en lumière les enjeux globaux auxquels font face les villes et territoires et les initiatives concrètes entourant l’essor des Fab City. Et une journée de visites des destinations phares dans la ville.
                 <br><br><br>              
-                <strong style='' class='travelmenu'>Le Campus Fab City du 30 juillet au 6 août</strong>
+                <strong style='' class='travelmenu'>Le Campus Fab City <span class='line'>du 30 juillet au 6 août</span></strong>
                 <br><br><br>
                 Une intervention à court terme, huit (8) jours, qui mettra en valeur les expériences locales et internationales et les prototypes de Fab City. Il comprendra des expositions, des visites guidées des Fab Labs locaux et des ateliers de fabrication.<br>
                 "
@@ -99,7 +99,7 @@ program: ""
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <div class="row no-gutter comingsoon text-center pad25 backwhite">
-                        Le calendrier détaillé arrive bientôt!
+                        Restez à l'écoute pour Août 2021 !
                 </div>
                 <p class="{{ color_class }} text-center">{{page.program}}</p>
             </div>

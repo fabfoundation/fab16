@@ -13,7 +13,7 @@ en:
   subtitletotal2 : "<br><br>
                   <strong style='font-size:22px;'>Refund Policy </strong>
                   <br>
-                  Your event tickets are refundable upon request until May 1, 2020; please note that a ticket processing fee (tx ticket price in x5%) will be withheld.
+                  Your event tickets are refundable upon request <span class='line'>until May 1, 2020</span>; please note that a ticket processing fee (tx ticket price in x5%) will be withheld.
                   <br><br>
                   <strong style='font-size:22px;'>COVID-19</strong>
                   <br>
@@ -114,7 +114,7 @@ fr:
   subtitletotal2: "<br><br>
                   <strong style='font-size:22px;'>Politique de remboursement </strong>
                   <br>
-                  Vos billets d'événement sont remboursables sur demande jusqu'au 1er mai 2020 ; veuillez noter que des frais de traitement des billets (prix du billet tx in x5%) seront retenus.
+                  Vos billets d'événement sont remboursables sur demande <span class='line'>jusqu'au 1er mai 2020 </span>; veuillez noter que des frais de traitement des billets (prix du billet tx in x5%) seront retenus.
                   <br><br>
                   <strong style='font-size:22px;'>COVID-19</strong>
                   <br>

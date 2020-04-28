@@ -88,7 +88,7 @@
                 <div class="col-md-12 no-padding">
 
                     {% if site.data.travel[page.lang].item1modal == "" and site.data.travel[page.lang].item1link != "" %}
-                    <a href="{{ site.data.travel[page.lang].item1link }}" class="btn btn-primary btn-md registerlink" target="_blank">{{ site.data.travel[page.lang].item1button}}</a> {% elsif site.data.travel[page.lang].item1modal != "" %}
+                    <a href="{{ site.data.travel[page.lang].item1link }}" class="btn btn-primary btn-md registerlink disabled" target="_blank">{{ site.data.travel[page.lang].item1button}}</a> {% elsif site.data.travel[page.lang].item1modal != "" %}
 
                     <a href="#" data-toggle="modal" data-target="#myModal21" class="float-right btn btn-primary btn-md registerlink">{{ site.data.travel[page.lang].item1button}}</a>
 
@@ -127,7 +127,7 @@
                 <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item3text}}</p>
                 <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item3desc}}</p>
                 <div class="col-md-12 no-padding">
-                    <a href="{{ site.data.travel[page.lang].item3link }}" class="btn btn-primary btn-md registerlink" target="_blank">{{ site.data.travel[page.lang].item3button}}</a>
+                    <a href="{{ site.data.travel[page.lang].item3link }}" class="btn btn-primary btn-md registerlink disabled" target="_blank">{{ site.data.travel[page.lang].item3button}}</a>
                 </div>
             </div>
 
@@ -160,7 +160,7 @@
                 <p class="page-scroll travelmenu {{ page.color_class }}">{{ site.data.travel[page.lang].item4text}}</p>
                 <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item4desc}}</p>
                 <div class="col-md-12 no-padding">
-                    <a href="{{ site.data.travel[page.lang].item4link }}" class="btn btn-primary btn-md registerlink" target="_blank">{{ site.data.travel[page.lang].item4button}}</a>
+                    <a href="{{ site.data.travel[page.lang].item4link }}" class="btn btn-primary btn-md registerlink disabled" target="_blank">{{ site.data.travel[page.lang].item4button}}</a>
                 </div>
                 <br><br>
                 <p class="page-scroll {{ page.color_class }}">{{ site.data.travel[page.lang].item4desc2}}</p>

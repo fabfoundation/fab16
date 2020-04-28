@@ -1,6 +1,7 @@
 en:
   title   : EN
   homelink: "/"
+  notice   : "Stay tuned for August 2021 !"
   menu:
     - text : "About"
       link : "/#about"
@@ -49,6 +50,7 @@ en:
 fr:
   title   : FR
   homelink: "/fr/"
+  notice   : "Restez à l'écoute pour Août 2021 !"
   menu:
     - text : "À propos"
       link : "/fr/#about"

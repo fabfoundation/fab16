@@ -32,7 +32,7 @@
                 <p class="text-faded">{{ application.text }}</p>
                 {% endif %} {% if application.modal == "" and application.buttontext != "" %}
 
-                <a href="{{ application.link }}" class="float-right btn btn-primary btn-md registerlink">{{ application.buttontext }}</a> {% elsif application.modal != "" %}
+                <a href="{{ application.link }}" class="float-right btn btn-primary btn-md registerlink disabled">{{ application.buttontext }}</a> {% elsif application.modal != "" %}
 
                 <a href="{{ application.link }}" data-toggle="modal" data-target="#myModal{{ forloop.index + 10 }}" class="float-right btn btn-primary btn-md registerlink">{{ application.buttontext }}</a>
 
