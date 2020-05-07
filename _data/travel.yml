@@ -1,5 +1,6 @@
 en:
   title      : "Practical info"
+  permalink  : "/practical-infos"
   img_home   : "assets/img/travel3-opt3.jpg"
   img        : "assets/img/travel4-opt.jpg"
   img_bis    : "assets/img/travel_home-opt.jpg"
@@ -152,6 +153,7 @@ en:
 
 fr:
   title      : "Infos pratiques"
+  permalink  : "/fr/infos-pratiques"
   img_home   : "assets/img/travel3-opt3.jpg"
   img        : "assets/img/travel4-opt.jpg"
   img_bis    : "assets/img/travel_home-opt.jpg"
