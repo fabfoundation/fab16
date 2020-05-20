@@ -16,10 +16,10 @@ programheader: "<strong style='font-size:22px;'>Be part of the largest conferenc
                  <br><br>
                  Join us in Montréal, Canada, for the annual meeting of the international Fab Lab network!
                 <br><br>
-                Join world-class panelists, members of the Fab Lab community, makers from all over the world and professionals from all kinds of fields in the 16th annual Fab Lab Conference and the Fab Festival in Montréal, Canada, <span class='line'>from July 27 to August 2</span>, combined with the Fab City Summit, <span class='line'>from 31 July to 2 August</span>. Attend world-class panels, demos, workshops, discussions and lab presentations from representatives from all over the globe!
+                Join world-class panelists, members of the Fab Lab community, makers from all over the world and professionals from all kinds of fields in the 16th annual Fab Lab Conference and the Fab Festival in Montréal, Canada, in August 2021<span class='line hidden'>from July 27 to August 2</span>, combined with the Fab City Summit<span class='line hidden'>, from 31 July to 2 August</span>. Attend world-class panels, demos, workshops, discussions and lab presentations from representatives from all over the globe!
                 <br><br>"
 programdesc: "<br><br>
-                <strong style='' class='travelmenu'>Fab Lab Conference <span class='line'>from 27 to 30 July</span></strong>
+                <strong style='' class='travelmenu'>Fab Lab Conference <span class='line hidden'>from 27 to 30 July</span></strong>
                 <br><br>
                 Conference on the state of the Fab Labs network and the impacts of the Fab Labs movement.<br>
                 Prospective conferences<br>
@@ -51,7 +51,7 @@ programdesc: "<br><br>
                 <br><br>
                 "
 programdesc2: "<br><br>
-                <strong style='' class='travelmenu'>Fab Festival - <span class='line'>August 1st</span></strong>
+                <strong style='' class='travelmenu'>Fab Festival <span class='line hidden'>- August 1st</span></strong>
                 <br><br>
                 The Fab Festival is a Saturday event that follows the structure of the main event, but with activities, adapted for the general public and children, offered by Fab Labs around the world.<br>
                 <ul>
@@ -60,15 +60,15 @@ programdesc2: "<br><br>
                     <li>Demonstrations</li>
                 </ul>
                 <br><br>
-                <strong style='' class='travelmenu'>Sunday Walk - <span class='line'>August 2nd</span></strong>
+                <strong style='' class='travelmenu'>Sunday Walk <span class='line hidden'>- August 2nd</span></strong>
                 <br><br>
                 A day trip to visit the Fab Labs in the city.
                 <br><br>
-                <strong style='' class='travelmenu'>The Fab City Summit <span class='line'>from July 31th to August 2nd</span></strong>
+                <strong style='' class='travelmenu'>The Fab City Summit <span class='line hidden'>from July 31th to August 2nd</span></strong>
                 <br><br>
                 A two-day series of conferences and workshops offered by world and local luminaries that highlight the global issues facing cities and territories and the concrete initiatives surrounding the growth of Fab Cities. And a day of key destinations in the city.
                 <br><br><br>
-                <strong style='' class='travelmenu'>Fab City Campus <span class='line'>from July 30 to August 6</span></strong>
+                <strong style='' class='travelmenu'>Fab City Campus <span class='line hidden'>from July 30 to August 6</span></strong>
                 <br><br>
                 A short term intervention, eight (8) days, which will highlight local and international experiences and Fab City prototypes. It will include exhibits, tours of local Fab Labs and fabricating workshops.<br>
                 "

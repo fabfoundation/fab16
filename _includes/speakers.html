@@ -1,6 +1,6 @@
 
 {% if page.title == "Home" %}
-<section id="speakers" class="backgreen">
+<section id="speakers" class="backgreen hidden">
     <div class="container-fluid">
         <div class="row pad50bot">
             <!--<h2 class="mw-100 col-lg-12 col-md-12 col-sm-12 colorwhite speakerstitle title">{{ site.data.speakers[page.lang].title}}</h2>-->
@@ -8,7 +8,7 @@
         </div>
 
 {% else %}
-<section id="speakers" class="backgreen" >
+<section id="speakers" class="backgreen hidden" >
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6 col-md-6">
@@ -22,7 +22,7 @@
 >        </div>
     </div>
 </section>
-<section class="no-padding" id="speakers">
+<section class="no-padding" id="speakers hidden">
     <div class="container-fluid">
 {% endif %}
         <div class="row no-gutter resp-grid speakersgrid marg50top">

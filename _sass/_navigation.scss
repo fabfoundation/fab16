@@ -207,8 +207,12 @@ $menu-breakpoint: 1162px;
     background-color: $theme-primary !important;
 }
 
-.registerbutton:hover {
+.registerbutton:not(.disabled):hover {
     background-color: white !important;
     color: $theme-primary !important;
     border: 2px solid white !important;
+}
+
+.registerbutton.hidden, .hidden {
+    display:none!important;
 }

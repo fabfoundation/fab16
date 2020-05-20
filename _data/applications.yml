@@ -2,7 +2,7 @@ en:
   title   : "Participate"
   img     : "assets/img/applications.png"
   subtitle: "How to participate"
-  text    : "FAB16 integrates the knowledge acquired throughout the year from over 1800 Fab Labs around the world. As we gather together at the conference, everyone is encouraged to participate in various activities: leading or engaging in a workshop or working group, submitting a research paper, or being a volunteer, to name a few. Visit the tabs below to participate!"
+  text    : "FAB16 integrates the knowledge acquired throughout the year from over 2000 Fab Labs around the world. As we gather together at the conference, everyone is encouraged to participate in various activities: leading or engaging in a workshop or working group, submitting a research paper, or being a volunteer, to name a few. Visit the tabs below to participate!"
 
   application:
     - item      : "item1"
@@ -11,7 +11,7 @@ en:
       text      : "Join us in the Working Groups of the Fab Labs Network, where we gather in smaller cohorts to plan out recurring global initiatives, such as Fab Academy, International Education, Assistive Technology, and more. These are theoretical discussions, and a chance for the global community to connect and share their perspectives.
                   <br><br>
                   Use the link below to submit a working group!"
-      buttontext: "Participate"
+      buttontext: "Coming soon"
       modal     : ""
       link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
 
@@ -21,7 +21,7 @@ en:
       text      : "Whether you are new to FABx Events, or have been to many, workshops are a great way to share your knowledge with the Fab Lab Network. Workshops are either theoretical and/or hands-on, and have a wide range of topics, from biomaterials to hacking a machine to Sustainable Development Goals. Leaders of the workshops are community members who come in with previous experience from their local community's projects, workshops and ideas. They can be new or active members of the Fab Lab Network! 
                   <br><br>
                   <em>** Keep in mind that if you are leading a workshop, your workshop must be approved before you purchase your discounted ticket. No refund.</em>"
-      buttontext: "Participate"
+      buttontext: "Coming soon"
       modal     : ""
       link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
 
@@ -30,7 +30,7 @@ en:
       title     : "Submit your Paper "
       text      : "The FAB16 research papers stream invites original scholarly writing from researchers studying the Fab Lab movement, its ambitions and its impact from a wide range of disciplines, including computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
                   Use the link below to propose a paper !"
-      buttontext: "Participate"
+      buttontext: "Coming soon"
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
 
@@ -42,7 +42,7 @@ en:
                   Keep in mind that this year's theme is 'Fabricating the Commons', looking at how we can produce and share knowledge and tools based on peer production to create a sustainable future for everyone.
                   <br><br>
                   Interested in sharing your project? Use the link below to propose a project!"
-      buttontext: "Participate"
+      buttontext: "Coming soon"
       modal     : ""
       link      : "https://docs.google.com/forms/d/e/1FAIpQLSfIbgzwqdfhyH2dRGVdbTpsFSTblDXtiAlSzQbM5bXfK13dcA/viewform"
 
@@ -71,7 +71,7 @@ en:
                   <br><br>
                   <em>**You have to be authorized by the Canadian government to work legally as volunteer.</em>
                   </p>"
-      buttontext: "Participate"
+      buttontext: "Coming soon"
       modal     : ""
       link      : "https://forms.gle/289qVARsA2nxCBmRA"
     
@@ -95,7 +95,7 @@ fr:
   title   : "Participer"
   img     : "assets/img/applications.png"
   subtitle: "Comment participer"
-  text    : "FAB16 intégrera toute la connaissance acquise durant l’année par plus de 1800 Fab Labs à travers le monde.
+  text    : "FAB16 intégrera toute la connaissance acquise durant l’année par plus de 2000 Fab Labs à travers le monde.
             Lors de notre rencontre à cette conférence, tout le monde est invité à participer à diverses activités : animer ou s’impliquer dans un atelier ou groupe de travail, soumettre ses publications de recherche, devenir bénévole, pour n'en citer que quelques-unes.
             Visitez les onglets ci-bas pour participer!"
 
@@ -107,7 +107,7 @@ fr:
                   <br><br>
                   Utilisez le lien ci-dessous pour soumettre un groupe de travail!
                   "
-      buttontext: "Participez"
+      buttontext: "À venir"
       modal     : ""
       link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
     
@@ -117,7 +117,7 @@ fr:
       text      : "Que vous soyez novice ou familier avec les événements FABx, les ateliers sont un fantastique moyen de partager vos connaissances avec le réseau des Fab Labs. Les ateliers sont autant théoriques que pratiques, et couvrent un large spectre de sujets, des biomatériaux jusqu'à hacker une machine avec des objectifs de développement durable.
                   <br><br>
                   <em>**Soyez attentif si vous êtes animateur, votre atelier devra être approuvé avant de pouvoir acheter un billet au tarif spécial.</em>"
-      buttontext: "Participez"
+      buttontext: "À venir"
       modal     : ""
       link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
     
@@ -127,7 +127,7 @@ fr:
       text      : "Le volet du FAB16 concernant les papiers de recherche invite les auteurs d’articles de recherche originaux étudiant le mouvement Fab Lab, ses ambitions et ses impacts au travers d’un large spectre de disciplines, incluant les sciences informatiques, l’ingénierie, les domaines scientifiques et technologiques, la gestion et les affaires, l’éducation, l’urbanisme, les médias et le design, et bien d’autres encore.
                   <br><br>
                   Utilisez le lien ci-dessous pour soumettre un atelier!"
-      buttontext: "Participez"
+      buttontext: "À venir"
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
     
@@ -139,7 +139,7 @@ fr:
                   <br><br>
                   Intéressé à partager votre projet ? Utilisez le lien ci-dessous pour soumettre un projet!
                   "
-      buttontext: "Participez"
+      buttontext: "À venir"
       modal     : ""
       link      : "https://docs.google.com/forms/d/e/1FAIpQLSdgkz5N_9zVF2ahDexaMAeYphnVK-uSv17YDHBG7geUjUTugA/viewform"
     
@@ -168,7 +168,7 @@ fr:
                   <br><br>
                   <em>**Vous devez être autorisé par le gouvernement canadien à travailler légalement comme bénévole.</em>
                   </p>"
-      buttontext: "Participez"
+      buttontext: "À venir"
       modal     : ""
       link      : "https://docs.google.com/forms/d/e/1FAIpQLScpdv4bVR-KPC_U6WllS1fAMZLeeFGZF3oO6wmuc5R0OKzldw/viewform"
     
