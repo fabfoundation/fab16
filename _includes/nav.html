@@ -1,6 +1,32 @@
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top backgreen">
     <div class="notification-top-bar backorange colorwhite">
-        <p>{{site.data.locales[page.lang].notice}}</p>
+        <p>{{site.data.locales[page.lang].notice}} <button onclick="showMailingPopUp2(); return false;" id="open-popup2" class="btn btn-default btn-primary btn-xs">{{site.data.cta[page.lang].button2}}</button></p>
+        
+
+                <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+                <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+                <script>
+                    function showMailingPopUp2() {
+                        require(
+                            ["mojo/signup-forms/Loader"],
+                            function(L) {
+                                L.start({
+                                    "baseUrl": "mc.us19.list-manage.com",
+                                    "uuid": "703cd11616d78536ae5d303eb",
+                                    "lid": "b756dd3326"
+                                })
+                            }
+                        );
+
+                        document.cookie = 'MCPopupClosed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+                        document.cookie = 'MCPopupSubscribed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+                    }
+
+                    document.getElementById("open-popup2").onclick = function() {
+                        showMailingPopUp2()
+                    };
+                    
+                </script>
     </div>
     <div class="container-fluid" style="margin-top:40px;">
         <div class="navbar-header">
