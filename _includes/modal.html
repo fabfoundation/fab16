@@ -1,0 +1,41 @@
+<!--<div id="myModal{{ forloop.index }}" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <div class="modal-content details-popup">
+
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+            <div class="embed-responsive embed-responsive-16by9">
+                {% comment %}<iframe src="{{ ticket.weezeventiframe }}" class="embed-responsive-item" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>{% endcomment %}
+                <h2 style="color: #000;margin: auto;text-align:center;">{{site.data.locales[page.lang].notice}}</h2>
+            </div>
+        </div>
+    </div>
+</div>-->
+
+<button onclick="setTimeout(showMailingPopUp(), 3000); return false;" id="open-popup" class="btn btn-default btn-primary btn-sm" style="display:none;">{{site.data.cta[page.lang].button}}</button>
+
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script>
+    function showMailingPopUp() {
+        require(
+            ["mojo/signup-forms/Loader"],
+            function(L) {
+                L.start({
+                    "baseUrl": "mc.us19.list-manage.com",
+                    "uuid": "703cd11616d78536ae5d303eb",
+                    "lid": "b756dd3326"
+                })
+            }
+        );
+
+        document.cookie = 'MCPopupClosed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+        document.cookie = 'MCPopupSubscribed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+    }
+
+    document.getElementById("open-popup").click() = function() {
+        setTimeout(showMailingPopUp(),5000);
+    };
+                    
+</script>
