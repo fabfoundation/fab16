@@ -3,9 +3,11 @@ en:
   text  : "Subscribe to the FAB16 Montréal mailing list to received the latest news, ticket sales and much more!"
   button: "Subscribe"
   button2: "Subscribe to FabxLive newsletter"
+  button3: "Go to FABXLive website"
 
 fr:
   title : "Ne manquez rien !"
   text  : "Inscrivez-vous à l’infolettre du FAB16 pour recevoir les dernières nouvelles, la vente de billets et bien plus encore!"
   button: "S'inscrire"
   button2: "S'inscrire à l'infolettre de FabxLive"
+  button3: "Aller sur le site de FABXLive"

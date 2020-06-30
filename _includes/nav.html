@@ -1,6 +1,9 @@
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top backgreen">
     <div class="notification-top-bar backorange colorwhite">
-        <p>{{site.data.locales[page.lang].notice}} <button onclick="showMailingPopUp2(); return false;" id="open-popup2" class="btn btn-default btn-primary btn-xs">{{site.data.cta[page.lang].button2}}</button></p>
+        <p>{{site.data.locales[page.lang].notice}} 
+            <!--<button onclick="showMailingPopUp2(); return false;" id="open-popup2" class="btn btn-default btn-primary btn-xs">{{site.data.cta[page.lang].button2}}</button>-->
+            <a href="https://fabxlive.fabevent.org/" class="btn btn-default btn-primary btn-xs">{{site.data.cta[page.lang].button3}}</a>
+        </p>
         
 
                 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
