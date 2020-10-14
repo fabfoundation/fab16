@@ -1,6 +1,6 @@
 
 {% if page.title == "Home" %}
-<section id="speakers" class="backgreen hidden">
+<section id="speakers" class="backgreen">
     <div class="container-fluid">
         <div class="row pad50bot">
             <!--<h2 class="mw-100 col-lg-12 col-md-12 col-sm-12 colorwhite speakerstitle title">{{ site.data.speakers[page.lang].title}}</h2>-->
@@ -8,7 +8,7 @@
         </div>
 
 {% else %}
-<section id="speakers" class="backgreen hidden" >
+<section id="speakers" class="backgreen" >
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6 col-md-6">
@@ -16,18 +16,18 @@
                 <br>
                 <h3 class="text-faded colorwhite speakerssubtitle subtitle">{{ site.data.speakers[page.lang].subtitle}}</h3>
             </div>
-            <div class="col-lg-6 col-md-6 text-right">
+            <div class="col-lg-6 col-md-6 text-right hidden">
                 <img src="{{ site.data.speakers[page.lang].img | relative_url}}" class="img-responsive" alt="{{ site.data.speakers[page.lang].subtitle}}">
             </div
 >        </div>
     </div>
 </section>
-<section class="no-padding" id="speakers hidden">
+<section class="no-padding" id="speakersgrid">
     <div class="container-fluid">
 {% endif %}
         <div class="row no-gutter resp-grid speakersgrid marg50top">
 
-            {% comment %}
+            
             {% for speaker in site.data.speakers[page.lang].speaker %}
                 <div class="col-lg-4 col-sm-6 speaker text-center resp-grid-item pad50bot">
                     <a href="#" class="portfolio-box" data-toggle="modal" data-target="#myModal{{ forloop.index }}">
@@ -69,12 +69,13 @@
             </div>
 
             {% endfor %}
-            {% endcomment %}
+            
 
         </div>
-
+        {% comment %}
         <div class="row no-gutter comingsoon text-center pad10 backwhite">
             {{ site.data.speakers[page.lang].comingsoon}}
         </div>
+        {% endcomment %}
     </div>
 </section>
