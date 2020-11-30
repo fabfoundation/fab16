@@ -1,10 +1,10 @@
-<section class="" id="participate">
+<section class="" id="participate" style="padding-left:50px; padding-right:50px;">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-6 col-md-6">
+            <div class="col-lg-6 col-md-6" style="padding-left:0px;">
                 <img src="{{ site.data.applications[page.lang].img | relative_url}}" class="img-responsive" alt="">
             </div>
-            <div class="col-lg-6 col-md-6 text-right">
+            <div class="col-lg-6 col-md-6 text-right" style="padding-right:0px;">
                 <h2 class="section-heading applicationtitle title colorblue">{{site.data.applications[page.lang].title}}</h2>
                 <br>
                 <h3 class="text-faded applicationsubtitle subtitle colorblue">{{site.data.applications[page.lang].subtitle}}</h3>
@@ -24,7 +24,7 @@
 {% for application in site.data.applications[page.lang].application %} {% if forloop.index == 1 %} {% assign is_display = "display: block;" %} {% else %} {% assign is_display = "" %} {% endif %}
 
 <section id="applications-{{ application.item }}" class="tabcontent" style="margin-bottom: 0px; {{ is_display }}">
-    <div class="container-fluid mw-100">
+    <div class="container-fluid mw-100" style="padding-right: 0px; padding-left: 0px;">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h2 class="section-heading colorwhite itemtitle">{{ application.title }}</h2>

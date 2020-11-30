@@ -27,10 +27,10 @@ en:
     #- text : "Gallery"
     #  link : "https://www.flickr.com/photos/fabfoundation/collections/72157710335192311/"
     #  class: ""
-    - text : "Get your ticket !"
-      #link : "/tickets"
-      link : "#"
-      class: "registerbutton hidden"
+    - text : "Get your ticket soon"
+      link : "/tickets"
+      #link : "#"
+      class: "registerbutton"
 
   footer:
     - text : "Privacy policy"
@@ -77,10 +77,10 @@ fr:
     #- text : "Galerie"
     #  link : "https://www.flickr.com/photos/fabfoundation/collections/72157710335192311/"
     #  class: ""
-    - text : "Réservez votre billet !"
-      #link : "/fr/billets"
-      link : "#"
-      class: "registerbutton hidden"
+    - text : "Réservez votre billet bientôt"
+      link : "/fr/billets"
+      #link : "#"
+      class: "registerbutton"
 
   footer:
     - text : "Politique de confidentialité"

@@ -1,5 +1,5 @@
 en:
-  comingsoon    : ""
+  comingsoon    : "Stay tuned for August 2021 !"
   currency      : "$"
   currency2     : "(CAD)"
   titletotal    : ""
@@ -101,7 +101,7 @@ en:
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=720074fe-7894-4a91-8b64-bff3996d7739"
 
 fr:
-  comingsoon    : ""
+  comingsoon    : "Restez à l'écoute pour Août 2021 !"
   currency      : "$"
   currency2     : "(CAD)"
   titletotal    : ""

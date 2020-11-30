@@ -11,10 +11,14 @@
     #headertitle {
       position: absolute;
       width: 100%;
-      bottom: 0;
+      bottom: 90px;
       float: left;
       text-align: left;
-      padding-left: 3vw;
+      //padding-left: 3vw;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
       img {
         width: 15vh;
         max-width: 400px;

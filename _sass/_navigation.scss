@@ -186,8 +186,8 @@ $menu-breakpoint: 1162px;
             float: none;
         }
         .navbar-nav>li>a {
-            padding-top: 10px;
-            padding-bottom: 10px;
+            padding-top: 33px!important;
+            padding-bottom: 33px!important;
         }
         .collapse.in {
             display: block !important;
@@ -201,6 +201,7 @@ $menu-breakpoint: 1162px;
 
 .registerbutton {
     border: 2px solid $theme-primary !important;
+    border-radius: 100px!important;
     padding: 10px !important;
     margin-top: 14px !important;
     height: auto !important;

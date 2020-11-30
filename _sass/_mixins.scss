@@ -17,8 +17,9 @@
     &.active,
     .open>.dropdown-toggle & {
         color: $color;
-        background-color: rgba( $background, .7);
-        border-color: rgba( $background, .7);
+        background-color: $background;
+        border-color: $background;
+        border-radius: 100px;
     }
     &:active,
     &.active,

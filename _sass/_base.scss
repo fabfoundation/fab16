@@ -87,11 +87,18 @@ a {
     background-color: $theme-dark;
     color: white;
 }
+.backpinkburgundy {
+    background-color: #992254 !important;
+}
+
 
 // SPACING
 //////////////////////////////////////
 section {
-    padding: 50px 0 0 0;
+    padding: 50px 0px;
+}
+section#venue {
+    padding: 50px 50px;
 }
 
 aside {
@@ -218,21 +225,29 @@ p {
 }
 
 h2.headertitle {
-    @include medium-font;
+    @include bold-font;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 h1.headertitle {
-    margin-left: -22px;
-    @include medium-font;
+    //margin-left: -22px;
+    @include bold-font;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 h2.headersubtitle {
-    @include medium-font;
+    @include bold-font;
 }
 
 .title,
 .subtitle {
-    @include medium-font;
+    @include bold-font;
 }
 
 .title {
@@ -293,6 +308,11 @@ p,
     font-size: 40px;
 }
 
+@media only screen and (max-width: 610px) {
+    #datebanner .about-text h2 {
+        font-size: 25px;
+    }
+}
 .tracks-box-img h3 {
     font-size: 4em;
 }
@@ -351,8 +371,11 @@ p,
     font-size: 30px;
 }
 
-footer .fa {
-    font-size: 2.5em;
+footer {
+    padding: 50px;
+    .fa {
+        font-size: 2.5em;
+    }
 }
 
 //}
@@ -598,6 +621,12 @@ img::-moz-selection {
 .vertical-align {
     display: flex;
     align-items: center;
+}
+@media (max-width: 768px) {
+    .vertical-align {
+        display: block!important;
+        text-align: center!important;
+    }
 }
 
 .line {

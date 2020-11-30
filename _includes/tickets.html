@@ -1,4 +1,4 @@
-<div class="container tickets marg100bot {{ color_class }}">
+<div class="container tickets marg100bot {{ color_class }}" style="display:none;">
     <div class="row flex-items-xs-middle flex-items-xs-center">
 
         <h2 class="title {{ color_class }}">{{ site.data.tickets[page.lang].titletotal }}</h2>
@@ -70,6 +70,13 @@
             </div>
 
             <p>{{ site.data.tickets[page.lang].subtitletotal2 }}</p>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12 col-md-12">
+        <div class="row no-gutter comingsoon text-center pad25 backwhite colorblue" style="margin-top:100px; margin-bottom:100px;">
+            {{ site.data.tickets[page.lang].comingsoon }}
         </div>
     </div>
 </div>

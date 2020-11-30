@@ -5,7 +5,7 @@ lang: fr
 prefix: fr/
 permalink: /fr/programme/
 
-title_text: "PROGRAMME"
+title_text: "Programme"
 subtitle_text: ""
 color_class: "colorblue"
 img: "assets/img/McGill-opt-alt1.jpg"
@@ -74,7 +74,7 @@ program: ""
 
 ---
 
-<section class="no-padding" id="" style="padding: 25px 0px 50px 0px;">
+<section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6">

@@ -8,7 +8,8 @@ en:
     - item      : "item1"
       menu      : "Working groups"
       title     : "Participate with your working groups"
-      text      : "Join us in the Working Groups of the Fab Labs Network, where we gather in smaller cohorts to plan out recurring global initiatives, such as Fab Academy, International Education, Assistive Technology, and more. These are theoretical discussions, and a chance for the global community to connect and share their perspectives.
+      text      : "Join us in the Working Groups of the Fab Labs Network, where we gather in smaller cohorts to plan out recurring global initiatives, such as Fab Academy, International Education, Assistive Technology, and more.<br>
+                  These are theoretical discussions, and a chance for the global community to connect and share their perspectives.
                   <br><br>
                   Use the link below to submit a working group!"
       buttontext: "Coming soon"
@@ -18,7 +19,10 @@ en:
     - item      : "item2"
       menu      : "Workshops"
       title     : "Participate with your workshops"
-      text      : "Whether you are new to FABx Events, or have been to many, workshops are a great way to share your knowledge with the Fab Lab Network. Workshops are either theoretical and/or hands-on, and have a wide range of topics, from biomaterials to hacking a machine to Sustainable Development Goals. Leaders of the workshops are community members who come in with previous experience from their local community's projects, workshops and ideas. They can be new or active members of the Fab Lab Network! 
+      text      : "Whether you are new to FABx Events, or have been to many, workshops are a great way to share your knowledge with the Fab Lab Network.<br>
+                  Workshops are either theoretical and/or hands-on, and have a wide range of topics, from biomaterials to hacking a machine to Sustainable Development Goals.<br>
+                  Leaders of the workshops are community members who come in with previous experience from their local community's projects, workshops and ideas.<br>
+                  They can be new or active members of the Fab Lab Network! 
                   <br><br>
                   <em>** Keep in mind that if you are leading a workshop, your workshop must be approved before you purchase your discounted ticket. No refund.</em>"
       buttontext: "Coming soon"
@@ -37,7 +41,8 @@ en:
     - item      : "item4"
       menu      : "FAB World"
       title     : "Participate with FAB World"
-      text      : "We want to hear about what FAB projects you and your community are developing! FAB World is an opportunity during FAB16 to present a 3 minute talk to the Fab community about projects, initiatives, teams, and developments happening in your Fab Lab and Fab community.
+      text      : "We want to hear about what FAB projects you and your community are developing!<br>
+                  FAB World is an opportunity during FAB16 to present a 3 minute talk to the Fab community about projects, initiatives, teams, and developments happening in your Fab Lab and Fab community.
                   <br><br>
                   Keep in mind that this year's theme is 'Fabricating the Commons', looking at how we can produce and share knowledge and tools based on peer production to create a sustainable future for everyone.
                   <br><br>
@@ -49,7 +54,9 @@ en:
     - item      : "item5"
       menu      : "Fab Festival"
       title     : "Participate with a Fab Festival Workshop"
-      text      : "The Fab Festival is an all-Saturday event open to the public. Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies. An event you certainly won't want to miss!
+      text      : "The Fab Festival is an all-Saturday event open to the public.<br>
+                  Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies.<br>
+                  An event you certainly won't want to miss!
                   <br><br>
                   If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org' class='btn disabled line' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
@@ -103,7 +110,8 @@ fr:
     - item      : item1
       menu      : "Groupes de travail"
       title     : "Participez aux groupes de travail"
-      text      : "Prenez part aux groupes de travail du réseau des Fab Labs, où nous nous réunissons en petites cohortes afin de planifier les initiatives mondiales récurrentes comme la Fab Academy, l’éducation internationale, les technologies d’assistance, et plus. Ces discussions théoriques sont une chance pour la communauté globale de se connecter ensemble et de partager leurs perspectives. 
+      text      : "Prenez part aux groupes de travail du réseau des Fab Labs, où nous nous réunissons en petites cohortes afin de planifier les initiatives mondiales récurrentes comme la Fab Academy, l’éducation internationale, les technologies d’assistance, et plus.<br>
+                  Ces discussions théoriques sont une chance pour la communauté globale de se connecter ensemble et de partager leurs perspectives. 
                   <br><br>
                   Utilisez le lien ci-dessous pour soumettre un groupe de travail!
                   "
@@ -114,7 +122,8 @@ fr:
     - item      : item2
       menu      : "Ateliers"
       title     : "Participez avec vos ateliers"
-      text      : "Que vous soyez novice ou familier avec les événements FABx, les ateliers sont un fantastique moyen de partager vos connaissances avec le réseau des Fab Labs. Les ateliers sont autant théoriques que pratiques, et couvrent un large spectre de sujets, des biomatériaux jusqu'à hacker une machine avec des objectifs de développement durable.
+      text      : "Que vous soyez novice ou familier avec les événements FABx, les ateliers sont un fantastique moyen de partager vos connaissances avec le réseau des Fab Labs.<br>
+                  Les ateliers sont autant théoriques que pratiques, et couvrent un large spectre de sujets, des biomatériaux jusqu'à hacker une machine avec des objectifs de développement durable.
                   <br><br>
                   <em>**Soyez attentif si vous êtes animateur, votre atelier devra être approuvé avant de pouvoir acheter un billet au tarif spécial.</em>"
       buttontext: "À venir"
@@ -134,7 +143,8 @@ fr:
     - item      : item4
       menu      : "FAB World"
       title     : "Participez au FAB World"
-      text      : "Nous souhaitons vous entendre sur les Projets FAB que vous développez avec votre communauté ! “FAB World” est une opportunité durant le FAB16 de présenter un exposé de 3 minutes à la communauté des Fabs Labs sur les projets, les initiatives, les équipes, les développements dans votre Fab Lab et votre communauté de Fab Labs. 
+      text      : "Nous souhaitons vous entendre sur les Projets FAB que vous développez avec votre communauté !<br>
+                  “FAB World” est une opportunité durant le FAB16 de présenter un exposé de 3 minutes à la communauté des Fabs Labs sur les projets, les initiatives, les équipes, les développements dans votre Fab Lab et votre communauté de Fab Labs. 
                    Gardez à l'esprit que le thème de cette année est “Fabriquer les Communs”, en tablant sur comment nous pouvons produire et partager des connaissances et des outils basés sur la production pair-à-pair pour créer un avenir durable pour tous.
                   <br><br>
                   Intéressé à partager votre projet ? Utilisez le lien ci-dessous pour soumettre un projet!
@@ -146,7 +156,9 @@ fr:
     - item      : item5
       menu      : "Fab Festival"
       title     : "Organisez un atelier au Fab Festival "
-      text      : "Le Fab Festival est un événement d’une journée, le samedi, ouvert au public. Des ateliers gratuits où les enfants, les jeunes et les moins jeunes auront la possibilité d'avoir leur première expérience des méthodologies de fabrication numérique. Un événement que vous ne pourrez certainement pas manquer !
+      text      : "Le Fab Festival est un événement d’une journée, le samedi, ouvert au public.<br>
+                  Des ateliers gratuits où les enfants, les jeunes et les moins jeunes auront la possibilité d'avoir leur première expérience des méthodologies de fabrication numérique.<br>
+                  Un événement que vous ne pourrez certainement pas manquer !
                   <br><br>
                   Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org' class='btn disabled line' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""

@@ -113,7 +113,7 @@ section#applications-item6,
 
 .tabcontent {
   display: none;
-  padding: 50px 0 25px 0;
+  padding: 50px;
   margin-bottom: 50px;
   a.btn {
     float: right;
@@ -126,5 +126,10 @@ section#applications-item6,
 @media only screen and (max-width : 885px) {
   .tablinks {
     width: 100%;
+  }
+}
+@media only screen and (min-width :1080px) {
+  .tabcontent .text-faded{
+    width: 50%;
   }
 }
