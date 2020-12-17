@@ -2,7 +2,12 @@ en:
   title     : SPEAKERS
   subtitle  : Meet our speakers
   img       : "assets/img/services/FabConference.png"
-  comingsoon: "Stay tuned for August 2021 !"
+  comingsoontext: "FABx events speakers come from all over the world.
+                  <br><br>
+                  You will find them in Montréal and on the online conferencing platform in August 2021!
+                  <br><br>
+                  The team is mobilizing to introduce you soon to the key personalities who will share their experience with us at FAB16 Montréal."
+  comingsoon: "Stay tuned !"
   speaker:
     - img  : assets/img/speakers/NeilGershenfeld-square-opt.jpg
       label: "Neil Gershenfeld"
@@ -143,7 +148,12 @@ fr:
   title     : CONFERENCIERS
   subtitle  : Rencontrez nos conférenciers
   img       : "assets/img/services/FabConference.png"
-  comingsoon: "Restez à l'écoute pour Août 2021 !"
+  comingsoontext: "Les conférencières et conférenciers des événements FABx viennent des quatre coins du monde.
+                  <br><br>
+                  C’est à Montréal, et sur la plateforme de conférence en ligne, que vous les retrouverez en août 2021!
+                  <br><br>
+                  L’équipe se mobilise pour vous présenter bientôt les personnalités phares qui partageront leur expérience avec nous lors du FAB16 Montréal."
+  comingsoon: "Restez à l'affût !"
   speaker:
     - img  : "assets/img/speakers/NeilGershenfeld-square-opt.jpg"
       label: "Neil Gershenfeld"
