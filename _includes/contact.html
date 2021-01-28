@@ -10,8 +10,9 @@
                 <div class="row">
                     {% for p in site.data.sponsors[page.lang].host %}
                     <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors text-left">
-                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
-                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        <a href="{{ p.url }}" class="portfolio-box" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
                         </a>
                     </div>
                     {% endfor %}
@@ -23,8 +24,9 @@
 
                     {% for p in site.data.sponsors[page.lang].communitypartners %}
                     <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsor community mx-auto pad25bot text-left">
-                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
-                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        <a href="{{ p.url }}" class="portfolio-box" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
                         </a>
                     </div>
                     {% endfor %}
@@ -36,8 +38,9 @@
 
                     {% for p in site.data.sponsors[page.lang].sponsors %}
                     <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 {{ is_offset }} sponsors mx-auto text-left">
-                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
-                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        <a href="{{ p.url }}" class="portfolio-box" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
                         </a>
                     </div>
                     {% endfor %}
@@ -49,8 +52,9 @@
 
                     {% for p in site.data.sponsors[page.lang].government %}
                     <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
-                        <a href="{{ p.url }}" class="portfolio-box" target="_blank">
-                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}">
+                        <a href="{{ p.url }}" class="portfolio-box" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
                         </a>
                     </div>
                     {% endfor %}
@@ -72,15 +76,15 @@
                     <p class="colorgreen">{{site.data.footer[page.lang].contact.donatetext}}</p>
 
                     <br>
-                    <a href="{{site.data.footer[page.lang].contact.buttonlink}}" target="_blank" class="btn btn-default btn-sm btn-primary">{{site.data.footer[page.lang].contact.button}}</a>
+                    <a href="{{site.data.footer[page.lang].contact.buttonlink}}"  rel="noopener" target="_blank" class="btn btn-default btn-sm btn-primary">{{site.data.footer[page.lang].contact.button}}</a>
 
                 </div>
             </div>
         </div>
 
-        <img src="{{ 'assets/img/Logo2.png' | relative_url }}" class="img-responsive fab16logo marg0top" alt="">
+        <img src="{{ 'assets/img/Logo2.png' | relative_url }}" class="img-responsive fab16logo marg0top" alt="Donate section FAB16 logo" width="206" height="206">
 
-        <img src="{{ 'assets/img/footer-wo-logo.png' | relative_url }}" class="img-responsive marg0top" style="margin: auto;" alt="">
+        <img src="{{ 'assets/img/footer-wo-logo.png' | relative_url }}" class="img-responsive marg0top" style="margin: auto;" alt="Donate section icon" width="1870" height="778">
 
     </div>
 </section>
@@ -95,49 +99,49 @@
         </div>
         <div class="col-lg-8 pad10top pad10bot">
             <div class="row colorwhite" style="text-align: left;">
-                {{ site.data.footer[page.lang].footertext1 }} <a href="{{ site.data.footer[page.lang].communautiquelink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].communautique }}</a>, <a href="{{ site.data.footer[page.lang].fabfoundationlink }}"
-                    target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fabfoundation }}</a>, <a href="{{ site.data.footer[page.lang].mcgilllink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].mcgill }}</a> {{ site.data.footer[page.lang].footertext3
-                }} <a href="{{ site.data.footer[page.lang].fablabqclink }}" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fablabqc }}</a>
+                {{ site.data.footer[page.lang].footertext1 }} <a href="{{ site.data.footer[page.lang].communautiquelink }}" rel="noopener" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].communautique }}</a>, <a href="{{ site.data.footer[page.lang].fabfoundationlink }}" rel="noopener"
+                    target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fabfoundation }}</a>, <a href="{{ site.data.footer[page.lang].mcgilllink }}" rel="noopener" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].mcgill }}</a> {{ site.data.footer[page.lang].footertext3
+                }} <a href="{{ site.data.footer[page.lang].fablabqclink }}" rel="noopener" target="_blank" class="colorwhite">{{ site.data.footer[page.lang].fablabqc }}</a>
             </div>
 
             <div class="row colorwhite" style="text-align: left;">
                 {% assign i = 0 %} {% for menu in site.data.locales[page.lang].footer %} {% if i != 0 %} | {% endif %}
                 <a class="page-scroll colorwhite {{ menu.class }}" href="{{ site.baseurl }}{{ menu.link }}" target="_blank">{{ menu.text }}</a> {% assign i = i | plus:1 %} {% endfor %} |
 
-                <a class="page-scroll colorwhite" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+                <a class="page-scroll colorwhite" href="http://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>
             </div>
 
             <div class="row colorwhite" style="text-align: left;">
-                {{ site.data.footer[page.lang].photocredit }}<a class="page-scroll colorwhite" href="{{ site.data.footer[page.lang].photolink }}" target="_blank">{{ site.data.footer[page.lang].phototext }}</a> | {{ site.data.footer[page.lang].footertext2
-                }} <a href="https://dontbe.cool" target="_blank" class="colorwhite">Guillaume Pelletier</a> {{ site.data.footer[page.lang].footertext4 }} <a href="http://demandespeciale.ca/" target="_blank" class="colorwhite">Demande Spéciale</a>
+                {{ site.data.footer[page.lang].photocredit }}<a class="page-scroll colorwhite" href="{{ site.data.footer[page.lang].photolink }}" rel="noopener" target="_blank">{{ site.data.footer[page.lang].phototext }}</a> | {{ site.data.footer[page.lang].footertext2
+                }} <a href="https://dontbe.cool" rel="noopener" target="_blank" class="colorwhite">Guillaume Pelletier</a> {{ site.data.footer[page.lang].footertext4 }} <a href="http://demandespeciale.ca/" rel="noopener" target="_blank" class="colorwhite">Demande Spéciale</a>
             </div>
         </div>
         <div class="col-lg-4 pad10top pad10bot" style="text-align: right;">
             <div class="row pad25top pad10bot">
                 <div class="col-md-12">
                     <div class="col-md-2 col-md-offset-1 col-xs-3 text-center">
-                        <a href="{{ site.twitter_link }}" target="_blank">
-                            <i class="fa fa-twitter fa-3x colorwhite" data-wow-delay=".1s"></i>
+                        <a href="{{ site.twitter_link }}" rel="noopener" target="_blank">
+                            <i class="fa fa-twitter fa-3x colorwhite" data-wow-delay=".1s"></i><em class="hidelinktext">Twitter</em>
                         </a>
                     </div>
                     <div class="col-md-2 col-xs-3 text-center">
-                        <a href="{{ site.facebook_link }}" target="_blank">
-                            <i class="fa fa-facebook fa-3x colorwhite" data-wow-delay=".1s"></i>
+                        <a href="{{ site.facebook_link }}" rel="noopener" target="_blank">
+                            <i class="fa fa-facebook fa-3x colorwhite" data-wow-delay=".1s"></i><em class="hidelinktext">Facebook</em>
                         </a>
                     </div>
                     <div class="col-md-2 col-xs-3 text-center">
-                        <a href="{{ site.instagram_link }}" target="_blank">
-                            <i class="fa fa-instagram fa-3x colorwhite" data-wow-delay=".1s"></i>
+                        <a href="{{ site.instagram_link }}" rel="noopener" target="_blank">
+                            <i class="fa fa-instagram fa-3x colorwhite" data-wow-delay=".1s"></i><em class="hidelinktext">Instagram</em>
                         </a>
                     </div>
                     <div class="col-md-2 col-xs-3 text-center">
-                        <a href="{{ site.youtube_link }}" target="_blank">
-                            <i class="fa fa-youtube fa-3x colorwhite" data-wow-delay=".1s"></i>
+                        <a href="{{ site.youtube_link }}" rel="noopener" target="_blank">
+                            <i class="fa fa-youtube fa-3x colorwhite" data-wow-delay=".1s"></i><em class="hidelinktext">Youtube</em>
                         </a>
                     </div>
                     <div class="col-md-2 col-xs-3 text-center">
                         <a href="mailto:{{ site.email }}">
-                            <i class="fa fa-envelope-o fa-3x colorwhite" data-wow-delay=".1s"></i>
+                            <i class="fa fa-envelope-o fa-3x colorwhite" data-wow-delay=".1s"></i><em class="hidelinktext">Email</em>
                         </a>
                     </div>
                 </div>

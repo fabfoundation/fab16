@@ -22,11 +22,11 @@ en:
                   <br><br>
                   <strong>Travel to Québec</strong>
                   <br>
-                  <a href='https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/' target='_blank'>https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/</a>
+                  <a href='https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/' rel='noopener' target='_blank'>https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/</a>
                   <br>
                   <strong>Travel to Canada</strong>
                   <br>
-                  <a href='https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html' target='_blank'>https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html</a>
+                  <a href='https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html' rel='noopener' target='_blank'>https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html</a>
                   <br><br>
                   <strong>Special measures</strong>
                   <br>
@@ -123,11 +123,11 @@ fr:
                   <br><br>
                   <strong>Voyage au Québec</strong>
                   <br>
-                  <a href='https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/ ' target='_blank'>https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/ </a>
+                  <a href='https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/' rel='noopener' target='_blank'>https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/ </a>
                   <br>
                   <strong>Voyage au Canada</strong>
                   <br>
-                  <a href='https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html' target='_blank'>https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html</a>
+                  <a href='https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html' rel='noopener' target='_blank'>https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html</a>
                   <br><br>
                   <strong>Mesures spéciales</strong>
                   <br>

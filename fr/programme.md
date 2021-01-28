@@ -78,7 +78,7 @@ program: ""
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6">
-                <img src="{{ page.img | relative_url}}" class="img-responsive" alt="{{ page.title}}">
+                <img src="{{ page.img | relative_url}}" class="img-responsive" alt="{{ page.title}}" width="960" height="382">
             </div>
             <div class="col-lg-6">
                 <p class="{{ color_class }}">{{page.programheader}}</p>

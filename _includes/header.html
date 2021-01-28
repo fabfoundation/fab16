@@ -11,7 +11,7 @@
         <div class="carousel-inner">
             {% for gallery in page.gallery %} {% if forloop.index == 1 %} {% assign is_active = " active" %} {% else %} {% assign is_active = "" %} {% endif %}
             <div class="item{{ is_active }}">
-                <img src="{{ gallery.img | relative_url }}" alt="{{ gallery.title }}">
+                <img src="{{ gallery.img | relative_url }}" alt="{{ gallery.title }}" width="1920" height="1080">
             </div>
             {% endfor %}
 
@@ -19,7 +19,7 @@
 
         <div id="headertitle" class="row pad10 pad50bot">
             <div class="container-fluid">
-                <img src="{{ 'assets/img/Logo.png' | relative_url }}" class="img-responsive" alt="FAB 16 Logo">
+                <img src="{{ 'assets/img/Logo.png' | relative_url }}" class="img-responsive" alt="FAB 16 Logo" width="204" height="204">
             </div>
 
             <div>
