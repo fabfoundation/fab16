@@ -363,7 +363,8 @@ p,
 }
 
 .display-2 {
-    font-size: 10rem;
+    font-size: 9rem;
+    min-height: 10rem;
     .currency {
         font-size: 2.75rem;
     }
@@ -582,7 +583,7 @@ footer {
 
 .btn-ticket:hover {
     color: white;
-    background-color: $theme-blue;
+    background-color: $theme-blue!important;
 }
 
 .btn-xl {

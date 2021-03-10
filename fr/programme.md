@@ -12,7 +12,7 @@ img: "assets/img/McGill-opt-alt1.jpg"
 
 programheader: "<strong style='font-size:22px;'>Participez à la plus grande conférence sur la fabrication numérique au monde.</strong>
             <br><br>
-            Rejoignez-nous à Montréal, au Canada, pour la réunion annuelle du réseau international des Fab Labs !
+            Rejoignez-nous à Montréal, au Canada, et en ligne, pour la rencontre annuelle du réseau international des Fab Labs, un événement en mode hybride et distribué ! 
             <br><br>
             Rejoignez les panélistes de classe mondiale, les membres de la communauté des Fab Labs, les fabricants du monde entier et les professionnels de tous les domaines à la 16e conférence annuelle des Fab Labs et au Fab Festival de Montréal, au Canada, en août 2021, combiné avec le Fab City Summit. Assistez à des panels de classe mondiale, démonstrations, ateliers, discussions et présentations de laboratoires par des représentants en provenance de tous les coins du globe !
             <br><br>

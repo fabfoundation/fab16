@@ -1,20 +1,13 @@
 en:
-  comingsoon    : "Stay tuned for August 2021 !"
+  comingsoon    : ""
   currency      : "$"
   currency2     : "(CAD)"
   titletotal    : ""
-  subtitletotal : "The “full access” ticket includes the FAB16 event, evening activities and the Fab City Summit event.
+  subtitletotal : "FAB16 is a hybrid and distributed event.
                   <br><br>
-                  Tickets do not include other costs of your trip.
-                  <br><br>
-                  <em>IMPORTANT NOTICE : If you are planning to lead a workshop, we are offering you a discount of $125 on the full registration cost. HOWEVER, your workshop must be approved <u>before</u> you can receive a discount code. If you purchase your ticket before being approved, the discount cannot be applied later. 
-                  </em>"
-
+                  Pre-register for the online event free of charge today and we'll let you know the terms and conditions in person shortly!
+                  <br><br>"
   subtitletotal2 : "<br><br>
-                  <strong style='font-size:22px;'>Refund Policy </strong>
-                  <br>
-                  Your event tickets are refundable upon request <span class='line'>until May 1, 2020</span>; please note that a ticket processing fee (tx ticket price in x5%) will be withheld.
-                  <br><br>
                   <strong style='font-size:22px;'>COVID-19</strong>
                   <br>
                   The health and safety of FAB16 and Fab City Summit participants is a priority for us! Although our events are major, international events, currently the governments of Canada and Québec have not put any restrictions on the events for the period.
@@ -30,13 +23,7 @@ en:
                   <br><br>
                   <strong>Special measures</strong>
                   <br>
-                  We are currently studying all the technological possibilities of in order to offer the conferences, workshops and working groups of the event by videoconference so that you can attend.
-                  <br><br>
-                  <strong>Travel</strong>
-                  <br>
-                  The refund policy does not apply to hotels and flights booked as part of your trip, please contact your travel agent for more information.
-                  Some airlines such as Air France and Air Canada have relaxed their refund policies, please check with your travel agent. For example, Air Canada offers to change your ticket at no charge up to 14 days before your trip.
-                  For more information, please contact <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a> or the travel agency <a href='mailto:fab16@partners-travel.com'>fab16@partners-travel.com</a>.
+                  We will plan all the technological possibilities of in order to offer the conferences, workshops and working groups of the event by videoconference so that you can attend.
                   <br><br>
                   The masculine gender is used as a generic, for the sole purpose of not burdening the text.
                   <br><br>
@@ -55,24 +42,31 @@ en:
     #  buttontext: "Réservez votre billet"
     #  buttonlink: "#tickets"
     
-    - price          : "595"
+    - price          : "Free"
+      currency       : ""
       pass_fr        : ""
-      title          : "FULL<br>ACCESS"
+      title          : "ONLINE"
       pass           : "PASS"
       img            : "assets/img/tickets/ticket1.png"
       sale           : ""
       salecaption    : ""
-      item1          : "EARLY BIRD FEE "
-      item2          : "including the Fab City Summit"
-      item3          : "<em>(995 (CAD) full rate as of May 1st)</em>"
+      #item1          : "EARLY BIRD FEE "
+      #item2          : "including the Fab City Summit"
+      #item3          : "<em>(995 (CAD) full rate as of May 1st)</em>"
+      #item4          : ""
+      item1          : ""
+      item2          : ""
+      item3          : ""
       item4          : ""
       buttontext     : "Get your ticket"
+      buttonclass    : ""
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=a1907b3e-c06d-4fc3-9fe7-930e556ef4e1"
+      weezeventiframe: "https://widget.weezevent.com/ticket/E580533/?code=9118&locale=en-CA&width_auto=1&color_primary=00AEEF&widget_key=125b1f08-c36c-4df8-906e-8f89272720ea"
     
-    - price          : "195"
+    - price          : ""
+      currency       : ""
       pass_fr        : ""
-      title          : "<br>1 DAY"
+      title          : "ON-SITE"
       pass           : "PASS"
       img            : "assets/img/tickets/ticket2.png"
       sale           : ""
@@ -81,41 +75,36 @@ en:
       item2          : " "
       item3          : " "
       item4          : " "
-      buttontext     : "Get your ticket"
+      buttontext     : "Coming soon"
+      buttonclass    : "disabled"
       buttonlink     : "#tickets"
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=4dec2a51-7859-441b-92a7-a2d9a8acea14"
     
-    - price          : "95"
-      pass_fr        : ""
-      title          : "STUDENTS SPECIAL 1 DAY"
-      pass           : "PASS"
-      img            : "assets/img/tickets/ticket3.png"
-      sale           : ""
-      salecaption    : ""
-      item1          : " "
-      item2          : " "
-      item3          : " "
-      item4          : " "
-      buttontext     : "Get your ticket"
-      buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=720074fe-7894-4a91-8b64-bff3996d7739"
+    #- price          : "95"
+    #  pass_fr        : ""
+    #  title          : "STUDENTS SPECIAL 1 DAY"
+    #  pass           : "PASS"
+    #  img            : "assets/img/tickets/ticket3.png"
+    #  sale           : ""
+    #  salecaption    : ""
+    #  item1          : " "
+    #  item2          : " "
+    #  item3          : " "
+    #  item4          : " "
+    #  buttontext     : "Get your ticket"
+    #  buttonlink     : "#tickets"
+    #  weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=720074fe-7894-4a91-8b64-bff3996d7739"
 
 fr:
-  comingsoon    : "Restez à l'écoute pour Août 2021 !"
+  comingsoon    : ""
   currency      : "$"
   currency2     : "(CAD)"
   titletotal    : ""
-  subtitletotal : "Le billet “accès complet” inclus l’événement FAB16, les activités en soirée et l’événement Fab City Summit.
+  subtitletotal : "FAB16 est un événement hybride et distribué
                   <br><br>
-                  Les billets ne comprennent pas les autres coûts de votre voyage.
-                  <br><br>
-                  <em>NOTE IMPORTANTE : Si vous planifiez de devenir animateur d’atelier, nous vous offrons un rabais de 125$ (CAD) sur le prix du  billet “ ACCES COMPLET”. CEPENDANT, votre atelier doit être approuvé <u>avant</u> de recevoir votre code de rabais. Si vous achetez votre billet avant d’être approuvé, le rabais ne s’appliquera plus. 
-                  </em>"
+                  Pré-enregistrez-vous gratuitement dès aujourd’hui pour l’événement en ligne et nous vous informerons des conditions de participation en personne sous peu!
+                  <br><br>"
   subtitletotal2: "<br><br>
-                  <strong style='font-size:22px;'>Politique de remboursement </strong>
-                  <br>
-                  Vos billets d'événement sont remboursables sur demande <span class='line'>jusqu'au 1er mai 2020 </span>; veuillez noter que des frais de traitement des billets (prix du billet tx in x5%) seront retenus.
-                  <br><br>
                   <strong style='font-size:22px;'>COVID-19</strong>
                   <br>
                   La santé et la sécurité des participants au FAB16 et au Fab City Summit est une priorité pour nous ! Bien que nos événements soient des événements internationaux majeurs, les gouvernements du Canada et du Québec n'ont actuellement imposé aucune restriction sur les événements pour la période concernée.
@@ -131,13 +120,7 @@ fr:
                   <br><br>
                   <strong>Mesures spéciales</strong>
                   <br>
-                  Nous étudions actuellement toutes les possibilités technologiques afin de proposer les conférences, ateliers et groupes de travail de l'événement par vidéoconférence pour que vous puissiez y assister.
-                  <br><br>
-                  <strong>Voyage</strong>
-                  <br>
-                  La politique de remboursement ne s'applique pas aux hôtels et aux vols réservés dans le cadre de votre voyage, veuillez contacter votre agent de voyage pour plus d'informations.
-                  Certaines compagnies aériennes, comme Air France et Air Canada, ont assoupli leur politique de remboursement, veuillez vous renseigner auprès de votre agent de voyage. Par exemple, Air Canada propose de changer votre billet sans frais jusqu'à 14 jours avant votre voyage.
-                  Pour plus d'informations, veuillez contacter <a href='mailto:fab16@fabfoundation.org'>fab16@fabfoundation.org</a> ou l'agence de voyage <a href='mailto:fab16@partners-travel.com'>fab16@partners-travel.com</a>.
+                  Nous mettrons en place toutes les possibilités technologiques afin de proposer les conférences, ateliers et groupes de travail de l'événement par vidéoconférence pour que vous puissiez y assister.
                   <br><br>
                   Le genre masculin est utilisé comme générique, dans le seul but de ne pas alourdir le texte.
                   <br><br>
@@ -155,24 +138,31 @@ fr:
     #  item4: ""
     #  buttontext: "Réservez votre billet"
     #  buttonlink: "#tickets"
-    - price          : "595"
+    - price          : "Gratuit"
+      currency       : ""
       pass_fr        : "PASSE"
-      title          : "ACCÈS COMPLET"
+      title          : "EN LIGNE"
       pass           : ""
       img            : "assets/img/tickets/ticket1.png"
       sale           : ""
       salecaption    : ""
-      item1          : "TARIF LEVE-TÔT"
-      item2          : "incluant le Sommet Fab City"
-      item3          : "<em>995$ (CAD) tarif plein à partir du 1er mai</em>"
-      item4          : " "
+      #item1          : "TARIF LEVE-TÔT"
+      #item2          : "incluant le Sommet Fab City"
+      #item3          : "<em>995$ (CAD) tarif plein à partir du 1er mai</em>"
+      #item4          : " "
+      item1          : ""
+      item2          : ""
+      item3          : ""
+      item4          : ""
       buttontext     : "Réservez votre billet"
+      buttonclass    : ""
       buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=a60ee8d2-23db-4f15-82da-e088c210a102"
+      weezeventiframe: "https://widget.weezevent.com/ticket/E580533/?code=9118&locale=fr-CA&width_auto=1&color_primary=00AEEF&widget_key=32cc787d-3ae1-41dc-a9bd-fb01f921d5ea"
 
-    - price          : "195"
+    - price          : ""
+      currency       : ""
       pass_fr        : "PASSE"
-      title          : "1 JOUR"
+      title          : "PRESENTIEL"
       pass           : ""
       img            : "assets/img/tickets/ticket2.png"
       sale           : ""
@@ -181,23 +171,24 @@ fr:
       item2          : " "
       item3          : " "
       item4          : " "
-      buttontext     : "Réservez votre billet"
+      buttontext     : "Bientôt disponible"
+      buttonclass    : "disabled"
       buttonlink     : "#tickets"
       weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=cd943ff7-8c62-4407-895c-6753ae1e72a9"
 
-    - price          : "95"
-      pass_fr        : "PASSE"
-      title          : "1 JOUR SPÉCIAL ÉTUDIANT"
-      pass           : ""
-      img            : "assets/img/tickets/ticket3.png"
-      sale           : ""
-      salecaption    : ""
-      item1          : " "
-      item2          : " "
-      item3          : " "
-      item4          : " "
-      buttontext     : "Réservez votre billet"
-      buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=9e156796-c0e3-4cfe-bba7-a4afae14be53"
+    #- price          : "95"
+    #  pass_fr        : "PASSE"
+    #  title          : "1 JOUR SPÉCIAL ÉTUDIANT"
+    #  pass           : ""
+    #  img            : "assets/img/tickets/ticket3.png"
+    #  sale           : ""
+    #  salecaption    : ""
+    #  item1          : " "
+    #  item2          : " "
+    #  item3          : " "
+    #  item4          : " "
+    #  buttontext     : "Réservez votre billet"
+    #  buttonlink     : "#tickets"
+    #  weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=9e156796-c0e3-4cfe-bba7-a4afae14be53"
 
 

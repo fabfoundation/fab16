@@ -1,4 +1,4 @@
-<div class="container tickets marg100bot {{ color_class }}" style="display:none;">
+<div class="container tickets marg100bot {{ color_class }}">
     <div class="row flex-items-xs-middle flex-items-xs-center">
 
         <h2 class="title {{ color_class }}">{{ site.data.tickets[page.lang].titletotal }}</h2>
@@ -21,8 +21,9 @@
 
                                 {{ ticket.price }}
                                 <span class="currency colorwhite">
-                  {{ site.data.tickets[page.lang].currency }}{{ site.data.tickets[page.lang].currency2 }}
-                </span>
+                                    <!--{{ site.data.tickets[page.lang].currency }}{{ site.data.tickets[page.lang].currency2 }}-->
+                                    {{ ticket.currency }}
+                                </span>
 
                             </h3>
                             <p class="list-group-item first colorwhite pad0 text-left">{{ ticket.item1 }}</p>
@@ -45,9 +46,11 @@
                                 <strong>{{  ticket.pass }}</strong> {% endif %}
                             </h4>
 
-                            <a href="#" class="btn btn-primary btn-sm btn-ticket mt-2 bottom-align-text disabled backwhite" data-toggle="modal" data-target="#myModal{{ forloop.index }}">
-                {{  ticket.buttontext }}
-              </a>
+                            <a href="#" class="btn btn-primary btn-sm btn-ticket mt-2 bottom-align-text backwhite {{  ticket.buttonclass }}" data-toggle="modal" data-target="#myModal{{ forloop.index }}">
+                                {{  ticket.buttontext }}
+                            </a>
+
+                            
                         </div>
                     </div>
                 </div>
@@ -60,8 +63,8 @@
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
 
                             <div class="embed-responsive embed-responsive-16by9">
-                                {% comment %}<iframe src="{{ ticket.weezeventiframe }}" class="embed-responsive-item" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>{% endcomment %}
-                                <h2 style="color: #000;margin: auto;text-align:center;">{{site.data.locales[page.lang].notice}}</h2>
+                                <iframe src="{{ ticket.weezeventiframe }}" class="embed-responsive-item" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+                                {% comment %}<h2 style="color: #000;margin: auto;text-align:center;">{{site.data.locales[page.lang].notice}}</h2>{% endcomment %}
                             </div>
                         </div>
                     </div>
@@ -73,7 +76,7 @@
         </div>
     </div>
 </div>
-<div class="row">
+<div class="row" style="display:none;">
     <div class="col-lg-12 col-md-12">
         <div class="row no-gutter comingsoon text-center pad25 backwhite colorblue" style="margin-top:100px; margin-bottom:100px;">
             {{ site.data.tickets[page.lang].comingsoon }}
