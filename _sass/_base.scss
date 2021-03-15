@@ -629,7 +629,8 @@ img::-moz-selection {
     display: flex;
     align-items: center;
 }
-@media (max-width: 768px) {
+//@media (max-width: 768px) {
+@media (max-width: 1200px) {
     .vertical-align {
         display: block!important;
         text-align: center!important;
