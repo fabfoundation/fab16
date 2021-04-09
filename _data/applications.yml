@@ -5,16 +5,16 @@ en:
   text    : "FAB16 integrates the knowledge acquired throughout the year from over 2000 Fab Labs around the world. As we gather together at the conference, everyone is encouraged to participate in various activities: leading or engaging in a workshop or working group, submitting a research paper, or being a volunteer, to name a few. Visit the tabs below to participate!"
 
   application:
-    - item      : "item1"
-      menu      : "Working groups"
-      title     : "Participate with your working groups"
-      text      : "Join us in the Working Groups of the Fab Labs Network, where we gather in smaller cohorts to plan out recurring global initiatives, such as Fab Academy, International Education, Assistive Technology, and more.<br>
-                  These are theoretical discussions, and a chance for the global community to connect and share their perspectives.
-                  <br><br>
-                  Use the link below to submit a working group!"
-      buttontext: "Coming soon"
-      modal     : ""
-      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+    #- item      : "item1"
+    #  menu      : "Working groups"
+    #  title     : "Participate with your working groups"
+    #  text      : "Join us in the Working Groups of the Fab Labs Network, where we gather in smaller cohorts to plan out recurring global initiatives, such as Fab Academy, International Education, Assistive Technology, and more.<br>
+    #              These are theoretical discussions, and a chance for the global community to connect and share their perspectives.
+    #              <br><br>
+    #              Use the link below to submit a working group!"
+    #  buttontext: "Coming soon"
+    #  modal     : ""
+    #  link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
 
     - item      : "item2"
       menu      : "Workshops"
@@ -58,7 +58,7 @@ en:
                   Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies.<br>
                   An event you certainly won't want to miss!
                   <br><br>
-                  If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org' class='btn disabled line' style='float:unset;'>fab16@fabfoundation.org</a>"
+                  If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org' class='btn' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
       modal     : ""
       link      : ""
@@ -92,7 +92,7 @@ en:
                     <li>Make your brand or products and services known to a creative audience who utilize a wide variety of hardware and software.</li>
                   </ul>
                   <p class='colorwhite'>
-                  Contact us to find out how you can take part in this extraordinary event and secure your participation, at <a href='mailto:fab16@communautique.quebec' class='btn disabled line' style='float:unset;'>fab16@communautique.quebec</a> 
+                  Contact us to find out how you can take part in this extraordinary event and secure your participation, at <a href='mailto:fab16@communautique.quebec' class='btn' style='float:unset;'>fab16@communautique.quebec</a> 
                   </p>"
       buttontext: ""
       modal     : ""
@@ -107,17 +107,17 @@ fr:
             Visitez les onglets ci-bas pour participer!"
 
   application:
-    - item      : item1
-      menu      : "Groupes de travail"
-      title     : "Participez aux groupes de travail"
-      text      : "Prenez part aux groupes de travail du réseau des Fab Labs, où nous nous réunissons en petites cohortes afin de planifier les initiatives mondiales récurrentes comme la Fab Academy, l’éducation internationale, les technologies d’assistance, et plus.<br>
-                  Ces discussions théoriques sont une chance pour la communauté globale de se connecter ensemble et de partager leurs perspectives. 
-                  <br><br>
-                  Utilisez le lien ci-dessous pour soumettre un groupe de travail!
-                  "
-      buttontext: "À venir"
-      modal     : ""
-      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+    #- item      : item1
+    #  menu      : "Groupes de travail"
+    #  title     : "Participez aux groupes de travail"
+    #  text      : "Prenez part aux groupes de travail du réseau des Fab Labs, où nous nous réunissons en petites cohortes afin de planifier les initiatives mondiales récurrentes comme la Fab Academy, l’éducation internationale, les technologies d’assistance, et plus.<br>
+    #              Ces discussions théoriques sont une chance pour la communauté globale de se connecter ensemble et de partager leurs perspectives. 
+    #              <br><br>
+    #              Utilisez le lien ci-dessous pour soumettre un groupe de travail!
+    #              "
+    #  buttontext: "À venir"
+    #  modal     : ""
+    #  link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
     
     - item      : item2
       menu      : "Ateliers"
@@ -160,7 +160,7 @@ fr:
                   Des ateliers gratuits où les enfants, les jeunes et les moins jeunes auront la possibilité d'avoir leur première expérience des méthodologies de fabrication numérique.<br>
                   Un événement que vous ne pourrez certainement pas manquer !
                   <br><br>
-                  Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org' class='btn disabled line' style='float:unset;'>fab16@fabfoundation.org</a>"
+                  Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org' class='btn' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
       modal     : ""
       link      : ""
@@ -194,7 +194,7 @@ fr:
                     <li>Faites connaître votre marque ou vos produits et services à un public créatif qui utilise une grande variété de matériel et de logiciels.</li>
                   </ul>
                   <p class='colorwhite'>
-                  Contactez-nous pour trouver comment vous pouvez prendre part à cet extraordinaire événement et assurer votre participation, en nous écrivant à <a href='mailto:fab16@communautique.quebec' class='btn disabled line' style='float:unset;'>fab16@communautique.quebec</a>
+                  Contactez-nous pour trouver comment vous pouvez prendre part à cet extraordinaire événement et assurer votre participation, en nous écrivant à <a href='mailto:fab16@communautique.quebec' class='btn' style='float:unset;'>fab16@communautique.quebec</a>
                   </p>"
       buttontext: ""
       modal     : ""
