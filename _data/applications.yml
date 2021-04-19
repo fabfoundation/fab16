@@ -29,9 +29,10 @@ en:
                   <em>** Keep in mind that your workshop should be no more than 2 hours. 
                   The majority of people will be joining online, and given the circumstances around Covid-19, not everyone will have access to tools you would find in a Fab Lab unless they can purchase them ahead of time. 
                   So we need to be creative!</em>"
-      buttontext: "Coming soon"
+      buttontext: "Participate"
+      buttonclass: ""
       modal     : ""
-      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+      link      : "https://forms.gle/SNM7pvtJzjYEyWAU9"
 
     - item      : "item3"
       menu      : "Research papers"
@@ -39,6 +40,7 @@ en:
       text      : "The FAB16 research papers stream invites original scholarly writing from researchers studying the Fab Lab movement, its ambitions and its impact from a wide range of disciplines, including computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
                   Use the link below to propose a paper !"
       buttontext: "Coming soon"
+      buttonclass: "disabled"
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
 
@@ -54,9 +56,10 @@ en:
                   Keep in mind that this year's theme is &ldquo;Fabricating the Commons,&rdquo; looking at how we can produce and share knowledge and tools based on peer production to create a sustainable future for everyone.
                   <br><br>
                   Interested in sharing your project? Use the link below to submit a project! "
-      buttontext: "Coming soon"
+      buttontext: "Participate"
+      buttonclass: ""
       modal     : ""
-      link      : "https://docs.google.com/forms/d/e/1FAIpQLSfIbgzwqdfhyH2dRGVdbTpsFSTblDXtiAlSzQbM5bXfK13dcA/viewform"
+      link      : "https://forms.gle/oiHMkjfDiYtHgqvcA"
 
     - item      : "item5"
       menu      : "Fab Festival"
@@ -67,6 +70,7 @@ en:
                   <br><br>
                   If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org' class='btn' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
+      buttonclass: ""
       modal     : ""
       link      : ""
 
@@ -91,6 +95,7 @@ en:
                   <em>**You have to be authorized by the Canadian government to work legally as a volunteer in Montreal.</em>
                   </p>"
       buttontext: "Coming soon"
+      buttonclass: "disabled"
       modal     : ""
       link      : "https://forms.gle/289qVARsA2nxCBmRA"
     
@@ -144,9 +149,10 @@ fr:
                   <em>**Gardez à l'esprit que votre atelier ne doit pas durer plus de 2 heures. 
                   La majorité des personnes se joindront en ligne et, étant donné les circonstances entourant Covid-19, tout le monde n'aura pas accès aux outils que l'on trouve dans un Fab Lab, à moins de pouvoir les acheter à l'avance. 
                   Nous devons donc être créatifs !</em>"
-      buttontext: "À venir"
+      buttontext: "Participer"
+      buttonclass: ""
       modal     : ""
-      link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
+      link      : "https://forms.gle/yHsZeu3WEP1f5dBv8"
     
     - item      : item3
       menu      : "Papiers de recherche"
@@ -155,6 +161,7 @@ fr:
                   <br><br>
                   Utilisez le lien ci-dessous pour soumettre un atelier!"
       buttontext: "À venir"
+      buttonclass: "disabled"
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
     
@@ -170,9 +177,10 @@ fr:
                   Gardez à l'esprit que le thème de cette année est &ldquo;Fabricating the Commons&rdquo;, et qu'il s'agit de voir comment nous pouvons produire et partager des connaissances et des outils basés sur la production par les pairs afin de créer un avenir durable pour tous.
                   <br><br>
                   Vous souhaitez partager votre projet ? Utilisez le lien ci-dessous pour soumettre un projet !"
-      buttontext: "À venir"
+      buttontext: "Participer"
+      buttonclass: ""
       modal     : ""
-      link      : "https://docs.google.com/forms/d/e/1FAIpQLSdgkz5N_9zVF2ahDexaMAeYphnVK-uSv17YDHBG7geUjUTugA/viewform"
+      link      : "https://forms.gle/XBPgvb9JcWUDfwhr5"
     
     - item      : item5
       menu      : "Fab Festival"
@@ -183,6 +191,7 @@ fr:
                   <br><br>
                   Si vous souhaitez animer un atelier durant le Fab Festival, écrivez-nous à <a href='mailto:fab16@fabfoundation.org' class='btn' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
+      buttonclass: ""
       modal     : ""
       link      : ""
     
@@ -208,6 +217,7 @@ fr:
                   <em>**Vous devez être autorisé par le gouvernement canadien à travailler légalement comme bénévole à Montréal.</em>
                   </p>"
       buttontext: "À venir"
+      buttonclass: "disabled"
       modal     : ""
       link      : "https://docs.google.com/forms/d/e/1FAIpQLScpdv4bVR-KPC_U6WllS1fAMZLeeFGZF3oO6wmuc5R0OKzldw/viewform"
     
@@ -224,5 +234,6 @@ fr:
                   Contactez-nous pour trouver comment vous pouvez prendre part à cet extraordinaire événement et assurer votre participation, en nous écrivant à <a href='mailto:fab16@communautique.quebec' class='btn' style='float:unset;'>fab16@communautique.quebec</a>
                   </p>"
       buttontext: ""
+      buttonclass: ""
       modal     : ""
       link      : ""
