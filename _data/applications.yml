@@ -57,7 +57,7 @@ en:
                   <br><br>
                   Interested in sharing your project? Use the link below to submit a project! "
       buttontext: "Participate"
-      buttonclass: ""
+      buttonclass: "border-white"
       modal     : ""
       link      : "https://forms.gle/oiHMkjfDiYtHgqvcA"
 
@@ -178,7 +178,7 @@ fr:
                   <br><br>
                   Vous souhaitez partager votre projet ? Utilisez le lien ci-dessous pour soumettre un projet !"
       buttontext: "Participer"
-      buttonclass: ""
+      buttonclass: "border-white"
       modal     : ""
       link      : "https://forms.gle/XBPgvb9JcWUDfwhr5"
     
