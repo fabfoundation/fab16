@@ -4,7 +4,8 @@ en:
   img_home   : "assets/img/travel3-opt3.jpg"
   img        : "assets/img/travel4-opt.jpg"
   img_bis    : "assets/img/travel_home-opt.jpg"
-  text       : "Each year we try to make your stay as gratifying as possible. FAB16 will be in Montréal on the McGill University campus in the heart of the city. Our site includes information on all of your travel needs getting to Canada, and getting around Montréal.
+  text       : "Each year we try to make your stay as gratifying as possible. FAB16 will be in the heart of the District Central of Montréal. 
+                Our site includes information on all of your travel needs getting to Canada, and getting around Montréal.
                <br>You will find all the useful information on how to obtain a visa, discounts on hotels as well as flights, restaurants and transportation in the city."
 
   desc       : "We have all of the travel information you need to get to Montréal and have a great stay while you’re here. See below for discounts, travel information, and more."
@@ -157,7 +158,7 @@ fr:
   img_home   : "assets/img/travel3-opt3.jpg"
   img        : "assets/img/travel4-opt.jpg"
   img_bis    : "assets/img/travel_home-opt.jpg"
-  text       : "Chaque année, nous voulons rendre votre séjour aussi agréable que possible. Le FAB16 se tiendra à Montréal sur le campus de l’Université McGill au coeur du centre-ville.
+  text       : "Chaque année, nous voulons rendre votre séjour aussi agréable que possible. Le FAB16 se tiendra à Montréal au cœur du District Central de Montréal.
                 Ce site contient toute l’information nécessaire pour vous rendre au Canada et vous déplacer à Montréal.
                 <br>Vous y trouverez notamment des renseignements utiles concernant les modalités d’obtention du visa, les réductions sur les hôtels ainsi que les vols, les restaurants et les transports dans la ville."
 

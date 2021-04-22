@@ -55,7 +55,7 @@ en:
                   <br><br>
                   Keep in mind that this year's theme is &ldquo;Fabricating the Commons,&rdquo; looking at how we can produce and share knowledge and tools based on peer production to create a sustainable future for everyone.
                   <br><br>
-                  Interested in sharing your project? Use the link below to submit a project! "
+                  Want to share your initiatives? Use the link below to submit your proposals! "
       buttontext: "Participate"
       buttonclass: "border-white"
       modal     : ""
@@ -94,10 +94,10 @@ en:
                   <br><br>
                   <em>**You have to be authorized by the Canadian government to work legally as a volunteer in Montreal.</em>
                   </p>"
-      buttontext: "Coming soon"
-      buttonclass: "disabled"
+      buttontext: "Participate"
+      buttonclass: ""
       modal     : ""
-      link      : "https://forms.gle/289qVARsA2nxCBmRA"
+      link      : "https://forms.gle/L32rN6jNKnZCoNCk6"
     
     - item      : "item7"
       menu      : "Become a sponsor"
@@ -159,7 +159,7 @@ fr:
       title     : "Soumettez votre publication scientifique"
       text      : "Le volet du FAB16 concernant les papiers de recherche invite les auteurs d’articles de recherche originaux étudiant le mouvement Fab Lab, ses ambitions et ses impacts au travers d’un large spectre de disciplines, incluant les sciences informatiques, l’ingénierie, les domaines scientifiques et technologiques, la gestion et les affaires, l’éducation, l’urbanisme, les médias et le design, et bien d’autres encore.
                   <br><br>
-                  Utilisez le lien ci-dessous pour soumettre un atelier!"
+                  Utilisez le lien ci-dessous pour soumettre une publication."
       buttontext: "À venir"
       buttonclass: "disabled"
       modal     : ""
@@ -167,16 +167,15 @@ fr:
     
     - item      : item4
       menu      : "FAB World et plus"
-      title     : "Participez à FAB World, Fabercise, Fab Cinema et plus encore !"
-      text      : "Nous voulons savoir quels sont les projets FAB que vous et votre communauté développez ! 
-                  C'est l'occasion pendant FAB16 de présenter un exposé de 3 minutes à la communauté Fab sur les projets, les initiatives, les équipes et les développements qui ont lieu dans votre Fab Lab et votre communauté Fab. 
-                  Cette année, en plus de Fab World, nous encourageons également le réseau Fab Lab à soumettre d'autres contenus créatifs préenregistrés, tels que Fabercise, Fab Cinema, Fab Discovery et/ou Fab Podcast ! 
-                  Apprenez au réseau quelque chose de nouveau ! 
-                  Vous trouverez une description de chacun d'entre eux dans le formulaire de candidature.
+      title     : "Participez à FAB World, Fabercise, Fab Cinéma et plus encore !"
+      text      : "Nous voulons savoir quels sont les projets que vous et votre communauté développez dans votre Fab Lab ! 
+                  C'est l'occasion, pendant le FAB16, de présenter un exposé de 3 minutes auprès de la communauté sur des projets, des initiatives, vos équipes et les développements qui ont lieu dans votre Fab Lab et votre collectivité. 
+                  Cette année, en plus du Fab World, nous encourageons également le réseau des Fab Labs à soumettre d'autres contenus créatifs préenregistrés, tels que pour diriger un Fabercise, proposer un Fab Cinéma, un &ldquo; Fab Discovery &rdquo; et/ou un Podcast ! Apprenez au réseau quelque chose de nouveau ! 
+                  Vous trouverez une description de chacun d'entre eux dans le formulaire d'application.
                   <br><br>
-                  Gardez à l'esprit que le thème de cette année est &ldquo;Fabricating the Commons&rdquo;, et qu'il s'agit de voir comment nous pouvons produire et partager des connaissances et des outils basés sur la production par les pairs afin de créer un avenir durable pour tous.
+                  Gardez à l'esprit que le thème de cette année est  &ldquo;Fabricating the Commons&rdquo;,  et qu'il s'agit de voir comment nous pouvons produire et partager des connaissances et des outils basés sur la production par les pairs afin de créer un avenir durable pour tous.
                   <br><br>
-                  Vous souhaitez partager votre projet ? Utilisez le lien ci-dessous pour soumettre un projet !"
+                  Vous souhaitez partager vos initiatives ? Utilisez le lien ci-dessous pour soumettre vos propositions !"
       buttontext: "Participer"
       buttonclass: "border-white"
       modal     : ""
@@ -216,10 +215,10 @@ fr:
 
                   <em>**Vous devez être autorisé par le gouvernement canadien à travailler légalement comme bénévole à Montréal.</em>
                   </p>"
-      buttontext: "À venir"
-      buttonclass: "disabled"
+      buttontext: "Participer"
+      buttonclass: ""
       modal     : ""
-      link      : "https://docs.google.com/forms/d/e/1FAIpQLScpdv4bVR-KPC_U6WllS1fAMZLeeFGZF3oO6wmuc5R0OKzldw/viewform"
+      link      : "https://forms.gle/pMrMGEGyfN4ZRhKN7"
     
     - item      : item7
       menu      : "Devenez commanditaire"
