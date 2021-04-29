@@ -28,47 +28,29 @@ programdesc: "<br><br>
                     <li>Conférenciers et panélistes sur le thème et les sujets du FAB16</li>
                 </ul>
                 Des ateliers “hands-on” et théoriques<br>
-                Des groupes de travail<br>
-                <ul>
-                    <li>Instructeurs Academany</li>
-                    <li>Assistive technologies</li>
-                    <li>Humanitarian Lab</li>
-                    <li><a href='https://www.scopesdf.org/'>SCOPES-DF</a></li>
-                    <li>Regional Networks</li>
-                    <li>Education STEAM</li>
-                    <li>Femmes Makers</li>
-                    <li>Fab Kids</li>
-                </ul>
                 Des présentations de recherches<br>
                 Des challenges<br>
                 Des moments forts de réseautage<br>
                 La cérémonie de diplômes Academany<br>
-                L’exposition “7th Digital Fashion and Wearables”<br>
-                Un SuperFabLab<br>
-                Un vaste espace aménagé de tout l’appareillage d’un Fab Lab (et beaucoup plus encore)<br>
                 Des Fab Labs mobiles<br>
                 "
 programdesc2: "<br><br>
                 <strong style='' class='travelmenu'>Fab Festival <span class='line hidden'>- Le 14 août</span></strong>
                 <br><br>
-                Le Fab Festival est un événement se déroulant le samedi et qui reprend la structure de l’événement principal, mais avec des activités, adaptées pour le grand public et les enfants, offertes par les Fab Labs du monde entier.<br>
+                Le Fab Festival est un événement se déroulant le samedi et qui reprend la structure de l’événement principal, mais avec des activités, adaptées pour le grand public et les enfants, offertes par les Fab Labs du pays entier.<br>
                 <ul>
                     <li>Foire interactive de projets inspirants</li>
                     <li>Conférences</li>
                     <li>Démonstrations</li>
                 </ul>
                 <br><br>
-                <strong style='' class='travelmenu'>La promenade du dimanche <span class='line hidden'>- le 15 août</span></strong>
-                <br><br>
-                Une journée de visite des Fab Labs dans la ville.
-                <br><br>
                 <strong style='' class='travelmenu'>Le Fab City Summit <span class='line hidden'>du 13 au 15 août</span></strong>
                 <br><br>
-                Une série de conférences et d’ateliers sur deux jours offerts par des sommités mondiales et locales qui mettent en lumière les enjeux globaux auxquels font face les villes et territoires et les initiatives concrètes entourant l’essor des Fab City. Et une journée de visites des destinations phares dans la ville.
+                Une série de conférences et d’ateliers sur trois jours offerts par des sommités mondiales et locales qui mettent en lumière les enjeux globaux auxquels font face les villes et territoires et les initiatives concrètes entourant l’essor des Fab City. Et une journée de visites des destinations phares dans la ville.
                 <br><br><br>              
                 <strong style='' class='travelmenu'>Le Campus Fab City <span class='line hidden'>du 12 au 19 août</span></strong>
                 <br><br><br>
-                Une intervention à court terme, huit (8) jours, qui mettra en valeur les expériences locales et internationales et les prototypes de Fab City. Il comprendra des expositions, des visites guidées des Fab Labs locaux et des ateliers de fabrication.<br>
+                Une intervention à court terme, trois jours, qui mettra en valeur les expériences locales et internationales et les prototypes de Fab City. Il comprendra des expositions, des visites guidées des Fab Labs locaux et des ateliers de fabrication.<br>
                 "
 program: ""
 

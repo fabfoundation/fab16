@@ -83,7 +83,7 @@ en:
                     <li>Creating links with other volunteers and actors in the movement.</li>
                   </ul>
                   <p class='colorwhite'>
-                  Given the circumstances of COVID-19, we do not know yet whether we will be able to host international participants in person in Montreal. 
+                  Given the circumstances of COVID-19, we do not know yet whether we will be able to host international participants in person in Montréal. 
                   <b>Our current volunteer application form is only for people who currently live in Canada and plan to attend FAB16 in person.</b>
                   <br><br>
                   In the coming months, we will be reaching out to the Fab Lab Network about volunteering for the international ONLINE event. 
@@ -92,7 +92,7 @@ en:
                   <br><br>
                   Use the link below to submit your interest! 
                   <br><br>
-                  <em>**You have to be authorized by the Canadian government to work legally as a volunteer in Montreal.</em>
+                  <em>**You have to be authorized by the Canadian government to work legally as a volunteer in Montréal.</em>
                   </p>"
       buttontext: "Participate"
       buttonclass: ""
@@ -198,7 +198,7 @@ fr:
       menu      : "Devenez bénévole"
       title     : "Devenir bénévole c'est ..."
       text      : "<ul class='colorwhite'>
-                    <li>Être en contact avec des gens de cultures différentes</li>
+                    <li>Être en contact avec des gens de différentes cultures</li>
                     <li>Soutenir les participants durant la conférence en facilitant leur expérience</li>
                     <li>Créer des liens avec d’autres bénévoles et acteurs du mouvement.</li>
                   </ul>
