@@ -134,7 +134,7 @@ fr:
     #  buttonlink: "#tickets"
     - price          : "Gratuit"
       currency       : ""
-      pass_fr        : "PASSE"
+      pass_fr        : "BILLET"
       title          : "EN LIGNE"
       pass           : ""
       img            : "assets/img/tickets/ticket1.png"
@@ -155,7 +155,7 @@ fr:
 
     - price          : ""
       currency       : ""
-      pass_fr        : "PASSE"
+      pass_fr        : "BILLET"
       title          : "PRESENTIEL"
       pass           : ""
       img            : "assets/img/tickets/ticket2.png"
