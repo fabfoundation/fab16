@@ -38,9 +38,11 @@ en:
       menu      : "Research papers"
       title     : "Submit your Paper "
       text      : "The FAB16 research papers stream invites original scholarly writing from researchers studying the Fab Lab movement, its ambitions and its impact from a wide range of disciplines, including computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
-                  Use the link below to propose a paper !"
-      buttontext: "Coming soon"
-      buttonclass: "disabled"
+                  Submit your paper here :
+                  <br><br>
+                  <em>Abstract Registration Deadline: May 31, 2021</em>"
+      buttontext: "Participate"
+      buttonclass: ""
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
 
@@ -158,10 +160,11 @@ fr:
       menu      : "Papiers de recherche"
       title     : "Soumettez votre publication scientifique"
       text      : "Le volet du FAB16 concernant les papiers de recherche invite les auteurs d’articles de recherche originaux étudiant le mouvement Fab Lab, ses ambitions et ses impacts au travers d’un large spectre de disciplines, incluant les sciences informatiques, l’ingénierie, les domaines scientifiques et technologiques, la gestion et les affaires, l’éducation, l’urbanisme, les médias et le design, et bien d’autres encore.
+                  Utilisez le lien ci-dessous pour soumettre une publication:
                   <br><br>
-                  Utilisez le lien ci-dessous pour soumettre une publication."
-      buttontext: "À venir"
-      buttonclass: "disabled"
+                  <em>Date limite d'inscription des résumés : 31 mai 2021</em>"
+      buttontext: "Participez"
+      buttonclass: ""
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
     
