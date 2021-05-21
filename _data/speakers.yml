@@ -2,12 +2,8 @@ en:
   title     : SPEAKERS
   subtitle  : Meet our speakers
   img       : "assets/img/services/FabConference.png"
-  comingsoontext: "FABx events speakers come from all over the world.
-                  <br><br>
-                  You will find them in Montréal and on the online conferencing platform in August 2021!
-                  <br><br>
-                  The team is mobilizing to introduce you soon to the key personalities who will share their experience with us at FAB16 Montréal."
-  comingsoon: "Stay tuned !"
+  comingsoontext: ""
+  comingsoon: ""
   speaker:
     - img  : assets/img/speakers/NeilGershenfeld-square-opt.jpg
       label: "Neil Gershenfeld"
@@ -50,30 +46,30 @@ en:
               Tomàs has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch in 2013, and has been awarded by the Catalan ICT association as the entrepreneur of the year in 2014.
               His research interests relate to the use of digital fabrication tools to transform the reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
             </p>"
-    - img  : assets/img/speakers/JamesWarren.jpg
-      label: "James Warren"
-      title: "Director of the NIST Materials Genome Program"
-      desc : "<p>
-              Current Foci:
-              <br><br>
-              Since 2010,  I have been focusing my energies on the US Materials Genome Initiative, a multi-agency initiative designed to create a new era of policy, resources, and infrastructure that support U.S. institutions in the effort to discover, manufacture, and deploy advanced materials twice as fast, at a fraction of the cost. 
-              More information about the MGI can be found at the <a href='https://www.mgi.gov/' rel='noopener' target='_blank'>MGI home page</a>.  
-              In my role as Director of the National Institute of Standards and Technology (NIST) Materials Genome Program, I am working with a government-wide team to build out the materials innovation infrastructure needed to realize the goals of the initiative.  
-              NIST, in particular, has an outsize role to play in achieving those goals.  
-              More information about the NIST effort in support of the MGI can be found at the <a href='https://www.nist.gov/mgi' rel='noopener' target='_blank'>NIST MGI home page</a>.
-              <br><br>
-              Research Interests:
-              <br><br>
-              My research is broadly concerned with developing both models of materials phenomena, and the tools to enable the solution of these models. 
-              Specific foci include solidification, pattern formation, grain structures, wetting, diffusion, and spreading in metals.
-              I have been employed at NIST since 1992,  in the Metallurgy Division and its successor the Materials Science and Engineering Division, within the Material Measurement Laboratory. 
-              I am also one of the co-founders, and the current Director, of the <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>NIST Center for Theoretical and Computational Materials Science</a>.
-              <br><br>
-              For a discussion of the the multitude of phase field modeling projects I have been involved in, as well as work by others in the <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>CTCMS</a> on this interesting topic. 
-              Another great resource on Phase Field Modeling can be found on the NIST Center of Excellence, the <a href='https://chimad.northwestern.edu/' rel='noopener' target='_blank'>Center for Hierarchical Materials Design</a>, phase field modeling <a href='https://pages.nist.gov/pfhub' rel='noopener' target='_blank'>benchmarks page</a>.
-              <br><br>
-              LINK: <a href='https://www.nist.gov/people/james-warren' rel='noopener' target='_blank'>https://www.nist.gov/people/james-warren</a>
-            </p>"
+    #- img  : assets/img/speakers/JamesWarren.jpg
+    #  label: "James Warren"
+    #  title: "Director of the NIST Materials Genome Program"
+    #  desc : "<p>
+    #          Current Foci:
+    #          <br><br>
+    #          Since 2010,  I have been focusing my energies on the US Materials Genome Initiative, a multi-agency initiative designed to create a new era of policy, resources, and infrastructure that support U.S. institutions in the effort to discover, manufacture, and deploy advanced materials twice as fast, at a fraction of the cost. 
+    #          More information about the MGI can be found at the <a href='https://www.mgi.gov/' rel='noopener' target='_blank'>MGI home page</a>.  
+    #          In my role as Director of the National Institute of Standards and Technology (NIST) Materials Genome Program, I am working with a government-wide team to build out the materials innovation infrastructure needed to realize the goals of the initiative.  
+    #          NIST, in particular, has an outsize role to play in achieving those goals.  
+    #          More information about the NIST effort in support of the MGI can be found at the <a href='https://www.nist.gov/mgi' rel='noopener' target='_blank'>NIST MGI home page</a>.
+    #          <br><br>
+    #          Research Interests:
+    #          <br><br>
+    #          My research is broadly concerned with developing both models of materials phenomena, and the tools to enable the solution of these models. 
+    #          Specific foci include solidification, pattern formation, grain structures, wetting, diffusion, and spreading in metals.
+    #          I have been employed at NIST since 1992,  in the Metallurgy Division and its successor the Materials Science and Engineering Division, within the Material Measurement Laboratory. 
+    #          I am also one of the co-founders, and the current Director, of the <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>NIST Center for Theoretical and Computational Materials Science</a>.
+    #          <br><br>
+    #          For a discussion of the the multitude of phase field modeling projects I have been involved in, as well as work by others in the <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>CTCMS</a> on this interesting topic. 
+    #          Another great resource on Phase Field Modeling can be found on the NIST Center of Excellence, the <a href='https://chimad.northwestern.edu/' rel='noopener' target='_blank'>Center for Hierarchical Materials Design</a>, phase field modeling <a href='https://pages.nist.gov/pfhub' rel='noopener' target='_blank'>benchmarks page</a>.
+    #          <br><br>
+    #          LINK: <a href='https://www.nist.gov/people/james-warren' rel='noopener' target='_blank'>https://www.nist.gov/people/james-warren</a>
+    #        </p>"
     - img  : assets/img/speakers/LaraStein.jpg
       label: "Lara Stein"
       title: "Co-Founder and CEO of BOMA"
@@ -88,18 +84,18 @@ en:
                <br><br>
                Stein has also held leadership roles at Microsoft, <a href='https://www.marvel.com/' rel='noopener' target='_blank'>Marvel</a>, iXL, and <a href='https://www.wgbh.org/' rel='noopener' target='_blank'>WGBH</a>. She currently sits on the board of <a href='https://www.equalitynow.org/' rel='noopener' target='_blank'>Equality Now</a>, a non-profit that fights for legal and systemic change and addresses violence and discrimination against women and girls around the world, <a href='https://www.lalela.org/' rel='noopener' target='_blank'>Lalela</a>, an organization dedicated to the education of youth through the arts and <a href='https://www.wearefamilyfoundation.org/' rel='noopener' target='_blank'>We Are Family Foundation</a>.
               </p>"
-    - img  : assets/img/speakers/OlivierMenard.jpg
-      label: "Olivier Menard"
-      title: "Grenoble Open Innovation Center Fab Lab Founder"
-      desc : "<p>
-              Olivier Ménard is passionate about Open Innovation and eXtreme Manufacturing. He has founded and deployed the <a href='http://www.y-spot.fr/' rel='noopener' target='_blank'>Y.SPOT</a> Grenoble <a href='https://www.fablabs.io/labs/fablaboic' rel='noopener' target='_blank'>Open Innovation Center Fab Lab</a> for CEA Tech Research Center, in order to accelerate technological collaborative innovation within a community of researchers, industrial partners, startups, designers, students and artists. In 18 months of operation, the Fab Lab has grown exponentially to 3,000 entries and produced 7,000 prototypes.
-               <br><br>
-              As <a href='https://www.ideas-laboratory.com/' rel='noopener' target='_blank'>Ideas Laboratory®</a> Innovation leader for Fortune 500 companies such as Renault, Bouygues and STMicroelectronics, Olivier has previously curated startup companies such as Smart Shower Hydrao and kickstarted <a href='http://www.theairboard.cc/' rel='noopener' target='_blank'>The AirBoard</a> ultra low power Arduino prototyping platform which delivered 3,000 customers in 50 countries worldwide.
-               <br><br>
-              Olivier Ménard has a Master of Electrical Engineering from the University of Houston, a Master of Aerospace Electronics from Sup'aéro, a Master of Industrial Design and Innovation Management from Strate Design School and is a certified facilitator in LEGO® Serious Play® and Creative Problem Solving.
-              <br><br>
-              His focus is on cross-cultural digital fabrication for corporate transformation, to accelerate prototyping and scaling disruptive innovation in emerging markets.
-              </p>"
+    #- img  : assets/img/speakers/OlivierMenard.jpg
+    #  label: "Olivier Menard"
+    #  title: "Grenoble Open Innovation Center Fab Lab Founder"
+    #  desc : "<p>
+    #          Olivier Ménard is passionate about Open Innovation and eXtreme Manufacturing. He has founded and deployed the <a href='http://www.y-spot.fr/' rel='noopener' target='_blank'>Y.SPOT</a> Grenoble <a href='https://www.fablabs.io/labs/fablaboic' rel='noopener' target='_blank'>Open Innovation Center Fab Lab</a> for CEA Tech Research Center, in order to accelerate technological collaborative innovation within a community of researchers, industrial partners, startups, designers, students and artists. In 18 months of operation, the Fab Lab has grown exponentially to 3,000 entries and produced 7,000 prototypes.
+    #           <br><br>
+    #          As <a href='https://www.ideas-laboratory.com/' rel='noopener' target='_blank'>Ideas Laboratory®</a> Innovation leader for Fortune 500 companies such as Renault, Bouygues and STMicroelectronics, Olivier has previously curated startup companies such as Smart Shower Hydrao and kickstarted <a href='http://www.theairboard.cc/' rel='noopener' target='_blank'>The AirBoard</a> ultra low power Arduino prototyping platform which delivered 3,000 customers in 50 countries worldwide.
+    #           <br><br>
+    #          Olivier Ménard has a Master of Electrical Engineering from the University of Houston, a Master of Aerospace Electronics from Sup'aéro, a Master of Industrial Design and Innovation Management from Strate Design School and is a certified facilitator in LEGO® Serious Play® and Creative Problem Solving.
+    #          <br><br>
+    #          His focus is on cross-cultural digital fabrication for corporate transformation, to accelerate prototyping and scaling disruptive innovation in emerging markets.
+    #          </p>"
     - img  : assets/img/speakers/NathanSeidle2.jpg
       label: "Nathan Seidle"
       title: "Founder of SparkFun"
@@ -113,16 +109,16 @@ en:
               <br><br>
               Link--<a href='https://www.sparkfun.com/' rel='noopener' target='_blank'>SparkFun</a>
               </p>"
-    - img  : assets/img/speakers/AlysiaGarmulewicz.jpg
-      label: "Alysia Garmulewicz"
-      title: "Founder and director of Materiom"
-      desc : "<p>
-              Alysia Garmulewicz is founder and director of <a href='https://materiom.org/' rel='noopener' target='_blank'>Materiom</a>, an open platform for biomaterial recipes. 
-              She is an Associate Professor of the circular economy at the Facultad de Administración y Economía, Universidad de Santiago de Chile. 
-              She is also an Associate Fellow at the CABDyN Complexity Centre, Saïd Business School, at the University of Oxford. 
-              Alysia researches digital fabrication and the circular economy, with a particular focus on biomaterials, open data and local material markets. 
-              Alysia has a Doctorate from the Saïd Business School, University of Oxford.
-              </p>"
+    #- img  : assets/img/speakers/AlysiaGarmulewicz.jpg
+    #  label: "Alysia Garmulewicz"
+    #  title: "Founder and director of Materiom"
+    #  desc : "<p>
+    #          Alysia Garmulewicz is founder and director of <a href='https://materiom.org/' rel='noopener' target='_blank'>Materiom</a>, an open platform for biomaterial recipes. 
+    #          She is an Associate Professor of the circular economy at the Facultad de Administración y Economía, Universidad de Santiago de Chile. 
+    #          She is also an Associate Fellow at the CABDyN Complexity Centre, Saïd Business School, at the University of Oxford. 
+    #          Alysia researches digital fabrication and the circular economy, with a particular focus on biomaterials, open data and local material markets. 
+    #          Alysia has a Doctorate from the Saïd Business School, University of Oxford.
+    #          </p>"
     - img  : assets/img/speakers/BobMartin.jpg
       label: "Bob Martin"
       title: "“The Wizard of Make”, Senior Staff Engineer at Microchip"
@@ -148,12 +144,8 @@ fr:
   title     : CONFERENCIERS
   subtitle  : Rencontrez nos conférenciers
   img       : "assets/img/services/FabConference.png"
-  comingsoontext: "Les conférencières et conférenciers des événements FABx viennent des quatre coins du monde.
-                  <br><br>
-                  C’est à Montréal, et sur la plateforme de conférence en ligne, que vous les retrouverez en août 2021!
-                  <br><br>
-                  L’équipe se mobilise pour vous présenter bientôt les personnalités phares qui partageront leur expérience avec nous lors du FAB16 Montréal."
-  comingsoon: "Restez à l'affût !"
+  comingsoontext: ""
+  comingsoon: ""
   speaker:
     - img  : "assets/img/speakers/NeilGershenfeld-square-opt.jpg"
       label: "Neil Gershenfeld"
@@ -195,30 +187,30 @@ fr:
               Tomàs a été nommé par The Guardian et Nesta comme l'un des 10 meilleurs innovateurs sociaux numériques à surveiller en 2013, et a été récompensé par l'association catalane des TIC comme entrepreneur de l'année en 2014.
               Ses recherches portent sur l'utilisation des outils de fabrication numériques pour transformer la réalité et sur la manière dont l'utilisation des nouvelles technologies peut changer la façon dont les gens consomment, produisent et établissent des relations entre eux dans les villes.
             </p>"
-    - img  : "assets/img/speakers/JamesWarren.jpg"
-      label: "James Warren"
-      title: "Directeur du NIST Materials Genome Program"
-      desc : "<p>
-              Points forts actuels :
-              <br><br>
-              Depuis 2010, je concentre mes énergies sur l'initiative américaine sur le génome des matériaux, une initiative multi-agences conçue pour créer une nouvelle ère de programmes, de ressources et d'infrastructures qui soutiennent l’effort des institutions américaines pour découvrir, fabriquer et déployer des matériaux avancés deux fois plus rapidement à un coût très inférieur. 
-              Vous trouverez plus d'informations sur la page d'accueil de la <a href='https://www.mgi.gov/' rel='noopener' target='_blank'>MGI</a>.  
-              En tant que directeur du programme du génome des matériaux du National Institute of Standards and Technology (NIST), je travaille avec une équipe gouvernementale pour mettre en place l'infrastructure d'innovation des matériaux nécessaire pour atteindre les objectifs du programme. 
-              Le NIST, en particulier, a un rôle très primordial à jouer dans la réalisation de ces objectifs. Plus d'information sur l'effort du NIST en support au MGI, se trouve à la page d'accueil du <a href='https://www.nist.gov/mgi' rel='noopener' target='_blank'>MGI du NIST</a>.
-              <br><br>
-              Intérêts de recherche :
-              <br><br>
-              Mes recherches portent essentiellement sur le développement de modèles sur les phénomènes liés aux matériaux et sur les outils permettant d’intégrer la solution à ces modèles. 
-              Les domaines spécifiques comprennent la solidification, la formation de la structure, les structures du grain, le mouillage, la diffusion et l'étalement du métal.
-              <br><br>
-              Je suis employé au NIST depuis 1992, dans la division de la métallurgie et son successeur, la division de la science et de l'ingénierie des matériaux, au sein du laboratoire de mesure des matériaux. 
-              Je suis également l'un des co-fondateurs, et l'actuel directeur du <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>NIST Center for Theoretical and Computational Materials Science</a>.
-              <br><br>
-              Pour une discussion de la multitude de projets de modélisation des phases sur le terrain auxquels j'ai participé, ainsi que des travaux d'autres membres du <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>CTCMS</a> sur ce sujet intéressant. 
-              Une autre excellente ressource sur la modélisation des champs de phase se trouve sur la <a href='https://pages.nist.gov/pfhub' rel='noopener' target='_blank'>page des repères</a> de modélisation des champs de phase du NIST Center of Excellence, du <a href='https://chimad.northwestern.edu/' rel='noopener' target='_blank'>Center for Hierarchical Materials Design</a>.
-              <br><br>
-              LIEN : <a href='https://www.nist.gov/people/james-warren' rel='noopener' target='_blank'>https://www.nist.gov/people/james-warren</a>
-              </p>"
+    #- img  : "assets/img/speakers/JamesWarren.jpg"
+    #  label: "James Warren"
+    #  title: "Directeur du NIST Materials Genome Program"
+    #  desc : "<p>
+    #          Points forts actuels :
+    #          <br><br>
+    #          Depuis 2010, je concentre mes énergies sur l'initiative américaine sur le génome des matériaux, une initiative multi-agences conçue pour créer une nouvelle ère de programmes, de ressources et d'infrastructures qui soutiennent l’effort des institutions américaines pour découvrir, fabriquer et déployer des matériaux avancés deux fois plus rapidement à un coût très inférieur. 
+    #          Vous trouverez plus d'informations sur la page d'accueil de la <a href='https://www.mgi.gov/' rel='noopener' target='_blank'>MGI</a>.  
+    #          En tant que directeur du programme du génome des matériaux du National Institute of Standards and Technology (NIST), je travaille avec une équipe gouvernementale pour mettre en place l'infrastructure d'innovation des matériaux nécessaire pour atteindre les objectifs du programme. 
+    #          Le NIST, en particulier, a un rôle très primordial à jouer dans la réalisation de ces objectifs. Plus d'information sur l'effort du NIST en support au MGI, se trouve à la page d'accueil du <a href='https://www.nist.gov/mgi' rel='noopener' target='_blank'>MGI du NIST</a>.
+    #          <br><br>
+    #          Intérêts de recherche :
+    #          <br><br>
+    #          Mes recherches portent essentiellement sur le développement de modèles sur les phénomènes liés aux matériaux et sur les outils permettant d’intégrer la solution à ces modèles. 
+    #          Les domaines spécifiques comprennent la solidification, la formation de la structure, les structures du grain, le mouillage, la diffusion et l'étalement du métal.
+    #          <br><br>
+    #          Je suis employé au NIST depuis 1992, dans la division de la métallurgie et son successeur, la division de la science et de l'ingénierie des matériaux, au sein du laboratoire de mesure des matériaux. 
+    #          Je suis également l'un des co-fondateurs, et l'actuel directeur du <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>NIST Center for Theoretical and Computational Materials Science</a>.
+    #          <br><br>
+    #          Pour une discussion de la multitude de projets de modélisation des phases sur le terrain auxquels j'ai participé, ainsi que des travaux d'autres membres du <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>CTCMS</a> sur ce sujet intéressant. 
+    #          Une autre excellente ressource sur la modélisation des champs de phase se trouve sur la <a href='https://pages.nist.gov/pfhub' rel='noopener' target='_blank'>page des repères</a> de modélisation des champs de phase du NIST Center of Excellence, du <a href='https://chimad.northwestern.edu/' rel='noopener' target='_blank'>Center for Hierarchical Materials Design</a>.
+    #          <br><br>
+    #          LIEN : <a href='https://www.nist.gov/people/james-warren' rel='noopener' target='_blank'>https://www.nist.gov/people/james-warren</a>
+    #          </p>"
     - img  : "assets/img/speakers/LaraStein.jpg"
       label: "Lara Stein"
       title: "Co-fondatrice et directrice générale de BOMA"
@@ -233,18 +225,18 @@ fr:
               Mme Stein a également occupé des postes de direction chez Microsoft, <a href='https://www.marvel.com/' rel='noopener' target='_blank'>Marvel</a>, iXL et <a href='https://www.wgbh.org/' rel='noopener' target='_blank'>WGBH</a>.
               Elle siège actuellement au conseil d'administration d'<a href='https://www.equalitynow.org/' rel='noopener' target='_blank'>Equality Now</a>, une organisation à but non lucratif qui lutte pour des changements juridiques et systémiques et s'attaque à la violence et à la discrimination à l'encontre des femmes et des filles dans le monde entier, de <a href='https://www.lalela.org/' rel='noopener' target='_blank'>Lalela</a>, une organisation dédiée à l'éducation des jeunes par les arts et de la <a href='https://www.wearefamilyfoundation.org/' rel='noopener' target='_blank'>We Are Family Foundation</a>.
               </p>"
-    - img  : "assets/img/speakers/OlivierMenard.jpg"
-      label: "Olivier Menard"
-      title: "Fondateur du Grenoble Open Innovation Center Fab Lab"
-      desc : "<p>
-              Olivier Ménard est passionné par l'innovation ouverte et l'eXtreme Manufacturing. Il a fondé et déployé le Fab Lab <a href='http://www.y-spot.fr/' rel='noopener' target='_blank'>Y.SPOT</a> Grenoble <a href='https://www.fablabs.io/labs/fablaboic' rel='noopener' target='_blank'>Open Innovation Center Fab Lab</a> pour le CEA Tech Research Center, afin d'accélérer l'innovation technologique collaborative au sein d'une communauté de chercheurs, de partenaires industriels, de start-ups, de designers, d'étudiants et d'artistes. En 18 mois d'activité, le Fab Lab a connu une croissance exponentielle pour atteindre 3000 entrées et produire 7000 prototypes.
-               <br><br>
-              En tant que responsable de l'innovation du <a href='https://www.ideas-laboratory.com/' rel='noopener' target='_blank'>Ideas Laboratory®</a> pour des entreprises du Fortune 500 telles que Renault, Bouygues et STMicroelectronics, Olivier a déjà dirigé des entreprises en démarrage telles que Smart Shower Hydrao et a lancé la plateforme de prototypage Arduino <a href='http://www.theairboard.cc/' rel='noopener' target='_blank'>The AirBoard</a> à très faible consommation d'énergie qui a fourni 3 000 clients dans 50 pays du monde.
-               <br><br>
-              Olivier Ménard est titulaire d'une maîtrise en génie électrique de l'université de Houston, d'un master en électronique aérospatiale de Sup'aéro, d'un master en design industriel et en gestion de l'innovation du Strate Design School et est un facilitateur certifié en LEGO® Serious Play® et en résolution créative de problèmes.
-               <br><br>
-              Il se concentre sur la fabrication numérique interculturelle pour la transformation des entreprises, afin d'accélérer le prototypage et la mise à l'échelle des innovations disruptives dans les marchés émergents.
-              </p>"
+    #- img  : "assets/img/speakers/OlivierMenard.jpg"
+    #  label: "Olivier Menard"
+    #  title: "Fondateur du Grenoble Open Innovation Center Fab Lab"
+    #  desc : "<p>
+    #          Olivier Ménard est passionné par l'innovation ouverte et l'eXtreme Manufacturing. Il a fondé et déployé le Fab Lab <a href='http://www.y-spot.fr/' rel='noopener' target='_blank'>Y.SPOT</a> Grenoble <a href='https://www.fablabs.io/labs/fablaboic' rel='noopener' target='_blank'>Open Innovation Center Fab Lab</a> pour le CEA Tech Research Center, afin d'accélérer l'innovation technologique collaborative au sein d'une communauté de chercheurs, de partenaires industriels, de start-ups, de designers, d'étudiants et d'artistes. En 18 mois d'activité, le Fab Lab a connu une croissance exponentielle pour atteindre 3000 entrées et produire 7000 prototypes.
+    #           <br><br>
+    #          En tant que responsable de l'innovation du <a href='https://www.ideas-laboratory.com/' rel='noopener' target='_blank'>Ideas Laboratory®</a> pour des entreprises du Fortune 500 telles que Renault, Bouygues et STMicroelectronics, Olivier a déjà dirigé des entreprises en démarrage telles que Smart Shower Hydrao et a lancé la plateforme de prototypage Arduino <a href='http://www.theairboard.cc/' rel='noopener' target='_blank'>The AirBoard</a> à très faible consommation d'énergie qui a fourni 3 000 clients dans 50 pays du monde.
+    #           <br><br>
+    #          Olivier Ménard est titulaire d'une maîtrise en génie électrique de l'université de Houston, d'un master en électronique aérospatiale de Sup'aéro, d'un master en design industriel et en gestion de l'innovation du Strate Design School et est un facilitateur certifié en LEGO® Serious Play® et en résolution créative de problèmes.
+    #           <br><br>
+    #          Il se concentre sur la fabrication numérique interculturelle pour la transformation des entreprises, afin d'accélérer le prototypage et la mise à l'échelle des innovations disruptives dans les marchés émergents.
+    #          </p>"
     - img  : "assets/img/speakers/NathanSeidle2.jpg"
       label: "Nathan Seidle"
       title: "Fondateur de SparkFun"
@@ -258,16 +250,16 @@ fr:
               <br><br>
               Lien--<a href='https://www.sparkfun.com/' rel='noopener' target='_blank'>SparkFun</a>
               </p>"
-    - img  : assets/img/speakers/AlysiaGarmulewicz.jpg
-      label: "Alysia Garmulewicz"
-      title: "Fondatrice et directrice de Materiom"
-      desc : "<p>
-              Alysia Garmulewicz est la fondatrice et directrice de <a href='https://materiom.org/' rel='noopener' target='_blank'>Materiom</a>, une plateforme ouverte de recettes de biomatériaux. 
-              Elle est professeure associée d'économie circulaire à la Facultad de Administración y Economía, Universidad de Santiago du Chili. 
-              Elle est également Associate Fellow au CABDyN Complexity Centre, Saïd Business School, à l'Université d'Oxford. 
-              Alysia fait des recherches sur la fabrication numérique et l'économie circulaire, en se concentrant particulièrement sur les biomatériaux, les données ouvertes et les marchés locaux de matériaux.
-               Alysia est titulaire d'un doctorat de la Saïd Business School de l'Université d'Oxford.
-               </p>"
+    #- img  : assets/img/speakers/AlysiaGarmulewicz.jpg
+    #  label: "Alysia Garmulewicz"
+    #  title: "Fondatrice et directrice de Materiom"
+    #  desc : "<p>
+    #          Alysia Garmulewicz est la fondatrice et directrice de <a href='https://materiom.org/' rel='noopener' target='_blank'>Materiom</a>, une plateforme ouverte de recettes de biomatériaux. 
+    #          Elle est professeure associée d'économie circulaire à la Facultad de Administración y Economía, Universidad de Santiago du Chili. 
+    #          Elle est également Associate Fellow au CABDyN Complexity Centre, Saïd Business School, à l'Université d'Oxford. 
+    #          Alysia fait des recherches sur la fabrication numérique et l'économie circulaire, en se concentrant particulièrement sur les biomatériaux, les données ouvertes et les marchés locaux de matériaux.
+    #           Alysia est titulaire d'un doctorat de la Saïd Business School de l'Université d'Oxford.
+    #           </p>"
     - img  : assets/img/speakers/BobMartin.jpg
       label: "Bob Martin"
       title: "“The Wizard of Make”, ingénieur principal chez Microchip"

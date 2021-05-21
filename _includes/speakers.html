@@ -25,7 +25,7 @@
 <section class="no-padding" id="speakersgrid">
     <div class="container-fluid">
 {% endif %}
-        {% comment %}
+        
         <div class="row no-gutter resp-grid speakersgrid marg50top">
 
             
@@ -73,7 +73,7 @@
             
 
         </div>
-        {% endcomment %}
+        
 
         <div class="row no-gutter text-center pad10 ">
             <p class="text-faded colorwhite">
@@ -81,9 +81,11 @@
             </p>
         </div>
         
-        <div class="row no-gutter comingsoon text-center pad10 backwhite">
-            {{ site.data.speakers[page.lang].comingsoon}}
-        </div>
+        {% if site.data.speakers[page.lang].comingsoon != "" %}
+            <div class="row no-gutter comingsoon text-center pad10 backwhite">
+                {{ site.data.speakers[page.lang].comingsoon}}
+            </div>
+        {% endif %}
         
     </div>
 </section>
