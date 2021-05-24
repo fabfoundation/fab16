@@ -43,8 +43,8 @@ en:
       url: https://www.quebec.ca/
     #- img: assets/img/sponsors/logo-ofqj.png
     #  url: https://www.ofqj.org/
-    #- img: assets/img/sponsors/logo-lojiq.png
-    #  url: https://www.lojiq.org/
+    - img: assets/img/sponsors/logo-lojiq.png
+      url: https://www.lojiq.org/
 
 fr:
   thankstitle           : "Merci à tous nos partenaires"
@@ -90,5 +90,5 @@ fr:
       url: https://www.quebec.ca/
     #- img: assets/img/sponsors/logo-ofqj.png
     #  url: https://www.ofqj.org/
-    #- img: assets/img/sponsors/logo-lojiq.png
-    #  url: https://www.lojiq.org/
+    - img: assets/img/sponsors/logo-lojiq.png
+      url: https://www.lojiq.org/
