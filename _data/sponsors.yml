@@ -34,8 +34,8 @@ en:
   sponsors:
     - img: assets/img/sponsors/logo_trotec2-opt.png
       url: https://www.troteclaser.com/en-ca/
-    - img: assets/img/sponsors/chevron-logo-horiz-opt.png
-      url: https://www.chevron.com/
+    #- img: assets/img/sponsors/chevron-logo-horiz-opt.png
+    #  url: https://www.chevron.com/
   government:
     - img: assets/img/sponsors/MTL.png
       url: https://montreal.ca/en/
@@ -81,8 +81,8 @@ fr:
   sponsors:
     - img: assets/img/sponsors/logo_trotec2-opt.png
       url: https://www.troteclaser.com/
-    - img: assets/img/sponsors/chevron-logo-horiz-opt.png
-      url: https://www.chevron.com/
+    #- img: assets/img/sponsors/chevron-logo-horiz-opt.png
+    #  url: https://www.chevron.com/
   government:
     - img: assets/img/sponsors/MTL.png
       url: https://montreal.ca/

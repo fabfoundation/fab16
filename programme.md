@@ -55,10 +55,14 @@ programdesc2: "<br><br>
                 A short term intervention, three days, which will highlight local and international experiences and Fab City prototypes. It will include exhibits, tours of local Fab Labs and fabricating workshops.<br>
                 "
 program: ""
+img_programmation: "assets/img/programmation.jpg"
+pdf_programmation: "assets/downloads/FAB16_FABCITYSummit_PROGRAMMATION.pdf"
+pdf_programmation_text: "Download PDF"
+afterimg: "You will be able to follow the full schedule details, links, tutors, registration and much more, by registering on our online platform here : "
+afterimglink: "<a href='https://live.fablabs.io/' target='_blank'>live.fablabs.io</a>"
+
 
 ---
-
-
 <section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
     <div class="container-fluid">
         <div class="row">
@@ -70,24 +74,38 @@ program: ""
             </div>
         </div>
     </div>
+</section>
+
+<section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
+
     <div class="container-fluid">
-        <div class="col-lg-6 col-md-6">
-            <div class="col-lg-12 col-md-12">
-                <p class="{{ color_class }}">{{page.programdesc}}</p>
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-6">
-            <div class="col-lg-12 col-md-12">
-                <p class="{{ color_class }}">{{page.programdesc2}}</p>
-            </div>
-        </div>
         <div class="row">
+            
             <div class="col-lg-12 col-md-12">
+
+                <img src="{{ page.img_programmation | relative_url}}" class="img-responsive" style="margin:auto;" alt="{{ page.title}}">
+            
+            </div>
+            <div class="col-lg-12 col-md-12">
+                
+                <p class="{{ color_class }} text-center">
+                    <br>
+                    <a href="{{ site.url }}/{{page.pdf_programmation}}" target="_blank" download="FAB16_FABCITYSummit_PROGRAMMATION">{{page.pdf_programmation_text}}</a>
+                </p>
+
+            </div>
+            
+            <div class="col-lg-12 col-md-12">
+
+                <br><br>
+                <p class="{{ color_class }} text-center">{{page.afterimg}}</p>
+
                 <div class="row no-gutter comingsoon text-center pad25 backwhite">
-                        Stay tuned for August 2021 
+                    {{page.afterimglink}}
                 </div>
-                <p class="{{ color_class }} text-center">{{page.program}}</p>
             </div>
         </div>
     </div>
+
 </section>
+
