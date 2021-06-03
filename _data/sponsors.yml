@@ -30,6 +30,8 @@ en:
       url: https://www.mcgill.ca/engine/
     - img: assets/img/sponsors/MCGILL-BIOMECHANICS.png
       url: https://www.mcgill.ca/mbr/
+    - img: assets/img/sponsors/Procedurable_logo-opt.png
+      url: https://procedurable.com/
 
   sponsors:
     - img: assets/img/sponsors/logo_trotec2-opt.png
@@ -78,6 +80,8 @@ fr:
       url: https://www.mcgill.ca/engine/
     - img: assets/img/sponsors/MCGILL-BIOMECHANICS.png
       url: https://www.mcgill.ca/mbr/
+    - img: assets/img/sponsors/Procedurable_logo-opt.png
+      url: https://procedurable.com/
   sponsors:
     - img: assets/img/sponsors/logo_trotec2-opt.png
       url: https://www.troteclaser.com/
