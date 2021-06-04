@@ -22,10 +22,10 @@ en:
       url: https://fablabbcn.org/
     - img: assets/img/sponsors/logo_TourismeMontreal-opt.png
       url: https://www.mtl.org/en
-    - img: assets/img/sponsors/logo_The-Cube-Logo-Red-opt.png
-      url: http://uprint3d.xyz/
-    - img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
-      url: https://thefactory.mcgilleus.ca/
+    #- img: assets/img/sponsors/logo_The-Cube-Logo-Red-opt.png
+    #  url: http://uprint3d.xyz/
+    #- img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
+    #  url: https://thefactory.mcgilleus.ca/
     - img: assets/img/sponsors/logo_McGillEngine-opt.png
       url: https://www.mcgill.ca/engine/
     - img: assets/img/sponsors/MCGILL-BIOMECHANICS.png
@@ -72,10 +72,10 @@ fr:
       url: https://fablabbcn.org/
     - img: assets/img/sponsors/logo_TourismeMontreal-opt.png
       url: https://www.mtl.org/
-    - img: assets/img/sponsors/logo_The-Cube-Logo-Red-opt.png
-      url: http://uprint3d.xyz/
-    - img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
-      url: https://thefactory.mcgilleus.ca/
+    #- img: assets/img/sponsors/logo_The-Cube-Logo-Red-opt.png
+    #  url: http://uprint3d.xyz/
+    #- img: assets/img/sponsors/logo_TheFactory_McGill-opt.png
+    #  url: https://thefactory.mcgilleus.ca/
     - img: assets/img/sponsors/logo_McGillEngine-opt.png
       url: https://www.mcgill.ca/engine/
     - img: assets/img/sponsors/MCGILL-BIOMECHANICS.png
