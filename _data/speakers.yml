@@ -138,6 +138,18 @@ en:
               <br><br>
               Paul has been a fellow with the National Council of Arts Administrators and has served on the boards of the National Council on Education for the Ceramic Arts (NCECA) and the Craft Emergency Relief Fund (CERF+). His work as an artist has been included in exhibitions at the Philadelphia Museum of Art, the Denver Art Museum and the Houston Center for Contemporary Craft among others.
                </p>"
+    - img  : assets/img/speakers/CelineAuclair.jpg
+      label: "Dr. Céline Auclair"
+      title: "Co-founder and Executive Director of the First Peoples Innovation Centre"
+      desc : "<p>
+              Dr. Céline Auclair is co-founder and Executive Director of the <a href='https://cipp-fpic.com/en/home-2' rel='noopener' target='_blank'>First Peoples Innovation Centre</a>, an organization that supports social and technological innovation with and for First Nations, Inuit and Métis peoples. 
+              Dr. Auclair is also the Senior Manager of the Onaki FabLab, the very first Aboriginal Fab Lab in Canada. 
+              Since the creation of this Fab Lab in 2018, the CIPP has set up a nomadic Fab Lab that conducts 6-week stays in Aboriginal communities, an Atikamekw Fab Lab that trains youth from Atikamekw territories, a women's Fab Lab that specifically targets Aboriginal women in Quebec, and soon an Aboriginal FabLab in Ontario and another in New Brunswick.
+              <br><br>
+              Dr. Auclair holds a PhD in International Relations from the Institut des Hautes Études Internationales in Geneva and a Master's degree in Regional Development from Laval University in Quebec City. 
+              Since 2006, Dr. Auclair has been a Commissioner with the First Nations Tax Commission of Canada.
+              </p>"
+    
   
 
 fr:
@@ -280,3 +292,15 @@ fr:
               Paul a été membre du National Council of Arts Administrators et a siégé aux conseils d'administration du National Council on Education for the Ceramic Arts (NCECA) et au Craft Emergency Relief Fund (CERF+).
               Son travail d'artiste a fait l'objet d'expositions, entre autres, au Philadelphia Museum of Art, au Denver Art Museum et au Houston Center for Contemporary Craft.
                </p>"
+    - img  : assets/img/speakers/CelineAuclair.jpg
+      label: "Dr. Céline Auclair"
+      title: "Co-fondatrice et directrice générale du Centre d’Innovation des Premiers Peuples"
+      desc : "<p>
+              Dr. Céline Auclair est co-fondatrice et directrice générale du <a href='https://cipp-fpic.com/' rel='noopener' target='_blank'>Centre d’Innovation des Premiers Peuples</a>, un organisme qui appuie l’innovation sociale et technologique avec et pour les Premières Nations, les Inuit et les Métis. 
+              Dr. Auclair est également gestionnaire principale du FabLab Onaki, le tout premier Fab Lab autochtone au Canada. 
+              Depuis la création de ce Fab Lab en 2018, le CIPP a mis sur pied un Fab Lab nomade qui effectue des séjours de 6 semaines dans les communautés autochtones, un Fab Lab atikamekw qui forme les jeunes provenant des territoires atikamekw, un Fab Lab féminin qui s’adresse spécifiquement aux femmes autochtones du Québec et bientôt un FabLab autochtone en Ontario et un autre au Nouveau-Brunswick.
+              <br><br>
+              Dr. Auclair détient un doctorat en Relations Internationales de l’Institut des Hautes Études Internationales de Genève et une maîtrise en développement régional de l’Université Laval de Québec. 
+              Depuis 2006, Dr. Auclair est commissaire au sein de la Commission de la Fiscalité des Premières Nations du Canada.
+              </p>"
+
