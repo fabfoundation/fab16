@@ -11,7 +11,7 @@ programimg: ""
 title_text: "Programme"
 subtitle_text: ""
 color_class: "colorblue"
-img: "assets/img/McGill-opt-alt1.jpg"
+img: "assets/img/FabTrends.jpg"
 programheader: "<strong style='font-size:22px;'>Be part of the largest conference on digital fabrication in the world.</strong>
                  <br><br>
                  Join us in Montréal, Canada, and online, for the annual meeting of the international Fab Labs network, a hybrid and distributed event!

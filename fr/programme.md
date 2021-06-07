@@ -8,7 +8,7 @@ permalink: /fr/programme/
 title_text: "Programme"
 subtitle_text: ""
 color_class: "colorblue"
-img: "assets/img/McGill-opt-alt1.jpg"
+img: "assets/img/FabTrends.jpg"
 
 programheader: "<strong style='font-size:22px;'>Participez à la plus grande conférence sur la fabrication numérique au monde.</strong>
             <br><br>
