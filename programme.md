@@ -16,7 +16,7 @@ programheader: "<strong style='font-size:22px;'>Be part of the largest conferenc
                  <br><br>
                  Join us in Montréal, Canada, and online, for the annual meeting of the international Fab Labs network, a hybrid and distributed event!
                 <br><br>
-                Join world-class panelists, members of the Fab Lab community, makers from all over the world and professionals from all kinds of fields in the 16th annual Fab Lab Conference and the Fab Festival in Montréal, Canada, in August 2021<span class='line hidden'>from August 9 to August 15</span>, combined with the Fab City Summit<span class='line hidden'>, from August 13 to August 15</span>. Attend world-class panels, demos, workshops, discussions and lab presentations from representatives from all over the globe!
+                Join world-class panelists, members of the Fab Lab community, makers from all over the world and professionals from all kinds of fields in the annual Fab Lab Conference and the Fab Festival in Montréal, Canada, in August 2021<span class='line hidden'>from August 9 to August 15</span>, combined with the Fab City Summit<span class='line hidden'>, from August 13 to August 15</span>. Attend world-class panels, demos, workshops, discussions and lab presentations from representatives from all over the globe!
                 <br><br>"
 programdesc: "<br><br>
                 <strong style='' class='travelmenu'>Fab Lab Conference <span class='line hidden'>from 9 to 12 August</span></strong>
