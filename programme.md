@@ -1,14 +1,14 @@
 ---
 layout: page-fullwidth
-title: Programme
+title: Program
 lang: en
-permalink: /programme/
+permalink: /program/
 
-programtitle: Programme
+programtitle: Program
 programsubtitle: ""
 programimg: ""
 
-title_text: "Programme"
+title_text: "Program"
 subtitle_text: ""
 color_class: "colorblue"
 img: "assets/img/FabTrends.jpg"
