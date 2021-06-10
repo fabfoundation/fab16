@@ -2,7 +2,7 @@ en:
   title   : "Participate"
   img     : "assets/img/applications.png"
   subtitle: "How to participate"
-  text    : "FAB16 integrates the knowledge acquired throughout the year from over 2000 Fab Labs around the world. As we gather together at the conference, everyone is encouraged to participate in various activities: leading or engaging in a workshop or working group, submitting a research paper, or being a volunteer, to name a few. Visit the tabs below to participate!"
+  text    : "FAB16 will integrate all the knowledge gained during the year by more than 2000 Fab Labs around the world. At this conference, everyone is invited to participate in various activities: proposing, leading or getting involved in a workshop or working group, submitting research publications, becoming a volunteer, just to name a few. Visit the tabs below to get involved!"
 
   application:
     #- item      : "item1"
@@ -19,15 +19,15 @@ en:
     - item      : "item2"
       menu      : "Workshops"
       title     : "Participate with your workshops"
-      text      : "Whether you are new to FABx Events, or have been to many, workshops are a great way to share your knowledge with the Fab Labs Network. 
-                  Workshops are either theoretical or hands-on, and have a wide range of topics, from biomaterials to hacking a machine to Sustainable Development Goals. 
-                  Leaders of the workshops are community members who come in with previous experience from their local community's projects, workshops and ideas. 
-                  They can be new or active members of the Fab Lab Network!  
+      text      : "Whether you're new to a FABx conference or have attended many, workshops are a great way to share your knowledge with the Fab Lab network. 
+                  Workshops are either theoretical or hands-on, and cover a wide range of topics, from biomaterials to hacking a machine to Sustainable Development Goals. 
+                  Workshop facilitators are community members who come with prior experience in their local community projects, workshops, and ideas. 
+                  They can be new or active members of the Fab Lab network!  
                   <br><br>
                   Use the link below to propose a workshop! 
                   <br><br>
-                  <em>** Keep in mind that your workshop should be no more than 2 hours. 
-                  The majority of people will be joining online, and given the circumstances around Covid-19, not everyone will have access to tools you would find in a Fab Lab unless they can purchase them ahead of time. 
+                  <em>** Keep in mind that your workshop should be no longer than 2 hours. 
+                  Most people will join online and, given the circumstances surrounding Covid-19, not everyone will have access to the tools found in a Fab Lab unless they can purchase them in advance. 
                   So we need to be creative!</em>"
       buttontext: "Participate"
       buttonclass: ""
@@ -36,11 +36,11 @@ en:
 
     - item      : "item3"
       menu      : "Research papers"
-      title     : "Submit your Paper "
-      text      : "The FAB16 research papers stream invites original scholarly writing from researchers studying the Fab Lab movement, its ambitions and its impact from a wide range of disciplines, including computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
-                  Submit your paper here :
+      title     : "Submit your scientific paper "
+      text      : "The research paper stream of FAB16 invites authors of original research articles studying the Fab Lab movement, its ambitions and impacts across a broad spectrum of disciplines, including computer science, engineering, science and technology fields, management and business, education, urban planning, media and design, and more. 
+                  Use the link below to submit a publication:
                   <br><br>
-                  <em>Abstract Registration Deadline: May 31, 2021</em>"
+                  <em>Abstract Submission Deadline: May 31, 2021</em>"
       buttontext: "Participate"
       buttonclass: ""
       modal     : ""
@@ -49,13 +49,13 @@ en:
     - item      : "item4"
       menu      : "FAB World and More"
       title     : "Participate with FAB World, Fabercise, Fab Cinema and more!"
-      text      : "We want to hear about what FAB projects you and your community are developing! 
-                  This is an opportunity during FAB16 to present a 3 minute talk to the Fab community about projects, initiatives, teams, and developments happening in your Fab Lab and Fab community. 
-                  This year, in addition to Fab World, we are also encouraging the Fab Lab Network to submit other creative pre-recorded content, such as Fabercise, Fab Cinema, Fab Discovery and/or Fab Podcast! 
-                  Teach the Network something new! 
-                  You will find a description of each in the application form.
+      text      : "We want to know what projects you and your community are developing! 
+                  This is your opportunity during FAB16 to give a 3-minute presentation to the community about projects, initiatives, your teams, and developments that are happening in your Fab Lab and community. 
+                  This year, in addition to Fab World, we are also encouraging the Fab Lab network to submit other pre-recorded creative content, such as to run a Fabercise, propose a Fab Cinema, a &ldquo; Fab Discovery &rdquo; and/or a Podcast! 
+                  Teach the network something new! 
+                  You can find a description of each of these in the application form.
                   <br><br>
-                  Keep in mind that this year's theme is &ldquo;Fabricating the Commons,&rdquo; looking at how we can produce and share knowledge and tools based on peer production to create a sustainable future for everyone.
+                  Keep in mind that this year's theme is &ldquo;Fabricating the Commons,&rdquo; and it's about how we can produce and share knowledge and tools based on peer production to create a sustainable future for all.
                   <br><br>
                   Want to share your initiatives? Use the link below to submit your proposals! "
       buttontext: "Participate"
@@ -65,12 +65,12 @@ en:
 
     - item      : "item5"
       menu      : "Fab Festival"
-      title     : "Participate with a Fab Festival Workshop"
-      text      : "The Fab Festival is an all-Saturday event open to the public.<br>
-                  Free workshops where children, young and old will have the opportunity to have their first experiences with digital manufacturing methodologies.<br>
-                  An event you certainly won't want to miss!
+      title     : "Organize a workshop at the Fab Festival"
+      text      : "The Fab Festival is a one-day event on Saturday, open to the public.
+                  Free workshops where children, young and old will have the opportunity to have their first experience with digital fabrication methodologies.
+                  An event that you certainly can't miss!
                   <br><br>
-                  If you'd like to facilitate a workshop during the Fab Festival, please email <a href='mailto:fab16@fabfoundation.org' class='btn' style='float:unset;'>fab16@fabfoundation.org</a>"
+                  If you want to lead a workshop during the Fab Festival, write to us at  <a href='mailto:fab16@fabfoundation.org' class='btn' style='float:unset;'>fab16@fabfoundation.org</a>"
       buttontext: ""
       buttonclass: ""
       modal     : ""
@@ -78,23 +78,23 @@ en:
 
     - item      : "item6"
       menu      : "Become a volunteer"
-      title     : "Become a volunteer is ..."
+      title     : "Becoming a volunteer means ..."
       text      : "<ul class='colorwhite'>
                     <li>Being in contact with people from different cultures</li>
                     <li>Supporting participants during the conference by facilitating their experience</li>
-                    <li>Creating links with other volunteers and actors in the movement.</li>
+                    <li>Creating links with other volunteers and actors of the movement.</li>
                   </ul>
                   <p class='colorwhite'>
-                  Given the circumstances of COVID-19, we do not know yet whether we will be able to host international participants in person in Montréal. 
+                  Given the circumstances of COVID-19, we do not yet know whether we will be able to host international participants in person in Montréal. 
                   <b>Our current volunteer application form is only for people who currently live in Canada and plan to attend FAB16 in person.</b>
                   <br><br>
                   In the coming months, we will be reaching out to the Fab Lab Network about volunteering for the international ONLINE event. 
                   <br><br>
-                  This is an opportunity for you to be a part of the biggest Digital Fabrication event in the world!
+                  This is an opportunity for you to be a part of the largest digital fabrication event in the world!
                   <br><br>
                   Use the link below to submit your interest! 
                   <br><br>
-                  <em>**You have to be authorized by the Canadian government to work legally as a volunteer in Montréal.</em>
+                  <em>**You have to be authorized by the Canadian government to legally work as a volunteer in Montréal.</em>
                   </p>"
       buttontext: "Participate"
       buttonclass: ""
@@ -103,12 +103,12 @@ en:
     
     - item      : "item7"
       menu      : "Become a sponsor"
-      title     : "Become a sponsor is …"
+      title     : "Becoming a sponsor is …"
       text      : "<ul class='colorwhite'>
-                    <li>An opportunity to be thought leader in disruptive technology fields such as 3D Printing, CAD design, robotics, laser machining and more!</li>
-                    <li>Create a collaborative spirit among fabricators worldwide to move complex projects forward.</li>
-                    <li>Connect with leaders who are using digital fabrication as a means to breakthroughs in diverse fields.</li>
-                    <li>Make your brand or products and services known to a creative audience who utilize a wide variety of hardware and software.</li>
+                    <li>An opportunity to be a leader in disruptive technologies like 3D Printing, CAD design, robotics, laser machining and more!</li>
+                    <li>Create a spirit of collaboration between makers from around the world to advance complex projects.</li>
+                    <li>Connect with leaders who are using digital fabrication as a way to make breakthroughs in various fields.</li>
+                    <li>Bring your brand or products and services to a creative audience that uses a wide variety of hardware and software.</li>
                   </ul>
                   <p class='colorwhite'>
                   Contact us to find out how you can take part in this extraordinary event and secure your participation, at <a href='mailto:fab16@communautique.quebec' class='btn' style='float:unset;'>fab16@communautique.quebec</a> 
@@ -157,7 +157,7 @@ fr:
       link      : "https://forms.gle/yHsZeu3WEP1f5dBv8"
     
     - item      : item3
-      menu      : "Papiers de recherche"
+      menu      : "Publications scientifiques"
       title     : "Soumettez votre publication scientifique"
       text      : "Le volet du FAB16 concernant les papiers de recherche invite les auteurs d’articles de recherche originaux étudiant le mouvement Fab Lab, ses ambitions et ses impacts au travers d’un large spectre de disciplines, incluant les sciences informatiques, l’ingénierie, les domaines scientifiques et technologiques, la gestion et les affaires, l’éducation, l’urbanisme, les médias et le design, et bien d’autres encore.
                   Utilisez le lien ci-dessous pour soumettre une publication:
