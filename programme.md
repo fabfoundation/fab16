@@ -14,9 +14,9 @@ color_class: "colorblue"
 img: "assets/img/FabTrends.jpg"
 programheader: "<strong style='font-size:22px;'>Attend the world's largest digital fabrication conference.</strong>
                  <br><br>
-                 Join us in Montreal, Canada, and online for the annual meeting of the international Fab Lab network, a hybrid and distributed event!
+                 Join us in Montréal, Canada, and online for the annual meeting of the international Fab Lab network, a hybrid and distributed event!
                 <br><br>
-                Join world-class panelists, Fab Lab community members, makers from around the world, and professionals at the annual Fab Labs conference and Fab Festival in Montreal, Canada in August 2021, combined with the Fab City Summit. Attend world-class panels, demonstrations, workshops, discussions and lab presentations by representatives from around the globe!
+                Join world-class panelists, Fab Lab community members, makers from around the world, and professionals at the annual Fab Labs conference and Fab Festival in Montréal, Canada in August 2021, combined with the Fab City Summit. Attend world-class panels, demonstrations, workshops, discussions and lab presentations by representatives from around the globe!
                 <br><br>"
 programdesc: "<br><br>
                 <strong style='' class='travelmenu'>Fab Lab Conference <span class='line hidden'>from 9 to 12 August</span></strong>

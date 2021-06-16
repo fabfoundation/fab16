@@ -5,7 +5,9 @@ en:
   titletotal    : ""
   subtitletotal : "FAB16 is a hybrid and distributed event taking place August 9-15, 2021.
                   <br><br>
-                  Pre-register for the online event free of charge today and we'll let you know the terms and conditions in person shortly!
+                  Pre-register for the online event free of charge today !
+                  <br><br>
+                  FAB16 and Fab City Summit will be held on line and distributed, Fab City Campus and Fab Fest will be held for a local public at 50-150 rue de Louvain Ouest, Montréal, Québec, Canada.
                   <br><br>"
   subtitletotal2 : "<br><br>
                   <strong style='font-size:22px;'>COVID-19</strong>
@@ -60,22 +62,22 @@ en:
       buttonlink     : "#tickets"
       weezeventiframe: "https://widget.weezevent.com/ticket/E580533/?code=9118&locale=en-CA&width_auto=1&color_primary=00AEEF&widget_key=125b1f08-c36c-4df8-906e-8f89272720ea"
     
-    - price          : ""
-      currency       : ""
-      pass_fr        : ""
-      title          : "ON-SITE"
-      pass           : "PASS"
-      img            : "assets/img/tickets/ticket2.png"
-      sale           : ""
-      salecaption    : ""
-      item1          : " "
-      item2          : " "
-      item3          : " "
-      item4          : " "
-      buttontext     : "Coming soon"
-      buttonclass    : "disabled"
-      buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=4dec2a51-7859-441b-92a7-a2d9a8acea14"
+    #- price          : ""
+    #  currency       : ""
+    #  pass_fr        : ""
+    #  title          : "ON-SITE"
+    #  pass           : "PASS"
+    #  img            : "assets/img/tickets/ticket2.png"
+    #  sale           : ""
+    #  salecaption    : ""
+    #  item1          : " "
+    #  item2          : " "
+    #  item3          : " "
+    #  item4          : " "
+    #  buttontext     : "Coming soon"
+    #  buttonclass    : "disabled"
+    #  buttonlink     : "#tickets"
+    #  weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=47&code=11831&width_auto=1&color_primary=00AEEF&widget_key=4dec2a51-7859-441b-92a7-a2d9a8acea14"
     
     #- price          : "95"
     #  pass_fr        : ""
@@ -99,7 +101,9 @@ fr:
   titletotal    : ""
   subtitletotal : "FAB16 est un événement hybride et distribué qui se tiendra du 9 au 15 août 2021.
                   <br><br>
-                  Pré-enregistrez-vous gratuitement dès aujourd’hui pour l’événement en ligne et nous vous informerons des conditions de participation en personne sous peu!
+                  Pré-enregistrez-vous gratuitement dès aujourd’hui pour l’événement en ligne !
+                  <br><br>
+                  Le FAB16 et le Fab City Summit se tiendront en ligne et de façon distribuée, le Fab City Campus et le Fab Fest se tiendront pour un public local au 50-150 rue de Louvain Ouest, Montréal, Québec, Canada.
                   <br><br>"
   subtitletotal2: "<br><br>
                   <strong style='font-size:22px;'>COVID-19</strong>
@@ -153,22 +157,22 @@ fr:
       buttonlink     : "#tickets"
       weezeventiframe: "https://widget.weezevent.com/ticket/E580533/?code=9118&locale=fr-CA&width_auto=1&color_primary=00AEEF&widget_key=32cc787d-3ae1-41dc-a9bd-fb01f921d5ea"
 
-    - price          : ""
-      currency       : ""
-      pass_fr        : "BILLET"
-      title          : "PRESENTIEL"
-      pass           : ""
-      img            : "assets/img/tickets/ticket2.png"
-      sale           : ""
-      salecaption    : ""
-      item1          : " "
-      item2          : " "
-      item3          : " "
-      item4          : " "
-      buttontext     : "Bientôt disponible"
-      buttonclass    : "disabled"
-      buttonlink     : "#tickets"
-      weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=cd943ff7-8c62-4407-895c-6753ae1e72a9"
+    #- price          : ""
+    #  currency       : ""
+    #  pass_fr        : "BILLET"
+    #  title          : "PRESENTIEL"
+    #  pass           : ""
+    #  img            : "assets/img/tickets/ticket2.png"
+    #  sale           : ""
+    #  salecaption    : ""
+    #  item1          : " "
+    #  item2          : " "
+    #  item3          : " "
+    #  item4          : " "
+    #  buttontext     : "Bientôt disponible"
+    #  buttonclass    : "disabled"
+    #  buttonlink     : "#tickets"
+    #  weezeventiframe: "https://www.weezevent.com/widget_billeterie.php?id_evenement=597127&lg_billetterie=38&code=11831&width_auto=1&color_primary=00AEEF&widget_key=cd943ff7-8c62-4407-895c-6753ae1e72a9"
 
     #- price          : "95"
     #  pass_fr        : "PASSE"
