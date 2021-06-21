@@ -12,9 +12,9 @@ img: "assets/img/FabTrends.jpg"
 
 programheader: "<strong style='font-size:22px;'>Participez à la plus grande conférence sur la fabrication numérique au monde.</strong>
             <br><br>
-            Rejoignez-nous à Montréal, au Canada, et en ligne, pour la rencontre annuelle du réseau international des Fab Labs, un événement en mode hybride et distribué ! 
+            Rejoignez-nous en ligne du 9 au 15 août 2021 pour le FAB16 et le Fab City Summit, la réunion annuelle du réseau international Fab Lab, un événement hybride et distribué ! Rejoignez des panélistes de classe mondiale, des membres de la communauté des Fab Labs, des makers du monde entier et des professionnels de différents domaines. Assistez à des panels de classe mondiale, des démonstrations, des ateliers, des discussions et des présentations de Lab par des représentants du monde entier ! 
             <br><br>
-            Rejoignez les panélistes de classe mondiale, les membres de la communauté des Fab Labs, les fabricants du monde entier et les professionnels de tous les domaines à la conférence annuelle des Fab Labs et au Fab Festival de Montréal, au Canada, en août 2021, combiné avec le Fab City Summit. Assistez à des panels de classe mondiale, démonstrations, ateliers, discussions et présentations de laboratoires par des représentants en provenance de tous les coins du globe !
+            Lundi, mardi et jeudi, nous aurons des sessions plénières suivies d'ateliers, d'occasions de rencontrer nos commanditaires et la remise des diplômes Academany (Fab Academy et Fabricademy). Mercredi, nous aurons une journée complète de retransmission télévisée des Labs du monde entier, qui mettront en valeur leurs créateurs, animeront des panels locaux, et bien plus encore. Le Fab City Summit se déroulera par la suite du vendredi au dimanche, avec le lancement du Fab City Campus à Montréal qui se déroulera les 13 et 14 août, et accueillera le Fab Fest le 14 août.
             <br><br>
                 "
 programdesc: "<br><br>
@@ -56,9 +56,44 @@ program: ""
 img_programmation: "assets/img/programmation.jpg"
 pdf_programmation: "assets/downloads/FAB16_FABCITYSummit_PROGRAMMATION.pdf"
 pdf_programmation_text: "Télécharger en PDF"
-afterimg: "Vous pourrez suivre les détails de l'horaire complet, les liens, les tuteurs, les inscriptions et bien plus encore, en vous inscrivant sur notre plateforme en ligne ici : "
+afterimg: "Vous pourrez suivre les détails de l'horaire complet, les liens, les instructeurs, les inscriptions et plus encore, en vous inscrivant sur notre plateforme en ligne ici :"
 afterimglink: "<a href='https://live.fablabs.io/' target='_blank'>live.fablabs.io</a>"
+afterimgcol1: "<br>
+            Cette année, nous espérons encourager davantage d'engagement local pendant le FAB16 avec les FAB16 Hubs ! Vous trouverez ci-dessous une liste des Hubs FAB16 participants. Si une programmation locale est prévue dans l'un des Hubs et qu'il nous en est fait part, vous la trouverez en cliquant sur le nom du Hub. Nous demandons à tout le monde de privilégier la sécurité et de respecter les restrictions COVID-19 en vigueur dans leur région.
+            <br><br>
+            Si vous souhaitez ajouter un Hub, veuillez remplir ce formulaire : <a href='https://forms.gle/1EL7J7vTh3VFDgeUA' target='_blank'>https://forms.gle/1EL7J7vTh3VFDgeUA</a>.
+            <br><br>
+            Pour toute question, écrivez à <a href='mailto:fab16@fabfoundation.org' target='_blank'>fab16@fabfoundation.org</a>
+            "
+afterimgcol2: "<br>
+            <strong>Hub distribué (coordonner la participation de votre région aux ateliers locaux et/ou mondiaux, aidez à coordonner le matériel pour les ateliers, proposez des ateliers pratiques et/ou théoriques diffusés mondialement, et/ou participez à la journée FABTV)</strong>
+            <br><br>
+            North American Digital Fabrication Alliance, États-Unis<br>
+            CREFAB, Espagne<br>
+            FabAcademy, Europe centrale<br>
+            Fab Labs Québec, Canada<br>
+            Fabricademy, Paros, Grèce<br>
+            Kenya Makerspaces Network, Kenya<br>
+            Insper FabLab, Brésil<br>
+            <br><br>
+            <strong>Hub de graduation (Nodes Academany qui veulent accueillir un rassemblement de graduation localement)</strong>
+            <br><br>
+            FabAcademy, Europe centrale<br>
+            <br><br>
+            <strong>Hub local (Engagez les participants de votre région dans la conférence, et coordonnez et produisez du contenu pour les ateliers locaux, dans votre langue et à votre rythme)</strong>
+            <br><br>
+            Fab Lab Suomi, Finlande <br>
+            Rede Fab Lab Brasil, Brésil<br>
+            Red Chilena de Fabricación Digital, Chili<br>
+            Kerala, Inde<br>
+            <br><br>
+            <strong>Partenaire communautaire (aide à la communication en ligne et à la diffusion de l'information)</strong>
+            <br><br>
+            CST, Buthan<br>
+            Fab Lab Yucatan, Mexique<br>
+            Arctic Circle Fab Lab, Sisimiut, Groenland<br>
 
+"
 
 ---
 <section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
@@ -102,6 +137,14 @@ afterimglink: "<a href='https://live.fablabs.io/' target='_blank'>live.fablabs.i
                     {{page.afterimglink}}
                 </div>
             </div>
+
+            <div class="col-lg-6">
+                <p class="{{ color_class }}">{{page.afterimgcol1}}</p>
+            </div>
+            <div class="col-lg-6">
+                <p class="{{ color_class }}">{{page.afterimgcol2}}</p>
+            </div>
+
         </div>
     </div>
 
