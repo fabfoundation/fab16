@@ -37,7 +37,7 @@ img: ""
 </p>
 
 <p class="{{ color_class }}">
-	<strong>TELECHARGER KIT DE PRESSE (Bientôt disponible)</strong>
+	<strong><a href="{{ site.url }}/assets/downloads/MediaKit - FAB 16.zip" download >TELECHARGER KIT DE PRESSE </a></strong>
 	<br><br>
 </p>
 

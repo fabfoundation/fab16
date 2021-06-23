@@ -5,7 +5,7 @@ en:
   comingsoontext: ""
   comingsoon: ""
   speaker:
-    - img  : assets/img/speakers/NeilGershenfeld-square-opt.jpg
+    - img  : "assets/img/speakers/NeilGershenfeld-square-opt.jpg"
       label: "Neil Gershenfeld"
       title: "Director of MIT's Center for Bits and Atoms"
       desc : "<p>
@@ -19,7 +19,7 @@ en:
               He's been called the intellectual father of the maker movement, founding a growing global network of over one thousand <a href='http://fab.cba.mit.edu/about/faq/''>fab labs</a> that provide widespread access to prototype tools for personal fabrication, directing the <a href='http://fabacademy.org/' rel='noopener' target='_blank'>Fab Academy</a> for distributed research and education in the principles and practices of digital fabrication, and chairing the <a href='http://fabfoundation.org/' rel='noopener' target='_blank'>Fab Foundation</a>.
               Dr. Gershenfeld has a BA in Physics with High Honors from Swarthmore College, a Ph.D. in Applied Physics from Cornell University, honorary doctorates from Swarthmore College, Strathclyde University and the University of Antwerp, was a Junior Fellow of the Harvard University Society of Fellows, and a member of the research staff at Bell Labs.
             </p>"
-    - img  : assets/img/speakers/SherryLassiter-opt.jpg
+    - img  : "assets/img/speakers/SherryLassiter-opt.jpg"
       label: "Sherry Lassiter"
       title: "President & CEO, The Fab Foundation"
       desc : "<p>
@@ -32,7 +32,7 @@ en:
               <br><br>As Program Manager for the NSF-funded Center for Bits & Atoms at MIT, she has seen and enabled the personal fabrication movement as it has grown and evolved. Today she serves as Director of the global Fab Lab Program at MIT as well as leading The Fab Foundation, the non-profit spinoff from MIT.
               Lassiter is currently engaged in the deployment and growth of <a href='http://fabfoundation.org' rel='noopener' target='_blank'>Fab Labs</a> around the world, enabling grassroots technology development by, for and of the community.
             </p>"
-    - img  : assets/img/speakers/TomasDiez.jpg
+    - img  : "assets/img/speakers/TomasDiez.jpg"
       label: "Tomás Díez"
       title: "Fab Cities, Iaac Barcelona"
       desc : "<p>
@@ -46,31 +46,7 @@ en:
               Tomás has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch in 2013, and has been awarded by the Catalan ICT association as the entrepreneur of the year in 2014.
               His research interests relate to the use of digital fabrication tools to transform the reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
             </p>"
-    #- img  : assets/img/speakers/JamesWarren.jpg
-    #  label: "James Warren"
-    #  title: "Director of the NIST Materials Genome Program"
-    #  desc : "<p>
-    #          Current Foci:
-    #          <br><br>
-    #          Since 2010,  I have been focusing my energies on the US Materials Genome Initiative, a multi-agency initiative designed to create a new era of policy, resources, and infrastructure that support U.S. institutions in the effort to discover, manufacture, and deploy advanced materials twice as fast, at a fraction of the cost. 
-    #          More information about the MGI can be found at the <a href='https://www.mgi.gov/' rel='noopener' target='_blank'>MGI home page</a>.  
-    #          In my role as Director of the National Institute of Standards and Technology (NIST) Materials Genome Program, I am working with a government-wide team to build out the materials innovation infrastructure needed to realize the goals of the initiative.  
-    #          NIST, in particular, has an outsize role to play in achieving those goals.  
-    #          More information about the NIST effort in support of the MGI can be found at the <a href='https://www.nist.gov/mgi' rel='noopener' target='_blank'>NIST MGI home page</a>.
-    #          <br><br>
-    #          Research Interests:
-    #          <br><br>
-    #          My research is broadly concerned with developing both models of materials phenomena, and the tools to enable the solution of these models. 
-    #          Specific foci include solidification, pattern formation, grain structures, wetting, diffusion, and spreading in metals.
-    #          I have been employed at NIST since 1992,  in the Metallurgy Division and its successor the Materials Science and Engineering Division, within the Material Measurement Laboratory. 
-    #          I am also one of the co-founders, and the current Director, of the <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>NIST Center for Theoretical and Computational Materials Science</a>.
-    #          <br><br>
-    #          For a discussion of the the multitude of phase field modeling projects I have been involved in, as well as work by others in the <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>CTCMS</a> on this interesting topic. 
-    #          Another great resource on Phase Field Modeling can be found on the NIST Center of Excellence, the <a href='https://chimad.northwestern.edu/' rel='noopener' target='_blank'>Center for Hierarchical Materials Design</a>, phase field modeling <a href='https://pages.nist.gov/pfhub' rel='noopener' target='_blank'>benchmarks page</a>.
-    #          <br><br>
-    #          LINK: <a href='https://www.nist.gov/people/james-warren' rel='noopener' target='_blank'>https://www.nist.gov/people/james-warren</a>
-    #        </p>"
-    - img  : assets/img/speakers/LaraStein.jpg
+    - img  : "assets/img/speakers/LaraStein.jpg"
       label: "Lara Stein"
       title: "Co-Founder and CEO of BOMA"
       desc : "<p>
@@ -84,19 +60,7 @@ en:
                <br><br>
                Stein has also held leadership roles at Microsoft, <a href='https://www.marvel.com/' rel='noopener' target='_blank'>Marvel</a>, iXL, and <a href='https://www.wgbh.org/' rel='noopener' target='_blank'>WGBH</a>. She currently sits on the board of <a href='https://www.equalitynow.org/' rel='noopener' target='_blank'>Equality Now</a>, a non-profit that fights for legal and systemic change and addresses violence and discrimination against women and girls around the world, <a href='https://www.lalela.org/' rel='noopener' target='_blank'>Lalela</a>, an organization dedicated to the education of youth through the arts and <a href='https://www.wearefamilyfoundation.org/' rel='noopener' target='_blank'>We Are Family Foundation</a>.
               </p>"
-    #- img  : assets/img/speakers/OlivierMenard.jpg
-    #  label: "Olivier Menard"
-    #  title: "Grenoble Open Innovation Center Fab Lab Founder"
-    #  desc : "<p>
-    #          Olivier Ménard is passionate about Open Innovation and eXtreme Manufacturing. He has founded and deployed the <a href='http://www.y-spot.fr/' rel='noopener' target='_blank'>Y.SPOT</a> Grenoble <a href='https://www.fablabs.io/labs/fablaboic' rel='noopener' target='_blank'>Open Innovation Center Fab Lab</a> for CEA Tech Research Center, in order to accelerate technological collaborative innovation within a community of researchers, industrial partners, startups, designers, students and artists. In 18 months of operation, the Fab Lab has grown exponentially to 3,000 entries and produced 7,000 prototypes.
-    #           <br><br>
-    #          As <a href='https://www.ideas-laboratory.com/' rel='noopener' target='_blank'>Ideas Laboratory®</a> Innovation leader for Fortune 500 companies such as Renault, Bouygues and STMicroelectronics, Olivier has previously curated startup companies such as Smart Shower Hydrao and kickstarted <a href='http://www.theairboard.cc/' rel='noopener' target='_blank'>The AirBoard</a> ultra low power Arduino prototyping platform which delivered 3,000 customers in 50 countries worldwide.
-    #           <br><br>
-    #          Olivier Ménard has a Master of Electrical Engineering from the University of Houston, a Master of Aerospace Electronics from Sup'aéro, a Master of Industrial Design and Innovation Management from Strate Design School and is a certified facilitator in LEGO® Serious Play® and Creative Problem Solving.
-    #          <br><br>
-    #          His focus is on cross-cultural digital fabrication for corporate transformation, to accelerate prototyping and scaling disruptive innovation in emerging markets.
-    #          </p>"
-    - img  : assets/img/speakers/NathanSeidle2.jpg
+    - img  : "assets/img/speakers/NathanSeidle2.jpg"
       label: "Nathan Seidle"
       title: "Founder of SparkFun"
       desc : "<p>
@@ -109,36 +73,27 @@ en:
               <br><br>
               Link--<a href='https://www.sparkfun.com/' rel='noopener' target='_blank'>SparkFun</a>
               </p>"
-    #- img  : assets/img/speakers/AlysiaGarmulewicz.jpg
-    #  label: "Alysia Garmulewicz"
-    #  title: "Founder and director of Materiom"
-    #  desc : "<p>
-    #          Alysia Garmulewicz is founder and director of <a href='https://materiom.org/' rel='noopener' target='_blank'>Materiom</a>, an open platform for biomaterial recipes. 
-    #          She is an Associate Professor of the circular economy at the Facultad de Administración y Economía, Universidad de Santiago de Chile. 
-    #          She is also an Associate Fellow at the CABDyN Complexity Centre, Saïd Business School, at the University of Oxford. 
-    #          Alysia researches digital fabrication and the circular economy, with a particular focus on biomaterials, open data and local material markets. 
-    #          Alysia has a Doctorate from the Saïd Business School, University of Oxford.
-    #          </p>"
-    - img  : assets/img/speakers/BobMartin.jpg
+    - img  : "assets/img/speakers/BobMartin.jpg"
       label: "Bob Martin"
-      title: "“The Wizard of Make”, Senior Staff Engineer at Microchip"
+      title: "Senior Staff Engineer / Wizard of Make"
       desc : "<p>
-              An avid Maker before it was a common term, Bob Martin has been disassembling things to see how they work and trying to improve the designs for his entire life. After obtaining a Degree in Electrical Engineering from the University of Saskatchewan in Canada, his early career spanned everything from installing specialized instruments into Arctic weather stations, designing industrial control systems and supporting high altitude balloon research projects for Environment Canada and NASA.
+              An avid Maker before it was a wide spread term, Bob Martin has been tearing apart things to see how they work for his entire life. After obtaining a B.S.E.E. from the University of Saskatchewan,his early career spanned everything from installing specialized instruments into Arctic weather stations,designing industrial control systems and supporting upper atmospheric research campaigns. 
               <br><br>
-              With 30+ years of embedded system design experience (hardware and software) he now serves as the “Wizard of Make” for <a href='http://www.microchip.com' rel='noopener' target='_blank'>Microchip</a> in which he keeps the Maker spirit alive within Microchip. He educates aspiring Makers and continues to help them create, experiment and develop.
+              He moved to the Bay Area 20 years ago and has continued to concentrate on embedded systems design since. After a decade at National Semiconductor which also exposed the wonderful world of analog he ended up in a few startups before landing at the Arduino prime enabler of Atmel where he managed a microcontroller applications team. It was here that he became deeply involved with the Arduino / Makermovement supporting both the 8 and 32 bits based platforms.
+              <br><br>
+              With 30 years of embedded system experience he now serves as the “Wizard of Make” for <a href='http://www.microchip.com' rel='noopener' target='_blank'>Microchip</a>. Continuing his role from Atmel in which he keeps the Maker spirit alive within Microchip, educates aspiring Makers and continues to create, experiment and explore as much as he can. He lives in Sunnyvale CA with his wife, twin daughters and a cat with no teeth. Along with a garage full of surplus wire and boxes of “vintage electronics” that really need to be recycled.
              <br><br>
-              He lives in Sunnyvale CA with his wife, twin daughters, a cat with no teeth, and a garage full of surplus wire and “vintage electronics” that really should be recycled.
               </p>"
-    - img  : assets/img/speakers/PaulSacaridiz.jpg
+    - img  : "assets/img/speakers/PaulSacaridiz.jpg"
       label: "Paul Sacaridiz"
-      title: "Executive Director of the Haystack Mountain School of Crafts"
+      title: "Executive Director of Haystack Mountain School of Crafts"
       desc : "<p>
-              Paul Sacaridiz is the Executive Director of the <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> in Deer Isle, Maine. 
-              He has nearly twenty years of experience in higher education, and prior to leading Haystack served as Professor and Chair of the Department of Art at the University of Wisconsin-Madison.
+              Paul Sacaridiz is the Executive Director of <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> on Deer Isle, Maine. 
+              From 2007-2015 he served as Professor and Chair of the Department of Art at the University of Wisconsin-Madison, and has extensive experience in higher education, administration and leadership in not-for-profit arts organizations. Sacaridiz has been named a fellow with the National Council of Arts Administrators and currently serves on the board of the Craft Emergency Relief Fund (CERF+).
               <br><br>
-              Paul has been a fellow with the National Council of Arts Administrators and has served on the boards of the National Council on Education for the Ceramic Arts (NCECA) and the Craft Emergency Relief Fund (CERF+). His work as an artist has been included in exhibitions at the Philadelphia Museum of Art, the Denver Art Museum and the Houston Center for Contemporary Craft among others.
-               </p>"
-    - img  : assets/img/speakers/CelineAuclair.jpg
+              As a sculptor his work has been included in exhibitions at the Philadelphia Museum of Art, the Denver Art Museum and the Houston Center for Contemporary Craft among others. He has been the recipient of numerous artist residencies including the Ragdale Foundation, the Vermont Studio Center, the Watershed Center for the Ceramic Arts and the Arts/Industry Program at Kohler Company.
+              </p>"
+    - img  : "assets/img/speakers/CelineAuclair.jpg"
       label: "Dr. Céline Auclair"
       title: "Co-founder and Executive Director of the First Peoples Innovation Centre"
       desc : "<p>
@@ -148,6 +103,62 @@ en:
               <br><br>
               Dr. Auclair holds a PhD in International Relations from the Institut des Hautes Études Internationales in Geneva and a Master's degree in Regional Development from Laval University in Quebec City. 
               Since 2006, Dr. Auclair has been a Commissioner with the First Nations Tax Commission of Canada.
+              </p>"
+    - img  : "assets/img/speakers/Andrea_Dezso.jpg"
+      label: "Andrea Dezsö"
+      title: "Visual artist"
+      desc : "<p>
+              Andrea Dezsö is a visual artist who works across a broad range of media including drawing, painting, artist's books, embroidery, cut paper, animation, sculpture, site-specific installation and public art. Dezsö's permanent public art has been installed in three New York City subway stations, at the United States Embassy in Bucharest, Romania and at CUNY BMCC Fiterman Hall in Lower Manhattan. Community Garden, Dezsö's mosaic in the New York City subway was recognized as Best American Public Art in 2007 by Americans for the Arts.
+              <br><br>
+              Dezsö exhibits in museums and galleries around the world.
+              </p>"
+    - img  : "assets/img/speakers/Ann_Merchant.jpg"
+      label: "Ann Merchant"
+      title: "Deputy Executive Director for Communications at the National Academies of Sciences, Engineering, and Medicine"
+      desc : "<p>
+              Ann Merchant is the Deputy Executive Director for Communications at the National Academies of Sciences, Engineering, and Medicine in Washington, DC, where she leads the institution’s portfolio of creative engagement activities, focusing on innovative outreach programs that contribute to an increased public understanding of science. 
+              In this capacity, she serves as the Director of <a href='https://labx.org/about/staff/' rel='noopener' target='_blank'>LabX</a>
+              Her three decades at the Academies add up to a career characterized by unconventional challenges in service to the institution’s mission-driven goals and objectives. 
+              <br><br>
+              With a special interest in promoting science, engineering, and medicine through non-traditional channels, she was instrumental in launching and now overseeing The Science & Entertainment Exchange, a program of the National Academy of Sciences (NAS) that seeks to connect entertainment industry professionals with top scientists and engineers.
+              More recently, she led the NAS initiative called <a href='https://thesciencebehindit.org/' rel='noopener' target='_blank'>The Science Behind It</a>, a creative campaign consisting of video and web assets aimed at millennial audiences around a variety of science topics. 
+              <br><br>
+              She also has responsibility for the institution’s large-scale outreach events such as TED@NAS, the USA Science & Engineering Festival, and Family Science Day at the NAS. In the now-distant past, Merchant served as marketing director for the Academies’ publishing division where she and her staff promoted and marketed more than 175 new titles every year.
+              </p>"
+    - img  : "assets/img/speakers/James_Rutter.jpeg"
+      label: "James Rutter"
+      title: "Fab Lab Coordinator Haystack Mountain School of Crafts"
+      desc : "<p>
+              James Rutter is the Fab Lab Coordinator for the <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> in Deer Isle, Maine. 
+              He has over ten years of experience working with schools and community organizations on integrating digital fabrication into educational programs. 
+              Before joining Haystack last year, he was serving as a Graduate Research Assistant and completing his Ph.D. at the Lab School for Advanced Manufacturing at the University of Virginia (UVA). 
+              Here he developed educational programs and conducted several research studies integrating fab lab technologies into K-12 schools. 
+              His work at UVA has been supported by the National Science Foundation (NSF) and the US Department of Education, and he continues to serve as a research consultant with ongoing grant work.
+              </p>"
+    - img  : "assets/img/speakers/Vince_Kadlubek.jpeg"
+      label: "Vince Kadlubek"
+      title: "Founder of the art collective Meow Wolf"
+      desc : "<p>
+              Vince Kadlubek is a Founder of <a href='https://meowwolf.com/about' rel='noopener' target='_blank'>Meow Wolf</a> an art collective that has transformed into an award winning Art and Entertainment Production Company that specializes in immersive, open-world walk through experiences. 
+              <br><br>
+              Vince acted as leader and CEO for Meow Wolf through its formidable years, having created the business plan for Meow Wolf’s House of Eternal Return and leading the team towards the project's completion in March of 2016. 
+              In January of 2017 Kadlubek formed Meow Wolf, Inc as a full fledged arts production company and creative studio positioned to create the largest, most innovative and audacious monumental art exhibits in the world. 
+              After raising series A funding he announced two new Meow Wolf exhibits in Las Vegas and Denver. 
+              <br><br>
+              Kadlubek has been a force of vision in the realm of experiential art, and in 2020 launched a creative consulting agency called <a href='https://activations.space/' rel='noopener' target='_blank'>Spatial Activations</a>as a platform to usher in a new era of experiential art in modern developments and everyday life. 
+              Vince is most passionate about co-creating fully-realized alternative realities that bring paradigm-shifting transformation and inspiration to the world.
+              </p>"
+    - img  : "assets/img/speakers/zach_fredin.jpg"
+      label: "Zach Fredin"
+      title: "Research Assistant at The Center for Bits and Atoms, MIT"
+      desc : "<p>
+              Zach Fredin is a Research Assistant at The Center for Bits and Atoms, MIT. Before MIT, he started a neuroscience education company, sold grain silo radar level instruments, planned maintenance for a 50,000 ton forging press, and grew enormous quartz crystals. 
+              He studied materials science and engineering at Case Western Reserve University, where he worked as a foundry assistant and rowed on the crew team.
+              <br><br>
+              At CBA, he studied digital materials, direct-write fabrication, laser micromachining, MAS NMR, reconfigurable computation, and superelastic flexures. 
+              During the spring of 2020, he also worked on a number of rapid COVID-19 response projects intended for distributed FabLab-based community fabrication.
+              <br><br>
+              Zach Fredin is originally from Columbus, OH, and most recently lived in Minneapolis, MN before moving with his wife to Cambridge, MA for grad school. 
               </p>"
     
   
@@ -199,30 +210,6 @@ fr:
               Tomás a été nommé par The Guardian et Nesta comme l'un des 10 meilleurs innovateurs sociaux numériques à surveiller en 2013, et a été récompensé par l'association catalane des TIC comme entrepreneur de l'année en 2014.
               Ses recherches portent sur l'utilisation des outils de fabrication numériques pour transformer la réalité et sur la manière dont l'utilisation des nouvelles technologies peut changer la façon dont les gens consomment, produisent et établissent des relations entre eux dans les villes.
             </p>"
-    #- img  : "assets/img/speakers/JamesWarren.jpg"
-    #  label: "James Warren"
-    #  title: "Directeur du NIST Materials Genome Program"
-    #  desc : "<p>
-    #          Points forts actuels :
-    #          <br><br>
-    #          Depuis 2010, je concentre mes énergies sur l'initiative américaine sur le génome des matériaux, une initiative multi-agences conçue pour créer une nouvelle ère de programmes, de ressources et d'infrastructures qui soutiennent l’effort des institutions américaines pour découvrir, fabriquer et déployer des matériaux avancés deux fois plus rapidement à un coût très inférieur. 
-    #          Vous trouverez plus d'informations sur la page d'accueil de la <a href='https://www.mgi.gov/' rel='noopener' target='_blank'>MGI</a>.  
-    #          En tant que directeur du programme du génome des matériaux du National Institute of Standards and Technology (NIST), je travaille avec une équipe gouvernementale pour mettre en place l'infrastructure d'innovation des matériaux nécessaire pour atteindre les objectifs du programme. 
-    #          Le NIST, en particulier, a un rôle très primordial à jouer dans la réalisation de ces objectifs. Plus d'information sur l'effort du NIST en support au MGI, se trouve à la page d'accueil du <a href='https://www.nist.gov/mgi' rel='noopener' target='_blank'>MGI du NIST</a>.
-    #          <br><br>
-    #          Intérêts de recherche :
-    #          <br><br>
-    #          Mes recherches portent essentiellement sur le développement de modèles sur les phénomènes liés aux matériaux et sur les outils permettant d’intégrer la solution à ces modèles. 
-    #          Les domaines spécifiques comprennent la solidification, la formation de la structure, les structures du grain, le mouillage, la diffusion et l'étalement du métal.
-    #          <br><br>
-    #          Je suis employé au NIST depuis 1992, dans la division de la métallurgie et son successeur, la division de la science et de l'ingénierie des matériaux, au sein du laboratoire de mesure des matériaux. 
-    #          Je suis également l'un des co-fondateurs, et l'actuel directeur du <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>NIST Center for Theoretical and Computational Materials Science</a>.
-    #          <br><br>
-    #          Pour une discussion de la multitude de projets de modélisation des phases sur le terrain auxquels j'ai participé, ainsi que des travaux d'autres membres du <a href='https://www.nist.gov/mml/ctcms/index' rel='noopener' target='_blank'>CTCMS</a> sur ce sujet intéressant. 
-    #          Une autre excellente ressource sur la modélisation des champs de phase se trouve sur la <a href='https://pages.nist.gov/pfhub' rel='noopener' target='_blank'>page des repères</a> de modélisation des champs de phase du NIST Center of Excellence, du <a href='https://chimad.northwestern.edu/' rel='noopener' target='_blank'>Center for Hierarchical Materials Design</a>.
-    #          <br><br>
-    #          LIEN : <a href='https://www.nist.gov/people/james-warren' rel='noopener' target='_blank'>https://www.nist.gov/people/james-warren</a>
-    #          </p>"
     - img  : "assets/img/speakers/LaraStein.jpg"
       label: "Lara Stein"
       title: "Co-fondatrice et directrice générale de BOMA"
@@ -237,18 +224,6 @@ fr:
               Mme Stein a également occupé des postes de direction chez Microsoft, <a href='https://www.marvel.com/' rel='noopener' target='_blank'>Marvel</a>, iXL et <a href='https://www.wgbh.org/' rel='noopener' target='_blank'>WGBH</a>.
               Elle siège actuellement au conseil d'administration d'<a href='https://www.equalitynow.org/' rel='noopener' target='_blank'>Equality Now</a>, une organisation à but non lucratif qui lutte pour des changements juridiques et systémiques et s'attaque à la violence et à la discrimination à l'encontre des femmes et des filles dans le monde entier, de <a href='https://www.lalela.org/' rel='noopener' target='_blank'>Lalela</a>, une organisation dédiée à l'éducation des jeunes par les arts et de la <a href='https://www.wearefamilyfoundation.org/' rel='noopener' target='_blank'>We Are Family Foundation</a>.
               </p>"
-    #- img  : "assets/img/speakers/OlivierMenard.jpg"
-    #  label: "Olivier Menard"
-    #  title: "Fondateur du Grenoble Open Innovation Center Fab Lab"
-    #  desc : "<p>
-    #          Olivier Ménard est passionné par l'innovation ouverte et l'eXtreme Manufacturing. Il a fondé et déployé le Fab Lab <a href='http://www.y-spot.fr/' rel='noopener' target='_blank'>Y.SPOT</a> Grenoble <a href='https://www.fablabs.io/labs/fablaboic' rel='noopener' target='_blank'>Open Innovation Center Fab Lab</a> pour le CEA Tech Research Center, afin d'accélérer l'innovation technologique collaborative au sein d'une communauté de chercheurs, de partenaires industriels, de start-ups, de designers, d'étudiants et d'artistes. En 18 mois d'activité, le Fab Lab a connu une croissance exponentielle pour atteindre 3000 entrées et produire 7000 prototypes.
-    #           <br><br>
-    #          En tant que responsable de l'innovation du <a href='https://www.ideas-laboratory.com/' rel='noopener' target='_blank'>Ideas Laboratory®</a> pour des entreprises du Fortune 500 telles que Renault, Bouygues et STMicroelectronics, Olivier a déjà dirigé des entreprises en démarrage telles que Smart Shower Hydrao et a lancé la plateforme de prototypage Arduino <a href='http://www.theairboard.cc/' rel='noopener' target='_blank'>The AirBoard</a> à très faible consommation d'énergie qui a fourni 3 000 clients dans 50 pays du monde.
-    #           <br><br>
-    #          Olivier Ménard est titulaire d'une maîtrise en génie électrique de l'université de Houston, d'un master en électronique aérospatiale de Sup'aéro, d'un master en design industriel et en gestion de l'innovation du Strate Design School et est un facilitateur certifié en LEGO® Serious Play® et en résolution créative de problèmes.
-    #           <br><br>
-    #          Il se concentre sur la fabrication numérique interculturelle pour la transformation des entreprises, afin d'accélérer le prototypage et la mise à l'échelle des innovations disruptives dans les marchés émergents.
-    #          </p>"
     - img  : "assets/img/speakers/NathanSeidle2.jpg"
       label: "Nathan Seidle"
       title: "Fondateur de SparkFun"
@@ -262,37 +237,27 @@ fr:
               <br><br>
               Lien--<a href='https://www.sparkfun.com/' rel='noopener' target='_blank'>SparkFun</a>
               </p>"
-    #- img  : assets/img/speakers/AlysiaGarmulewicz.jpg
-    #  label: "Alysia Garmulewicz"
-    #  title: "Fondatrice et directrice de Materiom"
-    #  desc : "<p>
-    #          Alysia Garmulewicz est la fondatrice et directrice de <a href='https://materiom.org/' rel='noopener' target='_blank'>Materiom</a>, une plateforme ouverte de recettes de biomatériaux. 
-    #          Elle est professeure associée d'économie circulaire à la Facultad de Administración y Economía, Universidad de Santiago du Chili. 
-    #          Elle est également Associate Fellow au CABDyN Complexity Centre, Saïd Business School, à l'Université d'Oxford. 
-    #          Alysia fait des recherches sur la fabrication numérique et l'économie circulaire, en se concentrant particulièrement sur les biomatériaux, les données ouvertes et les marchés locaux de matériaux.
-    #           Alysia est titulaire d'un doctorat de la Saïd Business School de l'Université d'Oxford.
-    #           </p>"
-    - img  : assets/img/speakers/BobMartin.jpg
+    - img  : "assets/img/speakers/BobMartin.jpg"
       label: "Bob Martin"
-      title: "“The Wizard of Make”, ingénieur principal chez Microchip"
+      title: "Ingénieur principal / magicien de la fabrication"
       desc : "<p>
-              Fervent Maker avant que ce terme ne devienne commun, Bob Martin a démonté des objets pour voir comment ils fonctionnaient et a essayé d'améliorer les designs toute sa vie. Après avoir obtenu un diplôme en génie électrique à l'Université de Saskatchewan au Canada, sa carrière a débuté par l'installation d'instruments spécialisés dans les stations météorologiques de l'Arctique, la conception de systèmes de contrôle industriels et le soutien de projets de recherche sur les ballons à haute altitude pour Environnement Canada et la NASA.
+              Maker passionné avant même que ce terme ne soit répandu, Bob Martin démonte depuis toujours des objets pour voir comment ils fonctionnent. Après avoir obtenu un B.S.E.E. (Bachelor of Science in Electrical Engineering)  de l'Université de Saskatchewan, il a commencé sa carrière en installant des instruments spécialisés dans les stations météorologiques de l'Arctique, en concevant des systèmes de contrôle industriels et en participant à des campagnes de recherche sur la haute atmosphère. 
               <br><br>
-              Avec plus de 30 ans d'expérience dans la conception de systèmes embarqués (matériel et logiciel), il est aujourd'hui le \"Wizard of Make\" pour <a href='http://www.microchip.com' rel='noopener' target='_blank'>Microchip</a>, dans lequel il soutient l'esprit du Maker bien vivant. Il forme les futurs Makers et continue à les aider à créer, expérimenter et développer. 
+              Il a déménagé dans la Bay Area il y a 20 ans et continue depuis à se concentrer sur la conception de systèmes embarqués. Après une décennie chez National Semiconductor, qui lui a fait découvrir le monde merveilleux de l'analogique, il a travaillé dans quelques start-ups avant d'atterrir chez Atmel, le principal catalyseur de l'Arduino, où il a dirigé une équipe chargée des applications des microcontrôleurs. C'est dans ce cadre qu'il s'est profondément impliqué dans le mouvement Arduino / Makermovement supportant les plateformes 8 et 32 bits.
+              <br><br>
+              Fort de ses 30 ans d'expérience dans le domaine des systèmes embarqués, il est aujourd'hui le \"magicien de la fabrication\" de <a href='http://www.microchip.com' rel='noopener' target='_blank'>Microchip</a>. Il poursuit son rôle au sein d'Atmel en maintenant l'esprit des Makers au sein de Microchip, en formant les futurs fabricants et en continuant à créer, à expérimenter et à explorer autant qu'il le peut. Il vit à Sunnyvale en Californie avec sa femme, ses deux filles jumelles et leur chat sans dents. Il a aussi un garage rempli de câbles électriques et de boîtes remplies d'appareils électroniques \"vintage\" qui ont vraiment besoin d'être recyclés.
              <br><br>
-             Il vit à Sunnyvale, en Californie, avec sa femme, ses filles jumelles, un chat sans dents et un garage rempli de surplus de fil et de \"matériel électronique vintage\" qui devrait vraiment être recyclé.
-              </p>"
-    - img  : assets/img/speakers/PaulSacaridiz.jpg
+             </p>"
+    - img  : "assets/img/speakers/PaulSacaridiz.jpg"
       label: "Paul Sacaridiz"
-      title: "Directeur du Haystack Mountain School of Crafts"
+      title: "Directeur exécutif de la Haystack Mountain School of Crafts"
       desc : "<p>
-              Paul Sacaridiz est le directeur exécutif du <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> à Deer Isle, dans le Maine.
-              Il a près de vingt ans d'expérience dans l'enseignement supérieur, et avant de diriger Haystack, il a été professeur et directeur du département d'art de l'Université du Wisconsin-Madison.
+              Paul Sacaridiz est le directeur exécutif de la <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> à Deer Isle, dans le Maine.
+              De 2007 à 2015, il a été professeur et président du département d'art de l'université du Wisconsin-Madison. Il possède une vaste expérience de l'enseignement supérieur, de l'administration et de la direction d'organisations artistiques à but non lucratif. M. Sacaridiz a été nommé membre du National Council of Arts Administrators et siège actuellement au conseil d'administration du Craft Emergency Relief Fund (CERF+).
               <br><br>
-              Paul a été membre du National Council of Arts Administrators et a siégé aux conseils d'administration du National Council on Education for the Ceramic Arts (NCECA) et au Craft Emergency Relief Fund (CERF+).
-              Son travail d'artiste a fait l'objet d'expositions, entre autres, au Philadelphia Museum of Art, au Denver Art Museum et au Houston Center for Contemporary Craft.
-               </p>"
-    - img  : assets/img/speakers/CelineAuclair.jpg
+              En tant que sculpteur, son travail a fait l'objet d'expositions au Philadelphia Museum of Art, au Denver Art Museum et au Houston Center for Contemporary Craft, entre autres. Il a bénéficié de nombreuses résidences d'artistes, notamment à la Ragdale Foundation, au Vermont Studio Center, au Watershed Center for the Ceramic Arts et au Arts/Industry Program de la Kohler Company.
+              </p>"
+    - img  : "assets/img/speakers/CelineAuclair.jpg"
       label: "Dr. Céline Auclair"
       title: "Co-fondatrice et directrice générale du Centre d’Innovation des Premiers Peuples"
       desc : "<p>
@@ -302,5 +267,62 @@ fr:
               <br><br>
               Dr. Auclair détient un doctorat en Relations Internationales de l’Institut des Hautes Études Internationales de Genève et une maîtrise en développement régional de l’Université Laval de Québec. 
               Depuis 2006, Dr. Auclair est commissaire au sein de la Commission de la Fiscalité des Premières Nations du Canada.
+              </p>"
+    - img  : "assets/img/speakers/Andrea_Dezso.jpg"
+      label: "Andrea Dezsö"
+      title: "Artiste visuel"
+      desc : "<p>
+              Andrea Dezsö est un artiste visuel qui travaille sur un large éventail de supports, dont le dessin, la peinture, les livres d'artiste, la broderie, le papier découpé, l'animation, la sculpture, les installations spécifiques et l'art public. Des œuvres d'art public permanentes de Dezsö ont été installées dans trois stations de métro de la ville de New York, à l'ambassade des États-Unis à Bucarest en Roumanie, et au Fiterman Hall du CUNY BMCC dans le sud de Manhattan. Community Garden, la mosaïque de Dezsö installée dans le métro de New York, a été reconnue comme Meilleur Art Public américain en 2007 par le collectif Americans for the Arts.
+              <br><br>
+              Dezsö expose dans des musées et des galeries du monde entier.
+              </p>"
+    - img  : "assets/img/speakers/Ann_Merchant.jpg"
+      label: "Ann Merchant"
+      title: "Directrice exécutive adjointe de la communication des Académies nationales des sciences, de l'ingénierie et de la médecine"
+      desc : "<p>
+              Ann Merchant est directrice exécutive adjointe de la communication des Académies nationales des sciences, de l'ingénierie et de la médecine à Washington, DC, où elle dirige le portefeuille d'activités d'engagement créatif de l'institution, en se concentrant sur des programmes de sensibilisation innovants qui contribuent à une meilleure compréhension de la science par le grand public. 
+              À ce titre, elle est directrice de <a href='https://labx.org/about/staff/' rel='noopener' target='_blank'>LabX</a>.
+              Ses trois décennies passées aux Académies constituent une carrière caractérisée par des défis non conventionnels au service des buts et objectifs de la mission de l'institution. 
+              <br><br>
+              S'intéressant tout particulièrement à la promotion des sciences, de l'ingénierie et de la médecine par des canaux non traditionnels, elle a joué un rôle déterminant dans le lancement et la supervision de The Science & Entertainment Exchange, un programme de la National Academy of Sciences (NAS) qui vise à mettre en relation des professionnels de l'industrie du divertissement avec des scientifiques et des ingénieurs de haut niveau.
+              Plus récemment, elle a dirigé l'initiative de la NAS intitulée \"<a href='https://thesciencebehindit.org/' rel='noopener' target='_blank'>The Science Behind It</a>\", une campagne créative composée de vidéos et d'outils Web destinés à un public de jeunes adultes et portant sur divers sujets scientifiques. 
+              <br><br>
+              Elle est également responsable des événements de sensibilisation à grande échelle de l'institution, tels que TED@NAS, le USA Science & Engineering Festival et le Family Science Day at the NAS. Dans un passé désormais lointain, Mme Merchant a été directrice du marketing pour la division des publications des Académies, où elle et son équipe ont assuré la promotion et la commercialisation de plus de 175 nouveaux titres chaque année.
+              </p>"
+    - img  : "assets/img/speakers/James_Rutter.jpeg"
+      label: "James Rutter"
+      title: "Coordonnateur du Fab Lab Haystack Mountain School of Crafts"
+      desc : "<p>
+              James Rutter est le coordinateur du Fab Lab du <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> à Deer Isle, dans le Maine. 
+              Il a plus de dix ans d'expérience de travail avec des écoles et des organisations communautaires sur l'intégration de la fabrication numérique dans les programmes éducatifs. 
+              Avant de rejoindre Haystack l'année dernière, il était assistant de recherche diplômé et terminait son doctorat au Lab School for Advanced Manufacturing de l'Université de Virginie (UVA). 
+              Il y a développé des programmes éducatifs et mené plusieurs recherches sur l'intégration des technologies de fabrication en laboratoire dans les écoles de la maternelle à la 12e année. 
+              Son travail à l'UVA a été soutenu par la National Science Foundation (NSF) et le ministère américain de l'Éducation, et il continue à travailler comme consultant en recherche avec des subventions en cours.
+              </p>"
+    - img  : "assets/img/speakers/Vince_Kadlubek.jpeg"
+      label: "Vince Kadlubek"
+      title: "Fondateur du collectif artistique Meow Wolf"
+      desc : "<p>
+              Vince Kadlubek est le cofondateur de <a href='https://meowwolf.com/about' rel='noopener' target='_blank'>Meow Wolf</a>, un collectif artistique qui s'est transformé en une société de production d'art et de divertissement primée, spécialisée dans les expériences immersives en monde libre. 
+              <br><br>
+              Vince a travaillé en tant que leader et PDG de Meow Wolf au cours de ses formidables années, après avoir créé le plan d’affaires de Meow Wolf's House of Eternal Return et dirigé l'équipe dans la réalisation du projet en mars 2016. 
+              En janvier 2017, Kadlubek a créé Meow Wolf, Inc, une société de production artistique à part entière et un studio de création positionné pour créer les expositions d'art monumentales les plus grandes, les plus innovantes et les plus audacieuses du monde. 
+              Après avoir levé des fonds de série A, il a annoncé deux nouvelles expositions de Meow Wolf à Las Vegas et à Denver. 
+              <br><br>
+              Kadlubek a été une force de vision dans le domaine de l'art expérientiel, et en 2020, il a lancé une agence de conseil en création appelée <a href='https://activations.space/' rel='noopener' target='_blank'>Spatial Activations</a> comme plateforme pour inaugurer une nouvelle ère d'art expérientiel dans les développements modernes et la vie quotidienne. 
+              Vince est passionné par la co-création de réalités alternatives entièrement réalisées qui apportent au monde une transformation et une inspiration qui bouleversent les paradigmes.
+              </p>"
+    - img  : "assets/img/speakers/zach_fredin.jpg"
+      label: "Zach Fredin"
+      title: "Assistant de recherche au Center for Bits and Atoms, MIT"
+      desc : "<p>
+              Zach Fredin est assistant de recherche au Center for Bits and Atoms au MIT. 
+              Avant le MIT, il a créé une entreprise d'enseignement des neurosciences, vendu des instruments de mesure du niveau radar de silos à grains, planifié la maintenance d'une presse à forger de 50 000 tonnes et fait pousser d'énormes cristaux de quartz. 
+              Il a étudié la science et l'ingénierie des matériaux à la Case Western Reserve University à Cleveland, où il a travaillé comme assistant de fonderie et fait partie de l'équipe d'aviron.
+              <br><br>
+              Au CBA, il a étudié les matériaux numériques, la fabrication par écriture directe, le micro-usinage au laser, la RMN MAS, le calcul reconfigurable et les flexions superélastiques. 
+              Au cours du printemps 2020, il a également travaillé sur un certain nombre de projets de réponse rapide COVID-19 destinés à la fabrication communautaire distribuée à partir du Fab Lab.
+              <br><br>
+              Zach Fredin est originaire de Columbus, OH, et a récemment vécu à Minneapolis, MN avant de déménager avec sa femme à Cambridge, MA pour l'école doctorale. 
               </p>"
 

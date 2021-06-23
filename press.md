@@ -36,6 +36,6 @@ Everything you need to know to cover FAB16 events and Fab City Summit as a membe
 </p>
 
 <p class="{{ color_class }}">
-	<strong>DOWNLOAD PRESS KIT (Coming soon)</strong>
+	<strong><a href="{{ site.url }}/assets/downloads/MediaKit - FAB 16.zip" download >DOWNLOAD PRESS KIT</a></strong>
 	<br><br>
 </p>
