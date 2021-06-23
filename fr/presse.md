@@ -37,11 +37,6 @@ img: ""
 </p>
 
 <p class="{{ color_class }}">
-	<strong>INVITATION ET ACCREDITATION (Bientôt disponible)</strong>
-	<br><br>
-</p>
-
-<p class="{{ color_class }}">
 	<strong>TELECHARGER KIT DE PRESSE (Bientôt disponible)</strong>
 	<br><br>
 </p>

@@ -36,11 +36,6 @@ Everything you need to know to cover FAB16 events and Fab City Summit as a membe
 </p>
 
 <p class="{{ color_class }}">
-	<strong>INVITATION & ACCREDITATION (Coming soon)</strong>
-	<br><br>
-</p>
-
-<p class="{{ color_class }}">
 	<strong>DOWNLOAD PRESS KIT (Coming soon)</strong>
 	<br><br>
 </p>
