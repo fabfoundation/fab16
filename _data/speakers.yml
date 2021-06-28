@@ -159,7 +159,17 @@ en:
               During the spring of 2020, he also worked on a number of rapid COVID-19 response projects intended for distributed FabLab-based community fabrication.
               <br><br>
               Zach Fredin is originally from Columbus, OH, and most recently lived in Minneapolis, MN before moving with his wife to Cambridge, MA for grad school. 
-              </p>"  
+              </p>"
+    - img  : "assets/img/speakers/CamronBlackburn.jpg"
+      label: "Camron Blackburn"
+      title: "Student, Center of Bits and Atoms"
+      desc : "<p>
+              Hi! I'm a first year masters student in the Center of Bits and Atoms. 
+              I live in nano/micro land at CBA, meaning my days revolve around using tools like our scanning electron microscope, femtosecond laser, and atomic force microscope to expand the limits of direct write assembly of digital materials. 
+              Before moving to Cambridge, I lived in new york city working as a data scientist / software engineer for <a href='https://www.veritone.com/' rel='noopener' target='_blank'>Veritone</a>, where I built hierarchical deep learning models for general AI tasks. 
+              And prior to that, I received a bachelors in Physics from NYU while building an optical <a href='https://physics.nyu.edu/grierlab/intermediate3c/' rel='noopener' target='_blank'>tractor beam</a> in Professor David Grier's soft matter <a href='https://physics.nyu.edu/grierlab/index.html' rel='noopener' target='_blank'>research group</a>. 
+              You can find more info about me on my <a href='https://camblackburn.pages.cba.mit.edu/home/makeadamnsitecam.com' rel='noopener' target='_blank'>personal site</a>.
+              </p>"
 
 fr:
   title     : CONFERENCIERS
@@ -323,3 +333,14 @@ fr:
               <br><br>
               Zach Fredin est originaire de Columbus, OH, et a récemment vécu à Minneapolis, MN avant de déménager avec sa femme à Cambridge, MA pour l'école doctorale. 
               </p>"
+    - img  : "assets/img/speakers/CamronBlackburn.jpg"
+      label: "Camron Blackburn"
+      title: "Étudiante, Center of Bits and Atoms"
+      desc : "<p>
+              Bonjour ! Je suis une étudiante en première année de maîtrise au Center of Bits and Atoms. 
+              Je vis au pays du nano/micro au CBA, ce qui signifie que mes journées tournent autour de l'utilisation d'outils tels que notre microscope électronique à balayage, notre laser femtoseconde et notre microscope à force atomique pour repousser les limites de l'assemblage en gravure directe de matériaux numériques. 
+              Avant de m'installer à Cambridge, j'ai vécu à New York, où j'ai travaillé en tant que scientifique des données et ingénieur logiciel pour <a href='https://www.veritone.com/' rel='noopener' target='_blank'>Veritone</a>, où j'ai construit des modèles d'apprentissage profond hiérarchisés pour des tâches d'IA générales. 
+              Avant cela, j'ai obtenu une licence en physique à l'université de New York en construisant un  <a href='https://physics.nyu.edu/grierlab/intermediate3c/' rel='noopener' target='_blank'>rayon optique tracteur</a> dans le  <a href='https://physics.nyu.edu/grierlab/index.html' rel='noopener' target='_blank'>groupe de recherche</a> sur la matière souple du professeur David Grier. 
+              Vous pouvez trouver plus d'informations sur moi sur mon <a href='https://camblackburn.pages.cba.mit.edu/home/makeadamnsitecam.com' rel='noopener' target='_blank'>site personel</a>.
+              </p>"
+
