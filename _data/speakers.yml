@@ -104,64 +104,62 @@ en:
               Dr. Auclair holds a PhD in International Relations from the Institut des Hautes Études Internationales in Geneva and a Master's degree in Regional Development from Laval University in Quebec City. 
               Since 2006, Dr. Auclair has been a Commissioner with the First Nations Tax Commission of Canada.
               </p>"
-    #- img  : "assets/img/speakers/Andrea_Dezso.jpg"
-    #  label: "Andrea Dezsö"
-    #  title: "Visual artist"
-    #  desc : "<p>
-    #          Andrea Dezsö is a visual artist who works across a broad range of media including drawing, painting, artist's books, embroidery, cut paper, animation, sculpture, site-specific installation and public art. Dezsö's permanent public art has been installed in three New York City subway stations, at the United States Embassy in Bucharest, Romania and at CUNY BMCC Fiterman Hall in Lower Manhattan. Community Garden, Dezsö's mosaic in the New York City subway was recognized as Best American Public Art in 2007 by Americans for the Arts.
-    #          <br><br>
-    #          Dezsö exhibits in museums and galleries around the world.
-    #          </p>"
-    #- img  : "assets/img/speakers/Ann_Merchant.jpg"
-    #  label: "Ann Merchant"
-    #  title: "Deputy Executive Director for Communications at the National Academies of Sciences, Engineering, and Medicine"
-    #  desc : "<p>
-    #          Ann Merchant is the Deputy Executive Director for Communications at the National Academies of Sciences, Engineering, and Medicine in Washington, DC, where she leads the institution’s portfolio of creative engagement activities, focusing on innovative outreach programs that contribute to an increased public understanding of science. 
-    #          In this capacity, she serves as the Director of <a href='https://labx.org/about/staff/' rel='noopener' target='_blank'>LabX</a>
-    #          Her three decades at the Academies add up to a career characterized by unconventional challenges in service to the institution’s mission-driven goals and objectives. 
-    #          <br><br>
-    #          With a special interest in promoting science, engineering, and medicine through non-traditional channels, she was instrumental in launching and now overseeing The Science & Entertainment Exchange, a program of the National Academy of Sciences (NAS) that seeks to connect entertainment industry professionals with top scientists and engineers.
-    #          More recently, she led the NAS initiative called <a href='https://thesciencebehindit.org/' rel='noopener' target='_blank'>The Science Behind It</a>, a creative campaign consisting of video and web assets aimed at millennial audiences around a variety of science topics. 
-    #          <br><br>
-    #          She also has responsibility for the institution’s large-scale outreach events such as TED@NAS, the USA Science & Engineering Festival, and Family Science Day at the NAS. In the now-distant past, Merchant served as marketing director for the Academies’ publishing division where she and her staff promoted and marketed more than 175 new titles every year.
-    #          </p>"
-    #- img  : "assets/img/speakers/James_Rutter.jpeg"
-    #  label: "James Rutter"
-    #  title: "Fab Lab Coordinator Haystack Mountain School of Crafts"
-    #  desc : "<p>
-    #          James Rutter is the Fab Lab Coordinator for the <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> in Deer Isle, Maine. 
-    #          He has over ten years of experience working with schools and community organizations on integrating digital fabrication into educational programs. 
-    #          Before joining Haystack last year, he was serving as a Graduate Research Assistant and completing his Ph.D. at the Lab School for Advanced Manufacturing at the University of Virginia (UVA). 
-    #          Here he developed educational programs and conducted several research studies integrating fab lab technologies into K-12 schools. 
-    #          His work at UVA has been supported by the National Science Foundation (NSF) and the US Department of Education, and he continues to serve as a research consultant with ongoing grant work.
-    #          </p>"
-    #- img  : "assets/img/speakers/Vince_Kadlubek.jpeg"
-    #  label: "Vince Kadlubek"
-    #  title: "Founder of the art collective Meow Wolf"
-    #  desc : "<p>
-    #          Vince Kadlubek is a Founder of <a href='https://meowwolf.com/about' rel='noopener' target='_blank'>Meow Wolf</a> an art collective that has transformed into an award winning Art and Entertainment Production Company that specializes in immersive, open-world walk through experiences. 
-    #          <br><br>
-    #          Vince acted as leader and CEO for Meow Wolf through its formidable years, having created the business plan for Meow Wolf’s House of Eternal Return and leading the team towards the project's completion in March of 2016. 
-    #          In January of 2017 Kadlubek formed Meow Wolf, Inc as a full fledged arts production company and creative studio positioned to create the largest, most innovative and audacious monumental art exhibits in the world. 
-    #          After raising series A funding he announced two new Meow Wolf exhibits in Las Vegas and Denver. 
-    #          <br><br>
-    #          Kadlubek has been a force of vision in the realm of experiential art, and in 2020 launched a creative consulting agency called <a href='https://activations.space/' rel='noopener' target='_blank'>Spatial Activations</a>as a platform to usher in a new era of experiential art in modern developments and everyday life. 
-    #          Vince is most passionate about co-creating fully-realized alternative realities that bring paradigm-shifting transformation and inspiration to the world.
-    #          </p>"
-    #- img  : "assets/img/speakers/zach_fredin.jpg"
-    #  label: "Zach Fredin"
-    #  title: "Research Assistant at The Center for Bits and Atoms, MIT"
-    #  desc : "<p>
-    #          Zach Fredin is a Research Assistant at The Center for Bits and Atoms, MIT. Before MIT, he started a neuroscience education company, sold grain silo radar level instruments, planned maintenance for a 50,000 ton forging press, and grew enormous quartz crystals. 
-    #          He studied materials science and engineering at Case Western Reserve University, where he worked as a foundry assistant and rowed on the crew team.
-    #          <br><br>
-    #          At CBA, he studied digital materials, direct-write fabrication, laser micromachining, MAS NMR, reconfigurable computation, and superelastic flexures. 
-    #          During the spring of 2020, he also worked on a number of rapid COVID-19 response projects intended for distributed FabLab-based community fabrication.
-    #          <br><br>
-    #          Zach Fredin is originally from Columbus, OH, and most recently lived in Minneapolis, MN before moving with his wife to Cambridge, MA for grad school. 
-    #          </p>"
-    
-  
+    - img  : "assets/img/speakers/AndreaDezso.jpg"
+      label: "Andrea Dezsö"
+      title: "Visual artist"
+      desc : "<p>
+              Andrea Dezsö is a visual artist who works across a broad range of media including drawing, painting, artist's books, embroidery, cut paper, animation, sculpture, site-specific installation and public art. Dezsö's permanent public art has been installed in three New York City subway stations, at the United States Embassy in Bucharest, Romania and at CUNY BMCC Fiterman Hall in Lower Manhattan. Community Garden, Dezsö's mosaic in the New York City subway was recognized as Best American Public Art in 2007 by Americans for the Arts.
+              <br><br>
+              Dezsö exhibits in museums and galleries around the world.
+              </p>"
+    - img  : "assets/img/speakers/Ann_Merchant.jpg"
+      label: "Ann Merchant"
+      title: "Deputy Executive Director for Communications at the National Academies of Sciences, Engineering, and Medicine"
+      desc : "<p>
+              Ann Merchant is the Deputy Executive Director for Communications at the National Academies of Sciences, Engineering, and Medicine in Washington, DC, where she leads the institution’s portfolio of creative engagement activities, focusing on innovative outreach programs that contribute to an increased public understanding of science. 
+              In this capacity, she serves as the Director of <a href='https://labx.org/about/staff/' rel='noopener' target='_blank'>LabX</a>
+              Her three decades at the Academies add up to a career characterized by unconventional challenges in service to the institution’s mission-driven goals and objectives. 
+              <br><br>
+              With a special interest in promoting science, engineering, and medicine through non-traditional channels, she was instrumental in launching and now overseeing The Science & Entertainment Exchange, a program of the National Academy of Sciences (NAS) that seeks to connect entertainment industry professionals with top scientists and engineers.
+              More recently, she led the NAS initiative called <a href='https://thesciencebehindit.org/' rel='noopener' target='_blank'>The Science Behind It</a>, a creative campaign consisting of video and web assets aimed at millennial audiences around a variety of science topics. 
+              <br><br>
+              She also has responsibility for the institution’s large-scale outreach events such as TED@NAS, the USA Science & Engineering Festival, and Family Science Day at the NAS. In the now-distant past, Merchant served as marketing director for the Academies’ publishing division where she and her staff promoted and marketed more than 175 new titles every year.
+              </p>"
+    - img  : "assets/img/speakers/James_Rutter.jpeg"
+      label: "James Rutter"
+      title: "Fab Lab Coordinator Haystack Mountain School of Crafts"
+      desc : "<p>
+              James Rutter is the Fab Lab Coordinator for the <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> in Deer Isle, Maine. 
+              He has over ten years of experience working with schools and community organizations on integrating digital fabrication into educational programs. 
+              Before joining Haystack last year, he was serving as a Graduate Research Assistant and completing his Ph.D. at the Lab School for Advanced Manufacturing at the University of Virginia (UVA). 
+              Here he developed educational programs and conducted several research studies integrating fab lab technologies into K-12 schools. 
+              His work at UVA has been supported by the National Science Foundation (NSF) and the US Department of Education, and he continues to serve as a research consultant with ongoing grant work.
+              </p>"
+    - img  : "assets/img/speakers/Vince_Kadlubek.jpeg"
+      label: "Vince Kadlubek"
+      title: "Founder of the art collective Meow Wolf"
+      desc : "<p>
+              Vince Kadlubek is a Founder of <a href='https://meowwolf.com/about' rel='noopener' target='_blank'>Meow Wolf</a> an art collective that has transformed into an award winning Art and Entertainment Production Company that specializes in immersive, open-world walk through experiences. 
+              <br><br>
+              Vince acted as leader and CEO for Meow Wolf through its formidable years, having created the business plan for Meow Wolf’s House of Eternal Return and leading the team towards the project's completion in March of 2016. 
+              In January of 2017 Kadlubek formed Meow Wolf, Inc as a full fledged arts production company and creative studio positioned to create the largest, most innovative and audacious monumental art exhibits in the world. 
+              After raising series A funding he announced two new Meow Wolf exhibits in Las Vegas and Denver. 
+              <br><br>
+              Kadlubek has been a force of vision in the realm of experiential art, and in 2020 launched a creative consulting agency called <a href='https://activations.space/' rel='noopener' target='_blank'>Spatial Activations</a>as a platform to usher in a new era of experiential art in modern developments and everyday life. 
+              Vince is most passionate about co-creating fully-realized alternative realities that bring paradigm-shifting transformation and inspiration to the world.
+              </p>"
+    - img  : "assets/img/speakers/zach_fredin.jpg"
+      label: "Zach Fredin"
+      title: "Research Assistant at The Center for Bits and Atoms, MIT"
+      desc : "<p>
+              Zach Fredin is a Research Assistant at The Center for Bits and Atoms, MIT. Before MIT, he started a neuroscience education company, sold grain silo radar level instruments, planned maintenance for a 50,000 ton forging press, and grew enormous quartz crystals. 
+              He studied materials science and engineering at Case Western Reserve University, where he worked as a foundry assistant and rowed on the crew team.
+              <br><br>
+              At CBA, he studied digital materials, direct-write fabrication, laser micromachining, MAS NMR, reconfigurable computation, and superelastic flexures. 
+              During the spring of 2020, he also worked on a number of rapid COVID-19 response projects intended for distributed FabLab-based community fabrication.
+              <br><br>
+              Zach Fredin is originally from Columbus, OH, and most recently lived in Minneapolis, MN before moving with his wife to Cambridge, MA for grad school. 
+              </p>"  
 
 fr:
   title     : CONFERENCIERS
@@ -268,61 +266,60 @@ fr:
               Dr. Auclair détient un doctorat en Relations Internationales de l’Institut des Hautes Études Internationales de Genève et une maîtrise en développement régional de l’Université Laval de Québec. 
               Depuis 2006, Dr. Auclair est commissaire au sein de la Commission de la Fiscalité des Premières Nations du Canada.
               </p>"
-    #- img  : "assets/img/speakers/Andrea_Dezso.jpg"
-    #  label: "Andrea Dezsö"
-    #  title: "Artiste visuel"
-    #  desc : "<p>
-    #          Andrea Dezsö est un artiste visuel qui travaille sur un large éventail de supports, dont le dessin, la peinture, les livres d'artiste, la broderie, le papier découpé, l'animation, la sculpture, les installations spécifiques et l'art public. Des œuvres d'art public permanentes de Dezsö ont été installées dans trois stations de métro de la ville de New York, à l'ambassade des États-Unis à Bucarest en Roumanie, et au Fiterman Hall du CUNY BMCC dans le sud de Manhattan. Community Garden, la mosaïque de Dezsö installée dans le métro de New York, a été reconnue comme Meilleur Art Public américain en 2007 par le collectif Americans for the Arts.
-    #          <br><br>
-    #          Dezsö expose dans des musées et des galeries du monde entier.
-    #          </p>"
-    #- img  : "assets/img/speakers/Ann_Merchant.jpg"
-    #  label: "Ann Merchant"
-    #  title: "Directrice exécutive adjointe de la communication des Académies nationales des sciences, de l'ingénierie et de la médecine"
-    #  desc : "<p>
-    #          Ann Merchant est directrice exécutive adjointe de la communication des Académies nationales des sciences, de l'ingénierie et de la médecine à Washington, DC, où elle dirige le portefeuille d'activités d'engagement créatif de l'institution, en se concentrant sur des programmes de sensibilisation innovants qui contribuent à une meilleure compréhension de la science par le grand public. 
-    #          À ce titre, elle est directrice de <a href='https://labx.org/about/staff/' rel='noopener' target='_blank'>LabX</a>.
-    #          Ses trois décennies passées aux Académies constituent une carrière caractérisée par des défis non conventionnels au service des buts et objectifs de la mission de l'institution. 
-    #          <br><br>
-    #          S'intéressant tout particulièrement à la promotion des sciences, de l'ingénierie et de la médecine par des canaux non traditionnels, elle a joué un rôle déterminant dans le lancement et la supervision de The Science & Entertainment Exchange, un programme de la National Academy of Sciences (NAS) qui vise à mettre en relation des professionnels de l'industrie du divertissement avec des scientifiques et des ingénieurs de haut niveau.
-    #          Plus récemment, elle a dirigé l'initiative de la NAS intitulée \"<a href='https://thesciencebehindit.org/' rel='noopener' target='_blank'>The Science Behind It</a>\", une campagne créative composée de vidéos et d'outils Web destinés à un public de jeunes adultes et portant sur divers sujets scientifiques. 
-    #          <br><br>
-    #          Elle est également responsable des événements de sensibilisation à grande échelle de l'institution, tels que TED@NAS, le USA Science & Engineering Festival et le Family Science Day at the NAS. Dans un passé désormais lointain, Mme Merchant a été directrice du marketing pour la division des publications des Académies, où elle et son équipe ont assuré la promotion et la commercialisation de plus de 175 nouveaux titres chaque année.
-    #          </p>"
-    #- img  : "assets/img/speakers/James_Rutter.jpeg"
-    #  label: "James Rutter"
-    #  title: "Coordonnateur du Fab Lab Haystack Mountain School of Crafts"
-    #  desc : "<p>
-    #          James Rutter est le coordinateur du Fab Lab du <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> à Deer Isle, dans le Maine. 
-    #          Il a plus de dix ans d'expérience de travail avec des écoles et des organisations communautaires sur l'intégration de la fabrication numérique dans les programmes éducatifs. 
-    #          Avant de rejoindre Haystack l'année dernière, il était assistant de recherche diplômé et terminait son doctorat au Lab School for Advanced Manufacturing de l'Université de Virginie (UVA). 
-    #          Il y a développé des programmes éducatifs et mené plusieurs recherches sur l'intégration des technologies de fabrication en laboratoire dans les écoles de la maternelle à la 12e année. 
-    #          Son travail à l'UVA a été soutenu par la National Science Foundation (NSF) et le ministère américain de l'Éducation, et il continue à travailler comme consultant en recherche avec des subventions en cours.
-    #          </p>"
-    #- img  : "assets/img/speakers/Vince_Kadlubek.jpeg"
-    #  label: "Vince Kadlubek"
-    #  title: "Fondateur du collectif artistique Meow Wolf"
-    #  desc : "<p>
-    #          Vince Kadlubek est le cofondateur de <a href='https://meowwolf.com/about' rel='noopener' target='_blank'>Meow Wolf</a>, un collectif artistique qui s'est transformé en une société de production d'art et de divertissement primée, spécialisée dans les expériences immersives en monde libre. 
-    #          <br><br>
-    #          Vince a travaillé en tant que leader et PDG de Meow Wolf au cours de ses formidables années, après avoir créé le plan d’affaires de Meow Wolf's House of Eternal Return et dirigé l'équipe dans la réalisation du projet en mars 2016. 
-    #          En janvier 2017, Kadlubek a créé Meow Wolf, Inc, une société de production artistique à part entière et un studio de création positionné pour créer les expositions d'art monumentales les plus grandes, les plus innovantes et les plus audacieuses du monde. 
-    #          Après avoir levé des fonds de série A, il a annoncé deux nouvelles expositions de Meow Wolf à Las Vegas et à Denver. 
-    #          <br><br>
-    #          Kadlubek a été une force de vision dans le domaine de l'art expérientiel, et en 2020, il a lancé une agence de conseil en création appelée <a href='https://activations.space/' rel='noopener' target='_blank'>Spatial Activations</a> comme plateforme pour inaugurer une nouvelle ère d'art expérientiel dans les développements modernes et la vie quotidienne. 
-    #          Vince est passionné par la co-création de réalités alternatives entièrement réalisées qui apportent au monde une transformation et une inspiration qui bouleversent les paradigmes.
-    #          </p>"
-    #- img  : "assets/img/speakers/zach_fredin.jpg"
-    #  label: "Zach Fredin"
-    #  title: "Assistant de recherche au Center for Bits and Atoms, MIT"
-    #  desc : "<p>
-    #          Zach Fredin est assistant de recherche au Center for Bits and Atoms au MIT. 
-    #          Avant le MIT, il a créé une entreprise d'enseignement des neurosciences, vendu des instruments de mesure du niveau radar de silos à grains, planifié la maintenance d'une presse à forger de 50 000 tonnes et fait pousser d'énormes cristaux de quartz. 
-    #          Il a étudié la science et l'ingénierie des matériaux à la Case Western Reserve University à Cleveland, où il a travaillé comme assistant de fonderie et fait partie de l'équipe d'aviron.
-    #          <br><br>
-    #          Au CBA, il a étudié les matériaux numériques, la fabrication par écriture directe, le micro-usinage au laser, la RMN MAS, le calcul reconfigurable et les flexions superélastiques. 
-    #          Au cours du printemps 2020, il a également travaillé sur un certain nombre de projets de réponse rapide COVID-19 destinés à la fabrication communautaire distribuée à partir du Fab Lab.
-    #          <br><br>
-    #          Zach Fredin est originaire de Columbus, OH, et a récemment vécu à Minneapolis, MN avant de déménager avec sa femme à Cambridge, MA pour l'école doctorale. 
-    #          </p>"
-
+    - img  : "assets/img/speakers/AndreaDezso.jpg"
+      label: "Andrea Dezsö"
+      title: "Artiste visuel"
+      desc : "<p>
+              Andrea Dezsö est un artiste visuel qui travaille sur un large éventail de supports, dont le dessin, la peinture, les livres d'artiste, la broderie, le papier découpé, l'animation, la sculpture, les installations spécifiques et l'art public. Des œuvres d'art public permanentes de Dezsö ont été installées dans trois stations de métro de la ville de New York, à l'ambassade des États-Unis à Bucarest en Roumanie, et au Fiterman Hall du CUNY BMCC dans le sud de Manhattan. Community Garden, la mosaïque de Dezsö installée dans le métro de New York, a été reconnue comme Meilleur Art Public américain en 2007 par le collectif Americans for the Arts.
+              <br><br>
+              Dezsö expose dans des musées et des galeries du monde entier.
+              </p>"
+    - img  : "assets/img/speakers/Ann_Merchant.jpg"
+      label: "Ann Merchant"
+      title: "Directrice exécutive adjointe de la communication des Académies nationales des sciences, de l'ingénierie et de la médecine"
+      desc : "<p>
+              Ann Merchant est directrice exécutive adjointe de la communication des Académies nationales des sciences, de l'ingénierie et de la médecine à Washington, DC, où elle dirige le portefeuille d'activités d'engagement créatif de l'institution, en se concentrant sur des programmes de sensibilisation innovants qui contribuent à une meilleure compréhension de la science par le grand public. 
+              À ce titre, elle est directrice de <a href='https://labx.org/about/staff/' rel='noopener' target='_blank'>LabX</a>.
+              Ses trois décennies passées aux Académies constituent une carrière caractérisée par des défis non conventionnels au service des buts et objectifs de la mission de l'institution. 
+              <br><br>
+              S'intéressant tout particulièrement à la promotion des sciences, de l'ingénierie et de la médecine par des canaux non traditionnels, elle a joué un rôle déterminant dans le lancement et la supervision de The Science & Entertainment Exchange, un programme de la National Academy of Sciences (NAS) qui vise à mettre en relation des professionnels de l'industrie du divertissement avec des scientifiques et des ingénieurs de haut niveau.
+              Plus récemment, elle a dirigé l'initiative de la NAS intitulée \"<a href='https://thesciencebehindit.org/' rel='noopener' target='_blank'>The Science Behind It</a>\", une campagne créative composée de vidéos et d'outils Web destinés à un public de jeunes adultes et portant sur divers sujets scientifiques. 
+              <br><br>
+              Elle est également responsable des événements de sensibilisation à grande échelle de l'institution, tels que TED@NAS, le USA Science & Engineering Festival et le Family Science Day at the NAS. Dans un passé désormais lointain, Mme Merchant a été directrice du marketing pour la division des publications des Académies, où elle et son équipe ont assuré la promotion et la commercialisation de plus de 175 nouveaux titres chaque année.
+              </p>"
+    - img  : "assets/img/speakers/James_Rutter.jpeg"
+      label: "James Rutter"
+      title: "Coordonnateur du Fab Lab Haystack Mountain School of Crafts"
+      desc : "<p>
+              James Rutter est le coordinateur du Fab Lab du <a href='http://www.haystack-mtn.org' rel='noopener' target='_blank'>Haystack Mountain School of Crafts</a> à Deer Isle, dans le Maine. 
+              Il a plus de dix ans d'expérience de travail avec des écoles et des organisations communautaires sur l'intégration de la fabrication numérique dans les programmes éducatifs. 
+              Avant de rejoindre Haystack l'année dernière, il était assistant de recherche diplômé et terminait son doctorat au Lab School for Advanced Manufacturing de l'Université de Virginie (UVA). 
+              Il y a développé des programmes éducatifs et mené plusieurs recherches sur l'intégration des technologies de fabrication en laboratoire dans les écoles de la maternelle à la 12e année. 
+              Son travail à l'UVA a été soutenu par la National Science Foundation (NSF) et le ministère américain de l'Éducation, et il continue à travailler comme consultant en recherche avec des subventions en cours.
+              </p>"
+    - img  : "assets/img/speakers/Vince_Kadlubek.jpeg"
+      label: "Vince Kadlubek"
+      title: "Fondateur du collectif artistique Meow Wolf"
+      desc : "<p>
+              Vince Kadlubek est le cofondateur de <a href='https://meowwolf.com/about' rel='noopener' target='_blank'>Meow Wolf</a>, un collectif artistique qui s'est transformé en une société de production d'art et de divertissement primée, spécialisée dans les expériences immersives en monde libre. 
+              <br><br>
+              Vince a travaillé en tant que leader et PDG de Meow Wolf au cours de ses formidables années, après avoir créé le plan d’affaires de Meow Wolf's House of Eternal Return et dirigé l'équipe dans la réalisation du projet en mars 2016. 
+              En janvier 2017, Kadlubek a créé Meow Wolf, Inc, une société de production artistique à part entière et un studio de création positionné pour créer les expositions d'art monumentales les plus grandes, les plus innovantes et les plus audacieuses du monde. 
+              Après avoir levé des fonds de série A, il a annoncé deux nouvelles expositions de Meow Wolf à Las Vegas et à Denver. 
+              <br><br>
+              Kadlubek a été une force de vision dans le domaine de l'art expérientiel, et en 2020, il a lancé une agence de conseil en création appelée <a href='https://activations.space/' rel='noopener' target='_blank'>Spatial Activations</a> comme plateforme pour inaugurer une nouvelle ère d'art expérientiel dans les développements modernes et la vie quotidienne. 
+              Vince est passionné par la co-création de réalités alternatives entièrement réalisées qui apportent au monde une transformation et une inspiration qui bouleversent les paradigmes.
+              </p>"
+    - img  : "assets/img/speakers/zach_fredin.jpg"
+      label: "Zach Fredin"
+      title: "Assistant de recherche au Center for Bits and Atoms, MIT"
+      desc : "<p>
+              Zach Fredin est assistant de recherche au Center for Bits and Atoms au MIT. 
+              Avant le MIT, il a créé une entreprise d'enseignement des neurosciences, vendu des instruments de mesure du niveau radar de silos à grains, planifié la maintenance d'une presse à forger de 50 000 tonnes et fait pousser d'énormes cristaux de quartz. 
+              Il a étudié la science et l'ingénierie des matériaux à la Case Western Reserve University à Cleveland, où il a travaillé comme assistant de fonderie et fait partie de l'équipe d'aviron.
+              <br><br>
+              Au CBA, il a étudié les matériaux numériques, la fabrication par écriture directe, le micro-usinage au laser, la RMN MAS, le calcul reconfigurable et les flexions superélastiques. 
+              Au cours du printemps 2020, il a également travaillé sur un certain nombre de projets de réponse rapide COVID-19 destinés à la fabrication communautaire distribuée à partir du Fab Lab.
+              <br><br>
+              Zach Fredin est originaire de Columbus, OH, et a récemment vécu à Minneapolis, MN avant de déménager avec sa femme à Cambridge, MA pour l'école doctorale. 
+              </p>"
