@@ -170,6 +170,16 @@ en:
               And prior to that, I received a bachelors in Physics from NYU while building an optical <a href='https://physics.nyu.edu/grierlab/intermediate3c/' rel='noopener' target='_blank'>tractor beam</a> in Professor David Grier's soft matter <a href='https://physics.nyu.edu/grierlab/index.html' rel='noopener' target='_blank'>research group</a>. 
               You can find more info about me on my <a href='https://camblackburn.pages.cba.mit.edu/home/makeadamnsitecam.com' rel='noopener' target='_blank'>personal site</a>.
               </p>"
+    - img  : "assets/img/speakers/AlisonParker.png"
+      label: "Alison Parker, PhD"
+      title: "Senior Program Associate with the Science and Technology Innovation Program (STIP)"
+      desc : "<p>
+              Alison Parker, PhD is Senior Program Associate with the <a href='https://www.wilsoncenter.org/program/science-and-technology-innovation-program' rel='noopener' target='_blank'>Science and Technology Innovation Program (STIP)</a> at the Woodrow Wilson International Center for Scholars in Washington DC. 
+              In this role, she evaluates and amplifies participatory approaches to science and technology, and builds connections between science, society, and public policy. 
+              She also serves on the Board of Directors of the <a href='https://citizenscience.org/' rel='noopener' target='_blank'>Citizen Science Association</a>, and holds a PhD in Ecology and Evolutionary Biology from the University of Toronto and a B.Sc. from the George Washington University. 
+              The Science and Technology Innovation Program’s Thing Tank Initiative is tackling how the things of science ─ the physical tools that generate data or contribute to scientific processes ─ are accelerating and broadening science. 
+              We’re working to bring disciplines and communities together to address common challenges and opportunities in low-cost and open hardware, in the context of open science.
+              </p>"
 
 fr:
   title     : CONFERENCIERS
@@ -318,7 +328,7 @@ fr:
               Après avoir levé des fonds de série A, il a annoncé deux nouvelles expositions de Meow Wolf à Las Vegas et à Denver. 
               <br><br>
               Kadlubek a été une force de vision dans le domaine de l'art expérientiel, et en 2020, il a lancé une agence de conseil en création appelée <a href='https://activations.space/' rel='noopener' target='_blank'>Spatial Activations</a> comme plateforme pour inaugurer une nouvelle ère d'art expérientiel dans les développements modernes et la vie quotidienne. 
-              Vince est passionné par la co-création de réalités alternatives entièrement réalisées qui apportent au monde une transformation et une inspiration qui bouleversent les paradigmes.
+              Vince est passionné par la co-création entièrement réalisée en réalités alternatives qui apportent au monde une transformation et une inspiration qui bouleversent les paradigmes.
               </p>"
     - img  : "assets/img/speakers/zach_fredin.jpg"
       label: "Zach Fredin"
@@ -342,5 +352,15 @@ fr:
               Avant de m'installer à Cambridge, j'ai vécu à New York, où j'ai travaillé en tant que scientifique des données et ingénieur logiciel pour <a href='https://www.veritone.com/' rel='noopener' target='_blank'>Veritone</a>, où j'ai construit des modèles d'apprentissage profond hiérarchisés pour des tâches d'IA générales. 
               Avant cela, j'ai obtenu une licence en physique à l'université de New York en construisant un  <a href='https://physics.nyu.edu/grierlab/intermediate3c/' rel='noopener' target='_blank'>rayon optique tracteur</a> dans le  <a href='https://physics.nyu.edu/grierlab/index.html' rel='noopener' target='_blank'>groupe de recherche</a> sur la matière souple du professeur David Grier. 
               Vous pouvez trouver plus d'informations sur moi sur mon <a href='https://camblackburn.pages.cba.mit.edu/home/makeadamnsitecam.com' rel='noopener' target='_blank'>site personel</a>.
+              </p>"
+    - img  : "assets/img/speakers/AlisonParker.png"
+      label: "Alison Parker, PhD"
+      title: "Associée principale au Senior Program Associate with the Science and Technology Innovation Program (STIP)"
+      desc : "<p>
+              Alison Parker, PhD, est associée principale au <a href='https://www.wilsoncenter.org/program/science-and-technology-innovation-program' rel='noopener' target='_blank'>Science and Technology Innovation Program (STIP)</a> du Woodrow Wilson International Center for Scholars à Washington DC. 
+              Dans ce rôle, elle évalue et amplifie les approches participatives de la science et de la technologie, et établit des liens entre la science, la société et la politique publique. 
+              Elle siège également au conseil d'administration de la <a href='https://citizenscience.org/' rel='noopener' target='_blank'>Citizen Science Association</a>, et est titulaire d'un doctorat en écologie et biologie évolutive de l'université de Toronto et d'une licence de l'université George Washington. 
+              L'initiative Thing Tank du Programme d'innovation scientifique et technologique s'attaque à la manière dont les choses de la science ─ les outils physiques qui génèrent des données ou contribuent aux processus scientifiques ─ accélèrent et élargissent la science. 
+              Nous nous efforçons de réunir des disciplines et des communautés pour relever des défis et des opportunités communs en matière de matériel à faible coût et ouvert, dans le contexte de la science ouverte.
               </p>"
 

@@ -2,7 +2,12 @@ en:
   title   : "Participate"
   img     : "assets/img/applications.png"
   subtitle: "How to participate"
-  text    : "FAB16 will integrate all the knowledge gained during the year by more than 2000 Fab Labs around the world. At this conference, everyone is invited to participate in various activities: proposing, leading or getting involved in a workshop or working group, submitting research publications, becoming a volunteer, just to name a few. Visit the tabs below to get involved!"
+  text    : "FAB16 will integrate all the knowledge gained during the year by more than 2000 Fab Labs around the world. 
+            At this conference, everyone is invited to participate in various activities: proposing, leading or getting involved in a workshop or working group, submitting research publications, becoming a volunteer, just to name a few. 
+            The Regional Networks are gathering their communities to participate in online and local events as FAB16 Hubs. 
+            To see a list of all of the FAB16 Hubs and get involved with your local Hub, click <a href='/program'>here</a>!
+            <br><br>
+            Click the links below to learn more."
 
   application:
     #- item      : "item1"
@@ -123,6 +128,9 @@ fr:
   subtitle: "Comment participer"
   text    : "FAB16 intégrera toute la connaissance acquise durant l’année par plus de 2000 Fab Labs à travers le monde.
             Lors de notre rencontre à cette conférence, tout le monde est invité à participer à diverses activités : animer ou s’impliquer dans un atelier ou groupe de travail, soumettre ses publications de recherche, devenir bénévole, pour n'en citer que quelques-unes.
+            Les réseaux régionaux rassemblent leurs communautés pour participer à des événements en ligne et locaux en tant que Hubs FAB16. 
+            Pour voir la liste de tous les Hubs FAB16 et vous impliquer dans votre Hub local, cliquez <a href='/programme'>ici</a> !
+            <br><br>
             Visitez les onglets ci-bas pour participer!"
 
   application:

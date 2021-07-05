@@ -2,16 +2,19 @@ en:
   img1: "assets/img/tracks/Invitation_FAB16.png"
   title: "&#35;Fabricating the Commons"
   text: "<p>
+          FAB16 reaches over 2000 Fab Labs in 126 countries, and over 3000 participants: makers, eco-friendly designers, industrialists, artists, teachers, researchers, and more.
+        </p>
+        <p>
            FAB16 brings together members of the international Fab Lab network, as well as government officials, academic researchers, and experts in the field of digital fabrication, to present, envision, discuss, and build community around digital fabrication, technology, and innovation.
+          This year, FAB16 and Fab City Summit will all be hosted online, with FAB16 Hubs creating events for their communities to join the online programming and local programming of their own.
         </p>
         <p>
           The meeting includes several events for the manufacturing community and the general public. The community component includes a symposium with talks on Fab Labs, digital fabrication methods, innovative and green approaches, digital fabrication workshops taught by the fabber community.
         </p>
         <p>
-          FAB16 reaches over  2000 Fab Labs in 126 countries, and over 3000 participants: makers, eco-friendly designers, industrialists, artists, teachers, researchers, and more.
-       </p>
-        <p>
-          To reach a wider audience, the Fab Festival event will be a showcase for the entire Montreal community, an event that is entirely free. Adults and children alike will discover fabrication technologies and prototyping demonstrations offered by Fab Labs around the world.
+          In order to reach a wider audience, the Fab Festival event will offer a Montréal showcase, an entirely free event. 
+          Adults and children alike will be able to discover fabrication technologies and prototyping demonstrations that reflect what can be found in Fab Labs around the world. 
+          While the global community cannot be together in person in Montréal, we encourage other regions to create their own local Fab Festivals!
        </p>"
   img2: "assets/img/tracks/Annie_Vers_FAB16.png"
   title2: "From August 9th to August 15th, 2021, Montréal (Canada) will host the international conference of Fab Labs and the <a href='https://summit.fabcity-montreal.quebec/' target='_blank' rel='noopener'>Fab City Summit</a> online under the theme &#35;Fabricating the Commons. 
@@ -54,16 +57,20 @@ fr:
   img1: "assets/img/tracks/Invitation_FAB16.png"
   title : "&#35;Fabriquer les Communs"
   text  : "<p>
+          Le FAB16 rejoint plus de 2000 Fab Labs répartis dans 126 pays, et plus de 3000 participantes et participants : fabricants, designers respectueux de l'environnement, industriels, artistes, enseignants, chercheurs, et plus encore.
+        </p>
+        <p>
           FAB16 rassemble les membres du réseau international des Fab Labs, ainsi que des représentants gouvernementaux, des chercheurs universitaires et des experts dans le domaine de la fabrication numérique, pour présenter, envisager, discuter et créer une communauté autour de la fabrication, de la technologie et de l'innovation numériques.
+          Cette année, le FAB16 et le Fab City Summit se dérouleront en ligne, et les Hubs FAB16 créeront des événements pour leurs communautés afin de rejoindre la programmation en ligne et leur propre programmation locale.
         </p>
         <p>
           Cette rencontre comprend plusieurs événements pour la communauté fabricante et pour le grand public. Le volet pour la communauté comprend un symposium avec des conférences sur les Fab Labs, les méthodes de fabrication numérique, les approches innovatrices et écologiques, des ateliers de fabrication numérique donnés par la communauté des fabers.
         </p>
+        
         <p>
-          Le FAB16 rejoint plus de 2000 Fab Labs répartis dans 126 pays, et plus de 3000 participantes et participants : fabricants, designers respectueux de l'environnement, industriels, artistes, enseignants, chercheurs, et plus encore.
-        </p>
-        <p>
-          Pour rejoindre un public plus large, l'événement Fab Festival sera la vitrine pour toute la communauté montréalaise, un événement entièrement gratuit. Adultes et enfants y découvriront des technologies de fabrication et des démonstrations de prototypage offerts par les Fab Labs du monde entier.
+          Pour rejoindre un public plus large, l'événement Fab Festival offrira une vitrine montréalaise, un événement entièrement gratuit. 
+          Les adultes comme les enfants pourront découvrir les technologies de fabrication et les démonstrations de prototypage reflétant ce que l'on retrouve dans les Fab Labs du monde entier. 
+          Bien que la communauté mondiale ne puisse pas être réunie en personne à Montréal, nous encourageons les autres régions à créer leurs propres Fab Festivals locaux !
         </p>"
   img2: "assets/img/tracks/Annie_Vers_FAB16.png"
   title2: "Du 9 au 15 Août 2021, Montréal (Canada) sera l’hôte de la rencontre internationale des Fab Labs et du <a href='https://summit.fabcity-montreal.quebec/accueil' target='_blank' rel='noopener'>Sommet Fab City</a> en ligne sous le thème &#35;Fabriquer les Communs."
