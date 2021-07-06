@@ -180,6 +180,18 @@ en:
               The Science and Technology Innovation Program’s Thing Tank Initiative is tackling how the things of science ─ the physical tools that generate data or contribute to scientific processes ─ are accelerating and broadening science. 
               We’re working to bring disciplines and communities together to address common challenges and opportunities in low-cost and open hardware, in the context of open science.
               </p>"
+    - img  : "assets/img/speakers/MounaAndraos.jpg"
+      label: "Mouna Andraos"
+      title: "Co-founder of Daily tous les jours"
+      desc : "<p>
+              Mouna co-founded <a href='https://www.dailytouslesjours.com/en' rel='noopener' target='_blank'>Daily tous les jours</a> in 2010 with Melissa Mongiat. This Montréal-based art and design studio is best known for its work in public space, inviting people to play a critical role in the transformation of cities. Demystifying and disseminating technology as a tool for social change is at the heart of Mouna's work.
+              <br><br>
+              Mouna holds a Master's degree in Interactive Telecommunications Program (ITP) from NYU and a Bachelor's degree from Concordia University. She was a researcher in residence at the Eyebeam Center for Art and Technology in New York. She is an assistant professor in the Department of Computer Science and Design at Concordia.
+              <br><br>
+              As a member of the board of directors of the Society for Arts and Technology (SAT), Mouna was recently appointed Interim Executive and Artistic Director, with the mission of perpetuating SAT's role as a pioneer in digital art and an agent of cultural and social transformation.
+              <br><br>
+              Prior to Daily, Mouna worked at Electronic Crafts, where she explored the process of making objects through mass electronics to create playful, sustainable, or participatory objects. Her web work for the interactive agency Bluesponge has earned her numerous international recognitions, including Webbys, Best of Show at SXSW and a Cyber Lion at Cannes.
+              </p>"
 
 fr:
   title     : CONFERENCIERS
@@ -362,5 +374,17 @@ fr:
               Elle siège également au conseil d'administration de la <a href='https://citizenscience.org/' rel='noopener' target='_blank'>Citizen Science Association</a>, et est titulaire d'un doctorat en écologie et biologie évolutive de l'université de Toronto et d'une licence de l'université George Washington. 
               L'initiative Thing Tank du Programme d'innovation scientifique et technologique s'attaque à la manière dont les choses de la science ─ les outils physiques qui génèrent des données ou contribuent aux processus scientifiques ─ accélèrent et élargissent la science. 
               Nous nous efforçons de réunir des disciplines et des communautés pour relever des défis et des opportunités communs en matière de matériel à faible coût et ouvert, dans le contexte de la science ouverte.
+              </p>"
+    - img  : "assets/img/speakers/MounaAndraos.jpg"
+      label: "Mouna Andraos"
+      title: "Co-fondatrice de Daily tous les jours"
+      desc : "<p>
+              Mouna a co-fondé <a href='https://www.dailytouslesjours.com/fr' rel='noopener' target='_blank'>Daily tous les jours</a> en 2010 avec Melissa Mongiat. Ce studio d’art et de design basé à Montréal est plus connu pour son travail dans l’espace public, invitant les gens à jouer un rôle critique dans la transformation des villes. Démystifier et diffuser la technologie afin d’en faire un outil de changement social est au cœur du travail de Mouna. 
+              <br><br>
+              Mouna est titulaire d’une maîtrise en Télécommunications interactives (Interactive Telecommunications Program (ITP)) de NYU et d’un baccalauréat de l’Université de Concordia. Elle a été chercheuse en résidence au Centre d’Art et Technologie Eyebeam à New-York. Elle est professeure adjointe dans le Département d’informatique et de design de Concordia.
+              <br><br>
+              En tant que membre du conseil d’administration de la Société des arts technologiques (SAT), Mouna a récemment été nommée Directrice générale et artistique par intérim, avec pour mission de pérenniser le rôle de la SAT comme pionnier en art numérique et agent de transformation culturelle et sociale.
+              <br><br>
+              Avant Daily, Mouna a travaillé sous le label Electronic Crafts, où elle a exploré le processus de fabrication des objets grâce à l’électronique de masse, pour créer des objets ludiques, durables ou participatifs. Son travail en web pour l’agence interactive Bluesponge lui a valu de nombreuses reconnaissances internationales, telles des Webbys, le Best of Show du festival SXSW et un Cyber Lion à Cannes.
               </p>"
 
