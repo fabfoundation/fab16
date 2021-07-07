@@ -75,6 +75,20 @@ afterimgcol2: "<br>
             Fabricademy, Paros, Grèce<br>
             Kenya Makerspaces Network, Kenya<br>
             Insper FabLab, Brésil<br>
+            Fab Lab Barcelona, Spain<br>
+            India Fab Labs<br>
+            Fab LaT<br>
+            Boston Fab Hub, USA<br>
+            FABLAB Colegio Alberto Blest Gana, Chile<br>
+            Vigyan ashram, India<br>
+            HRW FabLab Bottrop, Germany<br>
+            Nordic FabLab Network<br>
+            Fab Labs Puebla, México<br>
+            Fab Lab Ciudad de México<br>
+            Dilijan Fab Lab, Armenia<br>
+            FAB LAB IOANNINA, Greece<br>
+            Rede Fab Lab, Brasil<br>
+            FabLab Ecuador<br>
             <br><br>
             <strong>Hub de graduation (Nodes Academany qui veulent accueillir un rassemblement de graduation localement)</strong>
             <br><br>
@@ -83,16 +97,18 @@ afterimgcol2: "<br>
             <strong>Hub local (Engagez les participants de votre région dans la conférence, et coordonnez et produisez du contenu pour les ateliers locaux, dans votre langue et à votre rythme)</strong>
             <br><br>
             Fab Lab Suomi, Finlande <br>
-            Rede Fab Lab Brasil, Brésil<br>
             Red Chilena de Fabricación Digital, Chili<br>
-            Kerala, Inde<br>
+            Studio ⅚, Quatar<br>
+            Ingegno makerspace, Belgique<br>
+            FabLab, Libye<br>
+
             <br><br>
             <strong>Partenaire communautaire (aide à la communication en ligne et à la diffusion de l'information)</strong>
             <br><br>
             CST, Buthan<br>
             Fab Lab Yucatan, Mexique<br>
             Arctic Circle Fab Lab, Sisimiut, Groenland<br>
-
+            Africa FabLab Network<br>
 "
 
 ---
