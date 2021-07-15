@@ -21,7 +21,7 @@ en:
     #  modal     : ""
     #  link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
 
-    - item      : "item2"
+    - item      : "item1"
       menu      : "Workshops"
       title     : "Participate with your workshops"
       text      : "Whether you're new to a FABx conference or have attended many, workshops are a great way to share your knowledge with the Fab Lab network. 
@@ -39,7 +39,7 @@ en:
       modal     : ""
       link      : "https://forms.gle/SNM7pvtJzjYEyWAU9"
 
-    - item      : "item3"
+    - item      : "item2"
       menu      : "Research papers"
       title     : "Submit your scientific paper "
       text      : "The research paper stream of FAB16 invites authors of original research articles studying the Fab Lab movement, its ambitions and impacts across a broad spectrum of disciplines, including computer science, engineering, science and technology fields, management and business, education, urban planning, media and design, and more. 
@@ -50,6 +50,18 @@ en:
       buttonclass: ""
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
+
+    - item      : "item3"
+      menu      : "FAB16 Challenges"
+      title     : "Stop. Reboot. Learn: Innovating Fab teaching and learning for the next decade"
+      text      : "This FAB16 award challenge, sponsored by Dassault Systemes SOLIDWORKS and the 3DEXPERIENCE Lab, gives you the chance to think big, and to envision new ways of fab teaching and learning over the next decade. 
+                  Tell us your visionary idea or give a concrete example of a physical product that will reboot learning.
+                  <br><br>
+                  <em>Apply here by Wednesday, August 4 :</em>"
+      buttontext: "Apply"
+      buttonclass: ""
+      modal     : ""
+      link      : "https://forms.gle/TnpU45DCJHbPvXpw5"
 
     - item      : "item4"
       menu      : "FAB World and More"
@@ -146,7 +158,7 @@ fr:
     #  modal     : ""
     #  link      : "https://conf.fabevent.org/users/sign_in?conference_acronym=Fab16&locale=en"
     
-    - item      : item2
+    - item      : item1
       menu      : "Ateliers"
       title     : "Participez avec vos ateliers"
       text      : "Que vous soyez novice en matière d'événements FABx ou que vous ayez déjà participé à de nombreux événements, les ateliers sont un excellent moyen de partager vos connaissances avec le réseau des Fab Labs. 
@@ -164,7 +176,7 @@ fr:
       modal     : ""
       link      : "https://forms.gle/yHsZeu3WEP1f5dBv8"
     
-    - item      : item3
+    - item      : item2
       menu      : "Publications scientifiques"
       title     : "Soumettez votre publication scientifique"
       text      : "Le volet du FAB16 concernant les papiers de recherche invite les auteurs d’articles de recherche originaux étudiant le mouvement Fab Lab, ses ambitions et ses impacts au travers d’un large spectre de disciplines, incluant les sciences informatiques, l’ingénierie, les domaines scientifiques et technologiques, la gestion et les affaires, l’éducation, l’urbanisme, les médias et le design, et bien d’autres encore.
@@ -175,6 +187,17 @@ fr:
       buttonclass: ""
       modal     : ""
       link      : "https://easychair.org/cfp/Fab16"
+    - item      : item3
+      menu      : "FAB16 Challenge"
+      title     : "Stop. Redémarrez. Apprendre : Innover dans la Fab formation et apprentissage pour la prochaine décennie"
+      text      : "Ce concours FAB16, parrainé par Dassault Systèmes SOLIDWORKS et le 3DEXPERIENCE Lab, vous donne l'occasion de voir grand et d'imaginer de nouvelles façons d'enseigner et d'apprendre dans les Fab Lab au cours de la prochaine décennie. 
+                  Faites-nous part de votre idée visionnaire ou donnez un exemple concret d'un produit concret qui va redynamiser l'apprentissage.
+                  <br><br>
+                  <em>Posez votre candidature ici avant le mercredi 4 août :</em>"
+      buttontext: "Participez"
+      buttonclass: ""
+      modal     : ""
+      link      : "https://forms.gle/TnpU45DCJHbPvXpw5"
     
     - item      : item4
       menu      : "FAB World et plus"
