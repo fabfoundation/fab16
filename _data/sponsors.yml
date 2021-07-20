@@ -43,10 +43,12 @@ en:
     - img: assets/img/sponsors/100px3DS_2015_3DEXPERIENCE_Lab_Blue.png
       url: https://3dexperiencelab.3ds.com/
   government:
-    - img: assets/img/sponsors/MTL.png
-      url: https://montreal.ca/en/
+    - img: assets/img/sponsors/logoCanada.png
+      url: https://dec.canada.ca/eng/index.html
     - img: assets/img/sponsors/logo_GouvernementDuQuebec-opt.png
       url: https://www.quebec.ca/
+    - img: assets/img/sponsors/MTL.png
+      url: https://montreal.ca/en/
     #- img: assets/img/sponsors/logo-ofqj.png
     #  url: https://www.ofqj.org/
     - img: assets/img/sponsors/logo-lojiq.png
@@ -194,10 +196,12 @@ fr:
     - img: assets/img/sponsors/100px3DS_2015_3DEXPERIENCE_Lab_Blue.png
       url: https://3dexperiencelab.3ds.com/
   government:
-    - img: assets/img/sponsors/MTL.png
-      url: https://montreal.ca/
+    - img: assets/img/sponsors/logoCanada.png
+      url: https://dec.canada.ca/fra/index.html
     - img: assets/img/sponsors/logo_GouvernementDuQuebec-opt.png
       url: https://www.quebec.ca/
+    - img: assets/img/sponsors/MTL.png
+      url: https://montreal.ca/
     #- img: assets/img/sponsors/logo-ofqj.png
     #  url: https://www.ofqj.org/
     - img: assets/img/sponsors/logo-lojiq.png
