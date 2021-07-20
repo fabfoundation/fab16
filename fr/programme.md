@@ -164,55 +164,63 @@ hubsection4: "<strong>Partenaire communautaire (aide à la communication en lign
                 <br>
 
                 <p class="">{{ page.hubsection1 }}</p>
-                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                {% comment %}<div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">{% endcomment %}
+                <div>
                     {% for p in site.data.sponsors[page.lang].hub1 %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                    {% comment %}<div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
                         <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
                             <em class="hidelinktext">{{ p.url }}</em>
-                            <p class="text-center">{{p.title}}</p>
+                            <p class="text-center">{% endcomment %}{{p.title}}<br>{% comment %}</p>
                         </a>
-                    </div>
+                    </div>{% endcomment %}
                     {% endfor %}
+                    <br><br>
                 </div>
 
                 <p class="">{{ page.hubsection2 }}</p>
-                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                {% comment %}<div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">{% endcomment %}
+                <div>
                     {% for p in site.data.sponsors[page.lang].hub2 %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                    {% comment %}<div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
                         <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
                             <em class="hidelinktext">{{ p.url }}</em>
-                            <p class="text-center">{{p.title}}</p>
+                            <p class="text-center">{% endcomment %}{{p.title}}<br>{% comment %}</p>
                         </a>
-                    </div>
+                    </div>{% endcomment %}
                     {% endfor %}
+                    <br><br>
                 </div>
 
                 <p class="">{{ page.hubsection3 }}</p>
-                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                {% comment %}<div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">{% endcomment %}
+                <div>
                     {% for p in site.data.sponsors[page.lang].hub3 %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                    {% comment %}<div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
                         <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
                             <em class="hidelinktext">{{ p.url }}</em>
-                            <p class="text-center">{{p.title}}</p>
+                            <p class="text-center">{% endcomment %}{{p.title}}<br>{% comment %}</p>
                         </a>
-                    </div>
+                    </div>{% endcomment %}
                     {% endfor %}
+                    <br><br>
                 </div>
 
                 <p class="">{{ page.hubsection4 }}</p>
-                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                {% comment %}<div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">{% endcomment %}
+                <div>
                     {% for p in site.data.sponsors[page.lang].hub4 %}
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                    {% comment %}<div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
                         <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
                             <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
                             <em class="hidelinktext">{{ p.url }}</em>
-                            <p class="text-center">{{p.title}}</p>
+                            <p class="text-center">{% endcomment %}{{p.title}}<br>{% comment %}</p>
                         </a>
-                    </div>
+                    </div>{% endcomment %}
                     {% endfor %}
+                    <br><br>
                 </div>
 
             </div>

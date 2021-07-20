@@ -51,6 +51,104 @@ en:
     #  url: https://www.ofqj.org/
     - img: assets/img/sponsors/logo-lojiq.png
       url: https://www.lojiq.org/
+  hub1:
+    - title: North American Digital Fabrication Alliance, États-Unis
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: CREFAB, Espagne
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FabAcademy, Europe centrale
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Labs Québec, Canada
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fabricademy, Paros, Grèce
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Kenya Makerspaces Network, Kenya
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Insper FabLab, Brésil
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Lab Barcelona, Spain
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: India Fab Labs
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab LaT
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Boston Fab Hub, USA
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FABLAB Colegio Alberto Blest Gana, Chile
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Vigyan ashram, India
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: HRW FabLab Bottrop, Germany
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Nordic FabLab Network
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Labs Puebla, México
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Lab Ciudad de México
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Dilijan Fab Lab, Armenia
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FAB LAB IOANNINA, Greece
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Rede Fab Lab, Brasil
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FabLab Ecuador
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+  hub2:
+    - title: FabAcademy, Europe centrale
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+  hub3:
+    - title: Fab Lab Suomi, Finlande
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Red Chilena de Fabricación Digital, Chili
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Studio ⅚, Quatar
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Ingegno makerspace, Belgique
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FabLab, Libye
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+  hub4:
+    - title : CST, Buthan
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title : Fab Lab Yucatan, Mexique
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title : Arctic Circle Fab Lab, Sisimiut, Groenland
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title : Africa FabLab Network
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    
 
 fr:
   thankstitle           : "Merci à tous nos partenaires"
@@ -104,3 +202,100 @@ fr:
     #  url: https://www.ofqj.org/
     - img: assets/img/sponsors/logo-lojiq.png
       url: https://www.lojiq.org/
+  hub1:
+    - title: North American Digital Fabrication Alliance, États-Unis
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: CREFAB, Espagne
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FabAcademy, Europe centrale
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Labs Québec, Canada
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fabricademy, Paros, Grèce
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Kenya Makerspaces Network, Kenya
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Insper FabLab, Brésil
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Lab Barcelona, Spain
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: India Fab Labs
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab LaT
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Boston Fab Hub, USA
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FABLAB Colegio Alberto Blest Gana, Chile
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Vigyan ashram, India
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: HRW FabLab Bottrop, Germany
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Nordic FabLab Network
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Labs Puebla, México
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Fab Lab Ciudad de México
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Dilijan Fab Lab, Armenia
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FAB LAB IOANNINA, Greece
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Rede Fab Lab, Brasil
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FabLab Ecuador
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+  hub2:
+    - title: FabAcademy, Europe centrale
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+  hub3:
+    - title: Fab Lab Suomi, Finlande
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Red Chilena de Fabricación Digital, Chili
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Studio ⅚, Quatar
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: Ingegno makerspace, Belgique
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title: FabLab, Libye
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+  hub4:
+    - title : CST, Buthan
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title : Fab Lab Yucatan, Mexique
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title : Arctic Circle Fab Lab, Sisimiut, Groenland
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
+    - title : Africa FabLab Network
+      img: assets/img/sponsors/logo_trotec2-opt.png
+      url: https://www.troteclaser.com/en-ca/
