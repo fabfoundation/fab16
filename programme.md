@@ -63,8 +63,6 @@ afterimglink: "<a href='https://live.fablabs.io/' target='_blank'>live.fablabs.i
 afterimgcol1: "<br>
             This year, we are hoping to encourage more local engagement during FAB16 with the FAB16 Hubs! Below is a list of the participating FAB16 Hubs. If there will be local programming at one of the Hubs and they have shared that with us, you will find it by clicking on their name. We ask everyone to keep safety above all else and be mindful of the COVID-19 restrictions in their location.
             <br><br>
-            If you would like to add a Hub, please fill out this form: <a href='https://forms.gle/1EL7J7vTh3VFDgeUA' target='_blank'>https://forms.gle/1EL7J7vTh3VFDgeUA</a>
-            <br><br>
             Any questions, email <a href='mailto:fab16@fabfoundation.org' target='_blank'>fab16@fabfoundation.org</a>
             <br><br>
 
@@ -114,7 +112,10 @@ afterimgcol2: "<br>
             Arctic Circle Fab Lab, Sisimiut, Greenland<br>
             Africa FabLab Network<br>
             "
-
+hubsection1: "<strong>Distributed Hub (Coordinate your region's participation in local and/or global workshops, help coordinate materials for workshops, propose hands-on and/or theoretical workshops globally streamed, and/or participate in FABTV day)</strong>"
+hubsection2: "<strong>Graduation Hub (Academany Nodes that just want to host a Graduation gathering locally)</strong>"
+hubsection3: "<strong>Local Hub (Engage your region's participants in the conference, and Coordinate and produce content for local workshops, in your local language and time)</strong>"
+hubsection4: "<strong>Community Partner (Support with Online Communication and getting the word out)</strong>"
 
 ---
 <section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
@@ -164,7 +165,61 @@ afterimgcol2: "<br>
                 <p class="{{ color_class }}">{{page.afterimgcol1}}</p>
             </div>
             <div class="col-lg-6">
-                <p class="{{ color_class }}">{{page.afterimgcol2}}</p>
+                <!--<p class="{{ color_class }}">{{page.afterimgcol2}}</p>-->
+                <br>
+
+                <p class="">{{ page.hubsection1 }}</p>
+                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                    {% for p in site.data.sponsors[page.lang].hub1 %}
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                        <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
+                            <p class="text-center">{{p.title}}</p>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <p class="">{{ page.hubsection2 }}</p>
+                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                    {% for p in site.data.sponsors[page.lang].hub2 %}
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                        <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
+                            <p class="text-center">{{p.title}}</p>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <p class="">{{ page.hubsection3 }}</p>
+                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                    {% for p in site.data.sponsors[page.lang].hub3 %}
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                        <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
+                            <p class="text-center">{{p.title}}</p>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <p class="">{{ page.hubsection4 }}</p>
+                <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
+                    {% for p in site.data.sponsors[page.lang].hub4 %}
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 sponsors mx-auto text-left{{ is_offset }}">
+                        <a href="{{ p.url }}" class="portfolio-box hub" rel="noopener" target="_blank">
+                            <img src="{{ p.img | relative_url }}" class="img-responsive rounded-circle" alt="{{p.label}}" width="400" height="100">
+                            <em class="hidelinktext">{{ p.url }}</em>
+                            <p class="text-center">{{p.title}}</p>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+
             </div>
         </div>
     </div>
