@@ -48,7 +48,7 @@ en:
             </p>"
     - img  : "assets/img/speakers/LaraStein.jpg"
       label: "Lara Stein"
-      title: "Co-Founder and CEO of BOMA"
+      title: "Director of TEDx and TED Price"
       desc : "<p>
                Lara Stein is the Co-Founder and CEO of <a href='https://boma.global/' rel='noopener' target='_blank'>Boma</a>, a global network of local partners offering transformational learning experiences (events, executive programs, workshops, community impact initiatives, etc.) for leaders and changemakers of today and tomorrow so that, in a world of dramatic and continuous change we can be more intentional and intelligent about the future.
                <br><br>
@@ -192,6 +192,56 @@ en:
               The Science and Technology Innovation Program’s Thing Tank Initiative is tackling how the things of science ─ the physical tools that generate data or contribute to scientific processes ─ are accelerating and broadening science. 
               We’re working to bring disciplines and communities together to address common challenges and opportunities in low-cost and open hardware, in the context of open science.
               </p>"
+    - img  : "assets/img/speakers/StephanieHankey.jpg"
+      label: "Stephanie Hankey"
+      title: "Executive Director, Tactical Tech"
+      desc : "<p>
+              Stephanie Hankey is a designer, activist and social entrepreneur with over 20 years experience exploring the social and political impact of technology on society. 
+              As a practitioner and field leader she works across disciplines – technology, design, art and politics. 
+              She is the co-curator of the award winning touring exhibition, The Glass Room. 
+              The Executive Director of the international NGO, Tactical Tech and a Loeb Fellow at Harvard Graduate School of Design.
+              </p>"
+    - img  : "assets/img/speakers/SylvesterJamesGatesJr.jpg"
+      label: "Sylvester James Gates, Jr."
+      title: "Brown Theoretical Physics Center Director"
+      desc : "<p>
+              Sylvester James “Jim” Gates, Jr., works at the boundary of physics and mathematics, is the Brown Theoretical Physics Center Director, Ford Foundation Professor of Physics, an Affiliate Mathematics Professor and the Watson Institute for International and Public Affairs at Brown University.
+              In 2017 after thirty-three years at the University of Maryland, he retired from appointments as a University System Regents Professor, the John S. Toll Professor of Physics at the University of Maryland, College Park, the Director of the String and Particle Theory Center, and Affiliate Professor of Mathematics.
+              <br><br>
+              In 1984, working with M.T. Grisaru, M. Rocek, W. Siegel, Gates co-authored Superspace, the first comprehensive book on the topic of supersymmetry. His doctoral thesis was the first at MIT to investigate the subject of supersymmetry and he has continued with over two hundred publications in the field.
+              He is known for his technical work on supersymmetry, supergravity, and superstring theory and continues to actively research the domain. 
+              <br><br>
+              He was born 15 December 1950, the child of a father who served in the U.S. Army for twenty-seven years. 
+              Accordingly, Jim was raised in a variety of venues in the U.S.A. and Canada. 
+              In 1973 he received two B.S. degrees (mathematics & physics), and in 1977 a Ph.D. in physics, all from the Massachusetts Institute of Technology.
+              The year of 2021 marks the fiftieth consecutive year of his university-level teaching at institutions as diverse as Caltech, Howard University, Gustavus Adophus College, M.I.T., and the University of Maryland.
+              His teaching awards include the American Association of Physics Teacher’s Klopsteg Award, Howard University’s 21st Century Initiative Award, M.I.T.’s M. L. King Award, and the Washington Academy’s!College Science Teacher of the Year among others.
+              During the years of 1991-1993, he served as the chair of the Howard University Department of Physics and Astronomy. 
+              <br><br>
+              He served as a General Councilor of the American Physical Society during 1997-2001 and he was the first recipient of the APS Bouchet Award in 1994. 
+              Gates served on the U.S. President’s Council of Advisors on Science and Technology (PCAST), the National Commission on Forensic Science, and on the Maryland State Board of Education in the period of 2009-2016.
+              He is a member of the American Association for the Advancement of Science as well as the National Academies of Sciences, Engineering and Math. He is also a member of the National Institute of Standards and Technology’s Forensic Science Standards Board.
+              Past advisory positions include service on the National Science Foundation’s Advisory Committee on Physics, the Department of Energy’s High Energy Physics Advisory Panel, the LIGO Operations and Scientific Research Sub-Panel and NSF Review Committee, the LIGO Director's Physics Advisory Committee, and the Board of Trustees of the Society for Science & the Public.
+              <br><br>
+              In 2015, he became a member of the Board of Directors of the Achieve, Inc and the Board of Councilors for the Boy Scout of America’s STEM National Council.
+              He is also a recipient of the AAAS’s Public Understanding of Science & Technology Award.
+              Finally, he is an alumnus of the Defense Science Study Group associated with the Institute for Defense Analysis.
+              His 2015 essay “Thoughts On Creativity, Diversity and Innovation in Science & Education” was cited in the Supreme Court decision known as “Fisher v. Texas.” 
+              <br><br>
+              Having contributed to over a video dozen programs, he continues to broadly appear in documentaries.
+              Since 2015 these include “The Big Bang Machine,” “The Great Math Mystery,” “The Mystery of Matter,” “Inside Einstein’s Mind,” “Thru The Wormhole: Do We Live In The Matrix?,” “Secrets of Einstein’s Brain,” and \"Inside CERN.\" 
+              In recent times, he has been called by BBC America to comment upon the discovery of gravitational radiation, and the career of Stephen Hawking. 
+              In 2017, working with Frank Blitzer and Stephen Sekula, he co-authored “Reality in the Shadows (Or) What the Heck's the Higgs?” – a popular level book.
+              In 2006, he completed a DVD series titled Superstring Theory: The DNA of Reality for The Teaching Company composed of 24 half-hour lectures to make the complexities of unification theory accessible to non-physicists.
+              <br><br>
+              He is a past president of the National Society of Black Physicists, and is a NSBP Fellow, as well as a Fellow of the American Physical Society, the American Association for the Advancement of Science, and the Institute of Physics in the U.K., and the Stellenbosch Institute for Advanced Study (STIAS) in South Africa.
+              He also is an elected member of the American Academy of Arts and Sciences, and the American Philosophical Society.
+              <br><br>
+              President Obama awarded Gates the National Medal of Science, the highest award given to scientists in the U.S., with a citation reading, “For his contribution to the mathematics of supersymmetry in particle, field, and string theories and his extraordinary efforts to engage the public on the beauty and wonder of fundamental physics.” 
+              In 2013, he was elected to the National Academy of Sciences and was recently elected to the council of the NAS. 
+              Also in 2013, Gates was awarded the Mendel Medal by Villanova University.
+              During 2014, he was named the Harvard Foundation’s ‘‘Scientist of the Year.’’
+              </p>"
 
 fr:
   title     : CONFERENCIERS
@@ -242,7 +292,7 @@ fr:
             </p>"
     - img  : "assets/img/speakers/LaraStein.jpg"
       label: "Lara Stein"
-      title: "Co-fondatrice et directrice générale de BOMA"
+      title: "Directrice de TEDx et TED Price"
       desc : "<p>
               Lara Stein est la co-fondatrice et directrice générale de <a href='https://boma.global/' rel='noopener' target='_blank'>Boma</a>, un réseau mondial de partenaires locaux offrant des expériences d'apprentissage transformationnel (événements, programmes exécutifs, ateliers, initiatives d'impact communautaire, etc.) pour les dirigeants et les acteurs du changement d'aujourd'hui et de demain afin que, dans un monde en perpétuel changement, nous puissions être plus conscients et plus intelligents face à l'avenir.
               Avant de fonder Boma, Lara était directrice générale de <a href='https://su.org/' rel='noopener' target='_blank'>Singularity University</a>, où elle était responsable du développement mondial de l'université. Elle a également été directrice exécutive de <a href='https://womensmarchglobal.org/' rel='noopener' target='_blank'>Women's March Global</a>, l'organisation mondiale sœur de Women's March, Inc. aux États-Unis.
@@ -386,6 +436,47 @@ fr:
               Elle siège également au conseil d'administration de la <a href='https://citizenscience.org/' rel='noopener' target='_blank'>Citizen Science Association</a>, et est titulaire d'un doctorat en écologie et biologie évolutive de l'université de Toronto et d'une licence de l'université George Washington. 
               L'initiative Thing Tank du Programme d'innovation scientifique et technologique s'attaque à la manière dont les choses de la science ─ les outils physiques qui génèrent des données ou contribuent aux processus scientifiques ─ accélèrent et élargissent la science. 
               Nous nous efforçons de réunir des disciplines et des communautés pour relever des défis et des opportunités communs en matière de matériel à faible coût et ouvert, dans le contexte de la science ouverte.
+              </p>"
+    - img  : "assets/img/speakers/StephanieHankey.jpg"
+      label: "Stephanie Hankey"
+      title: "Directrice exécutive, Tactical Tech"
+      desc : "<p>
+              Stephanie Hankey est une designer, une activiste et une entrepreneuse sociale qui a plus de 20 ans d'expérience dans l'exploration de l'impact social et politique de la technologie sur la société. 
+              En tant que praticienne et responsable de terrain, elle travaille dans plusieurs disciplines - technologie, design, art et politique. 
+              Elle est la co-conservatrice de l'exposition itinérante primée The Glass Room. 
+              Elle est également directrice exécutive de l'ONG internationale Tactical Tech et membre de la Loeb School of Design de Harvard.
+              </p>"
+    - img  : "assets/img/speakers/SylvesterJamesGatesJr.jpg"
+      label: "Sylvester James Gates, Jr."
+      title: "Directeur du Brown Theoretical Physics Center"
+      desc : "<p>
+              Sylvester James \"Jim\" Gates, Jr, travaille à la frontière de la physique et des mathématiques, il est directeur du Brown Theoretical Physics Center, professeur de physique à la Fondation Ford, professeur affilié de mathématiques et de l'Institut Watson pour les affaires internationales et publiques à l'Université Brown.
+              En 2017, après trente-trois ans passés à l'université du Maryland, il a quitté ses fonctions de professeur des régents du système universitaire, de professeur de physique John S. Toll à l'université du Maryland, College Park, de directeur du String and Particle Theory Center et de professeur affilié de mathématiques.
+              <br><br>
+              En 1984, en collaboration avec M.T. Grisaru, M. Rocek et W. Siegel, Gates a coécrit Superspace, le premier ouvrage complet sur le thème de la supersymétrie.   Sa thèse de doctorat a été la première au MIT à étudier le sujet de la supersymétrie et il a continué avec plus de deux cents publications dans ce domaine.
+              Il est connu pour ses travaux techniques sur la supersymétrie, la supergravité et la théorie des supercordes et continue à mener des recherches actives dans ce domaine.
+              <br><br>
+              Il est né le 15 décembre 1950, enfant d'un père qui a servi dans l'armée américaine pendant vingt-sept ans.
+              Par conséquent, Jim a été élevé dans divers endroits aux États-Unis et au Canada. En 1973, il a obtenu deux licences (mathématiques et physique) et, en 1977, un doctorat en physique, le tout au Massachusetts Institute of Technology.
+              L'année 2021 marque la cinquantième année consécutive de son enseignement universitaire dans des institutions aussi diverses que Caltech, Howard University, Gustavus Adophus College, M.I.T. et l'Université du Maryland.   Parmi les prix qu'il a reçus pour son enseignement, citons le prix Klopsteg de l'American Association of Physics Teacher, le prix 21st Century Initiative de l'université Howard, le prix M. L. King du M.I.T. et le prix du professeur de sciences de l'année de l'académie de Washington, entre autres.  
+              De 1991 à 1993, il a été président du département de physique et d'astronomie de l'université Howard. 
+              <br><br>
+              Il a été conseiller général de l'American Physical Society de 1997 à 2001 et a été le premier lauréat du prix Bouchet de l'APS en 1994.  M. Gates a siégé au Conseil présidentiel des conseillers en sciences et en technologie (PCAST), à la Commission nationale des sciences médico-légales et au Conseil de l'éducation de l'État du Maryland entre 2009 et 2016.    Il est membre de l'American Association for the Advancement of Science ainsi que des National Academies of Sciences, Engineering and Math.  Il est également membre du Forensic Science Standards Board du National Institute of Standards and Technology.
+              Il a également été membre du comité consultatif sur la physique de la National Science Foundation, du comité consultatif sur la physique des hautes énergies du ministère de l'Énergie, du sous-comité des opérations et de la recherche scientifique de LIGO et du comité d'examen de la NSF, du comité consultatif sur la physique du directeur de LIGO et du conseil d'administration de la Society for Science & the Public.
+              <br><br>
+              En 2015, il est devenu membre du conseil d'administration de Achieve, Inc. et du conseil des conseillers du conseil national STEM des Boy Scouts d'Amérique.
+              Il est également lauréat du prix de l'AAAS pour la compréhension publique de la science et de la technologie.
+              Enfin, il est un ancien du groupe d'étude des sciences de la défense associé à l'Institut d'analyse de la défense.
+              Son essai de 2015 \"Thoughts On Creativity, Diversity and Innovation in Science & Education\" a été cité dans la décision de la Cour suprême connue sous le nom de \"Fisher v. Texas.\"
+              <br><br>
+              Ayant contribué à plus d'une vidéodouzaine de programmes, il continue à apparaître largement dans des documentaires. 
+              Depuis 2015, ceux-ci incluent \"The Big Bang Machine\", \"The Great Math Mystery\", \"The Mystery of Matter\", \"Inside Einstein's Mind\", \"Thru The Wormhole :  Do We Live In The Matrix ?\", \"Secrets of Einstein's Brain\" et \"Inside CERN\".   Récemment, il a été appelé par BBC America pour commenter la découverte du rayonnement gravitationnel, et la carrière de Stephen Hawking.  En 2017, en collaboration avec Frank Blitzer et Stephen Sekula, il a coécrit \"Reality in the Shadows (Or) What the Heck's the Higgs ?\"  - un livre de niveau populaire.  En 2006, il a terminé une série de DVD intitulée Superstring Theory : The DNA of Reality pour The Teaching Company, composée de 24 conférences d'une demi-heure visant à rendre les complexités de la théorie de l'unification accessibles aux non-physiciens.
+              <br><br>
+              Ancien président de la National Society of Black Physicists, il est membre de la NSBP, de l'American Physical Society, de l'American Association for the Advancement of Science, de l'Institute of Physics au Royaume-Uni et du Stellenbosch Institute for Advanced Study (STIAS) en Afrique du Sud.  
+              Il est également membre élu de l'Académie américaine des arts et des sciences et de la Société philosophique américaine.   
+              <br><br>
+              Le président Obama a décerné à M. Gates la médaille nationale des sciences, la plus haute distinction accordée aux scientifiques aux États-Unis, avec la citation suivante : \"Pour sa contribution aux mathématiques de la supersymétrie dans les théories des particules, des champs et des cordes et ses efforts extraordinaires pour sensibiliser le public à la beauté et aux merveilles de la physique fondamentale.\"   En 2013, il a été élu à l'Académie nationale des sciences et a récemment été élu au conseil de la NAS.  Toujours en 2013, Gates a reçu la médaille Mendel de l'université de Villanova.
+              En 2014, il a été nommé \"scientifique de l'année\" par la Fondation Harvard.
               </p>"
 
 
