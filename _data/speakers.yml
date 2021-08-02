@@ -192,15 +192,14 @@ en:
               The Science and Technology Innovation Program’s Thing Tank Initiative is tackling how the things of science ─ the physical tools that generate data or contribute to scientific processes ─ are accelerating and broadening science. 
               We’re working to bring disciplines and communities together to address common challenges and opportunities in low-cost and open hardware, in the context of open science.
               </p>"
-    #- img  : "assets/img/speakers/StephanieHankey.jpg"
-    #  label: "Stephanie Hankey"
-    #  title: "Executive Director, Tactical Tech"
-    #  desc : "<p>
-    #          Stephanie Hankey is a designer, activist and social entrepreneur with over 20 years experience exploring the social and political impact of technology on society. 
-    #          As a practitioner and field leader she works across disciplines – technology, design, art and politics. 
-    #          She is the co-curator of the award winning touring exhibition, The Glass Room. 
-    #          The Executive Director of the international NGO, Tactical Tech and a Loeb Fellow at Harvard Graduate School of Design.
-    #          </p>"
+    - img  : "assets/img/speakers/ChintanVaishnav.jpg"
+      label: "Chintan Vaishnav"
+      title: "Mission Director, Atal Innovation Mission, India"
+      desc : "<p>
+              Dr. Chintan Vaishnav is a socio-technologist, an engineer trained to design and build large-scale systems that possess both human as well as technological complexities. 
+              Presently, he serves as the Mission Director for <a href='https://aim.gov.in/atl.php' rel='noopener' target='_blank'>Atal Innovation Mission (AIM)</a>, a flagship initiative of the government of India under the auspices of the NITI Aayog. 
+              Chintan is on leave from Massachusetts Institute of Technology (MIT) for his present assignment. As a teacher, innovator, and entrepreneur, he has split his time between teaching and research at MIT and living and working with rural communities in India to build solutions that can overcome constraints fundamental to improving human conditions.
+              </p>"
     - img  : "assets/img/speakers/SylvesterJamesGatesJr.jpg"
       label: "Sylvester James Gates, Jr."
       title: "Brown Theoretical Physics Center Director"
@@ -437,15 +436,14 @@ fr:
               L'initiative Thing Tank du Programme d'innovation scientifique et technologique s'attaque à la manière dont les choses de la science ─ les outils physiques qui génèrent des données ou contribuent aux processus scientifiques ─ accélèrent et élargissent la science. 
               Nous nous efforçons de réunir des disciplines et des communautés pour relever des défis et des opportunités communs en matière de matériel à faible coût et ouvert, dans le contexte de la science ouverte.
               </p>"
-    #- img  : "assets/img/speakers/StephanieHankey.jpg"
-    #  label: "Stephanie Hankey"
-    #  title: "Directrice exécutive, Tactical Tech"
-    #  desc : "<p>
-    #          Stephanie Hankey est une designer, une activiste et une entrepreneuse sociale qui a plus de 20 ans d'expérience dans l'exploration de l'impact social et politique de la technologie sur la société. 
-    #          En tant que praticienne et responsable de terrain, elle travaille dans plusieurs disciplines - technologie, design, art et politique. 
-    #          Elle est la co-conservatrice de l'exposition itinérante primée The Glass Room. 
-    #          Elle est également directrice exécutive de l'ONG internationale Tactical Tech et membre de la Loeb School of Design de Harvard.
-    #          </p>"
+    - img  : "assets/img/speakers/ChintanVaishnav.jpg"
+      label: "Chintan Vaishnav"
+      title: "Directeur de mission, Atal Innovation Mission, Inde"
+      desc : "<p>
+              Le Dr. Chintan Vaishnav est un socio-technologue, un ingénieur formé à la conception et à la construction de systèmes à grande échelle qui présentent des complexités tant humaines que technologiques. 
+              Il occupe actuellement le poste de directeur de mission pour <a href='https://aim.gov.in/atl.php' rel='noopener' target='_blank'>Atal Innovation Mission (AIM)</a>, une initiative phare du gouvernement indien sous les auspices du NITI Aayog. Chintan est en congé du Massachusetts Institute of Technology (MIT) pour sa mission actuelle. 
+              En tant qu'enseignant, innovateur et entrepreneur, il a partagé son temps entre l'enseignement et la recherche au MIT et la vie et le travail avec les communautés rurales en Inde pour construire des solutions qui peuvent surmonter les contraintes fondamentales à l'amélioration des conditions humaines.
+              </p>"
     - img  : "assets/img/speakers/SylvesterJamesGatesJr.jpg"
       label: "Sylvester James Gates, Jr."
       title: "Directeur du Brown Theoretical Physics Center"
