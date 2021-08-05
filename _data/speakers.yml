@@ -193,14 +193,6 @@ en:
               The Science and Technology Innovation Program’s Thing Tank Initiative is tackling how the things of science ─ the physical tools that generate data or contribute to scientific processes ─ are accelerating and broadening science. 
               We’re working to bring disciplines and communities together to address common challenges and opportunities in low-cost and open hardware, in the context of open science.
               </p>"
-    #- img  : "assets/img/speakers/ChintanVaishnav.jpg"
-    #  label: "Chintan Vaishnav"
-    #  title: "Mission Director, Atal Innovation Mission, India"
-    #  desc : "<p>
-    #          Dr. Chintan Vaishnav is a socio-technologist, an engineer trained to design and build large-scale systems that possess both human as well as technological complexities. 
-    #          Presently, he serves as the Mission Director for <a href='https://aim.gov.in/atl.php' rel='noopener' target='_blank'>Atal Innovation Mission (AIM)</a>, a flagship initiative of the government of India under the auspices of the NITI Aayog. 
-    #          Chintan is on leave from Massachusetts Institute of Technology (MIT) for his present assignment. As a teacher, innovator, and entrepreneur, he has split his time between teaching and research at MIT and living and working with rural communities in India to build solutions that can overcome constraints fundamental to improving human conditions.
-    #          </p>"
     - img  : "assets/img/speakers/SylvesterJamesGatesJr.jpg"
       label: "Sylvester James Gates, Jr."
       title: "Brown Theoretical Physics Center Director"
@@ -241,6 +233,17 @@ en:
               In 2013, he was elected to the National Academy of Sciences and was recently elected to the council of the NAS. 
               Also in 2013, Gates was awarded the Mendel Medal by Villanova University.
               During 2014, he was named the Harvard Foundation’s ‘‘Scientist of the Year.’’
+              </p>"
+    - img  : "assets/img/speakers/PaulMagid.jpg"
+      label: "Paul Magid"
+      title: "Co-Founder/Director of the Flying Karamazov Brothers"
+      desc : "<p>
+              Paul Magid co-founded the juggling and cheap theatrics group, the Flying Karamazov Brothers, (FKB) in 1973. 
+              The FKB went on to play on Broadway 6 times, star in films and TV, endlessly tour and play in great theaters and with great symphonies throughout the world. 
+              Paul is also a writer having 8 produced plays under his belt. 
+              He also directs shows and film in the US and Europe. He is also a historian with a focus on antiquity in the Middle East and on Native American history and law. 
+              In 1981 Paul co-founded the New Old Time Chautauqua which combines entertainment and education collaborating with rural communities and native nations throughout the Greater Northwest each summer. 
+              He is also a musician playing clarinet and sax in several bands. Paul lives in coastal Washington State and in Italy.
               </p>"
 
 fr:
@@ -439,14 +442,6 @@ fr:
               L'initiative Thing Tank du Programme d'innovation scientifique et technologique s'attaque à la manière dont les choses de la science ─ les outils physiques qui génèrent des données ou contribuent aux processus scientifiques ─ accélèrent et élargissent la science. 
               Nous nous efforçons de réunir des disciplines et des communautés pour relever des défis et des opportunités communs en matière de matériel à faible coût et ouvert, dans le contexte de la science ouverte.
               </p>"
-    #- img  : "assets/img/speakers/ChintanVaishnav.jpg"
-    #  label: "Chintan Vaishnav"
-    #  title: "Directeur de mission, Atal Innovation Mission, Inde"
-    #  desc : "<p>
-    #          Le Dr. Chintan Vaishnav est un socio-technologue, un ingénieur formé à la conception et à la construction de systèmes à grande échelle qui présentent des complexités tant humaines que technologiques. 
-    #          Il occupe actuellement le poste de directeur de mission pour <a href='https://aim.gov.in/atl.php' rel='noopener' target='_blank'>Atal Innovation Mission (AIM)</a>, une initiative phare du gouvernement indien sous les auspices du NITI Aayog. Chintan est en congé du Massachusetts Institute of Technology (MIT) pour sa mission actuelle. 
-    #          En tant qu'enseignant, innovateur et entrepreneur, il a partagé son temps entre l'enseignement et la recherche au MIT et la vie et le travail avec les communautés rurales en Inde pour construire des solutions qui peuvent surmonter les contraintes fondamentales à l'amélioration des conditions humaines.
-    #          </p>"
     - img  : "assets/img/speakers/SylvesterJamesGatesJr.jpg"
       label: "Sylvester James Gates, Jr."
       title: "Directeur du Brown Theoretical Physics Center"
@@ -478,6 +473,19 @@ fr:
               <br><br>
               Le président Obama a décerné à M. Gates la médaille nationale des sciences, la plus haute distinction accordée aux scientifiques aux États-Unis, avec la citation suivante : \"Pour sa contribution aux mathématiques de la supersymétrie dans les théories des particules, des champs et des cordes et ses efforts extraordinaires pour sensibiliser le public à la beauté et aux merveilles de la physique fondamentale.\"   En 2013, il a été élu à l'Académie nationale des sciences et a récemment été élu au conseil de la NAS.  Toujours en 2013, Gates a reçu la médaille Mendel de l'université de Villanova.
               En 2014, il a été nommé \"scientifique de l'année\" par la Fondation Harvard.
+              </p>"
+    - img  : "assets/img/speakers/PaulMagid.jpg"
+      label: "Paul Magid"
+      title: "Co-Fondateur/Directeur des Flying Karamazov Brothers"
+      desc : "<p>
+              Paul Magid a co-fondé le groupe de jonglerie et de théâtre bon marché, les Flying Karamazov Brothers, (FKB) en 1973. 
+              Le FKB a joué à Broadway 6 fois, a joué dans des films et à la télévision, a tourné et joué sans cesse dans de grands théâtres et avec une grande symphonies du monde entier. 
+              Paul est également un écrivain ayant produit 8 pièces à son actif. 
+              Il réalise également des spectacles et des films aux États-Unis et en Europe. 
+              Il est également historien spécialisé dans l'Antiquité au Moyen-Orient et dans l'histoire et le droit des Amérindiens. 
+              En 1981, Paul a cofondé le New Old Time Chautauqua, qui combine divertissement et éducation en collaborant chaque été avec les communautés rurales et les nations autochtones du Grand Nord-Ouest. 
+              Il est également musicien jouant de la clarinette et du sax dans plusieurs groupes. 
+              Paul vit sur la côte de l'État de Washington et en Italie.
               </p>"
 
 
