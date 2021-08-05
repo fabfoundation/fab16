@@ -53,11 +53,13 @@ programdesc2: "<br><br>
                 Une intervention à court terme, trois jours, qui mettra en valeur les expériences locales et internationales et les prototypes de Fab City. Il comprendra des expositions, des visites guidées des Fab Labs locaux et des ateliers de fabrication.<br>
                 "
 program: ""
-img_programmation: "assets/img/programmation.jpg"
+img_programmation: "assets/img/programmation-1-fr.jpg"
 pdf_programmation: "assets/downloads/FAB16_FABCITYSummit_PROGRAMMATION.pdf"
 pdf_programmation_text: "Télécharger en PDF"
-afterimg: "Vous pourrez suivre les détails de l'horaire complet, les liens, les instructeurs, les inscriptions et plus encore, en vous inscrivant sur notre plateforme en ligne ici :"
-afterimglink: "<a href='https://live.fablabs.io/' target='_blank'>live.fablabs.io</a>"
+afterimg1: "<strong style='font-size:22px;'>Voir le programme du Sommet FAB16 en détail :</strong>"
+afterimglink1: "<a href='https://fab16.sched.com/' target='_blank' class='btn btn-primary btn-md'>Programme du FAB16</a>"
+afterimg2: "<span>Vous pourrez suivre les détails de l'horaire complet, les liens, les instructeurs, les inscriptions et plus encore, en vous inscrivant sur notre plateforme en ligne ici :</span>"
+afterimglink2: "<a href='https://live.fablabs.io/' target='_blank' class='btn btn-primary btn-md'>live.fablabs.io</a>"
 afterimgcol1: "<br>
             Cette année, nous espérons encourager davantage d'engagement local pendant le FAB16 avec les FAB16 Hubs ! Vous trouverez ci-dessous une liste des Hubs FAB16 participants. Si une programmation locale est prévue dans l'un des Hubs et qu'il nous en est fait part, vous la trouverez en cliquant sur le nom du Hub. Nous demandons à tout le monde de privilégier la sécurité et de respecter les restrictions COVID-19 en vigueur dans leur région.
             <br><br>
@@ -114,7 +116,7 @@ hubsection2: "<strong>Hub de graduation (Nodes Academany qui veulent accueillir 
 hubsection3: "<strong>Hub local (Engagez les participants de votre région dans la conférence, et coordonnez et produisez du contenu pour les ateliers locaux, dans votre langue et à votre rythme)</strong>"
 hubsection4: "<strong>Partenaire communautaire (aide à la communication en ligne et à la diffusion de l'information)</strong>"
 ---
-<section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
+{% comment %}<section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6">
@@ -125,7 +127,7 @@ hubsection4: "<strong>Partenaire communautaire (aide à la communication en lign
             </div>
         </div>
     </div>
-</section>
+</section>{% endcomment %}
 
 <section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
 
@@ -134,27 +136,32 @@ hubsection4: "<strong>Partenaire communautaire (aide à la communication en lign
             
             <div class="col-lg-12 col-md-12">
 
-                <img src="{{ page.img_programmation | relative_url}}" class="img-responsive" style="margin:auto;" alt="{{ page.title}}">
-            
-            </div>
-            <div class="col-lg-12 col-md-12">
-                
-                <p class="{{ color_class }} text-center">
-                    <br>
-                    <a href="{{ site.url }}/{{page.pdf_programmation}}" target="_blank" download="FAB16_FABCITYSummit_PROGRAMMATION">{{page.pdf_programmation_text}}</a>
-                </p>
-
-            </div>
-            
-            <div class="col-lg-12 col-md-12">
-
-                <br><br>
-                <p class="{{ color_class }} text-center">{{page.afterimg}}</p>
-
-                <div class="row no-gutter comingsoon text-center pad25 backwhite">
-                    {{page.afterimglink}}
+                <div class="col-lg-6">
+                    <img src="{{ page.img_programmation | relative_url}}" class="img-responsive" style="margin:auto;" alt="{{ page.title}}">
                 </div>
+
+                <div class="col-lg-6">
+
+                    <p class="{{ color_class }}">{{page.programheader}}</p>
+
+                    <p class="{{ color_class }}">{{page.afterimg1}}</p>
+
+                    <div class="row no-gutter pad25">
+                        {{page.afterimglink1}}
+                    </div>
+
+                    <p class="{{ color_class }}">{{page.afterimg2}}</p>
+
+                    <div class="row no-gutter" style="padding-left:25px;">
+                        {{page.afterimglink2}}
+                    </div>
+
+                </div>   
+            
             </div>
+        </div>
+        <div class="row" style="padding-top: 50px;">
+            
 
             <div class="col-lg-6">
                 <p class="{{ color_class }}">{{page.afterimgcol1}}</p>
@@ -229,3 +236,26 @@ hubsection4: "<strong>Partenaire communautaire (aide à la communication en lign
     </div>
 
 </section>
+
+{% comment %}<script>
+    function openCity(evt, cityName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+</script>{% endcomment %}

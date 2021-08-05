@@ -55,11 +55,13 @@ programdesc2: "<br><br>
                 A short term intervention, three days, which will highlight local and international experiences and Fab City prototypes. It will include exhibits, tours of local Fab Labs and fabricating workshops.<br>
                 "
 program: ""
-img_programmation: "assets/img/programmation.jpg"
+img_programmation: "assets/img/programmation-1.jpg"
 pdf_programmation: "assets/downloads/FAB16_FABCITYSummit_PROGRAMMATION.pdf"
 pdf_programmation_text: "Download PDF"
-afterimg: "You will be able to follow the full schedule details, links, tutors, registration and much more, by registering on our online platform here :"
-afterimglink: "<a href='https://live.fablabs.io/' target='_blank'>live.fablabs.io</a>"
+afterimg1: "<strong style='font-size:22px;'>See the FAB16 program in detail :</strong>"
+afterimglink1: "<a href='https://fab16.sched.com/' target='_blank' class='btn btn-primary btn-md'>FAB16 program</a>"
+afterimg2: "<span>You will be able to follow the full schedule details, links, tutors, registration and much more, by registering on our online platform here :</span>"
+afterimglink2: "<a href='https://live.fablabs.io/' target='_blank' class='btn btn-primary btn-md'>live.fablabs.io</a>"
 afterimgcol1: "<br>
             This year, we are hoping to encourage more local engagement during FAB16 with the FAB16 Hubs! Below is a list of the participating FAB16 Hubs. If there will be local programming at one of the Hubs and they have shared that with us, you will find it by clicking on their name. We ask everyone to keep safety above all else and be mindful of the COVID-19 restrictions in their location.
             <br><br>
@@ -118,7 +120,25 @@ hubsection3: "<strong>Local Hub (Engage your region's participants in the confer
 hubsection4: "<strong>Community Partner (Support with Online Communication and getting the word out)</strong>"
 
 ---
-<section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
+
+{% comment %}<style>
+    @media (max-width: 885px) {
+        table td {
+            width: 100%!important;
+            display: block;
+            box-sizing: border-box;
+            clear: both;
+        }
+        table td img {
+            margin-left: 0!important;
+        }
+        table tr {
+            border-bottom: dotted 1px!important;
+        }
+    }
+</style>{% endcomment %}
+
+{% comment %}<section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6">
@@ -129,7 +149,7 @@ hubsection4: "<strong>Community Partner (Support with Online Communication and g
             </div>
         </div>
     </div>
-</section>
+</section>{% endcomment %}
 
 <section class="no-padding" id="" style="padding: 25px 50px 50px 50px;">
 
@@ -138,27 +158,31 @@ hubsection4: "<strong>Community Partner (Support with Online Communication and g
             
             <div class="col-lg-12 col-md-12">
 
-                <img src="{{ page.img_programmation | relative_url}}" class="img-responsive" style="margin:auto;" alt="{{ page.title}}">
-            
-            </div>
-            <div class="col-lg-12 col-md-12">
-                
-                <p class="{{ color_class }} text-center">
-                    <br>
-                    <a href="{{ site.url }}/{{page.pdf_programmation}}" target="_blank" download="FAB16_FABCITYSummit_PROGRAMMATION">{{page.pdf_programmation_text}}</a>
-                </p>
-
-            </div>
-            
-            <div class="col-lg-12 col-md-12">
-
-                <br><br>
-                <p class="{{ color_class }} text-center">{{page.afterimg}}</p>
-
-                <div class="row no-gutter comingsoon text-center pad25 backwhite">
-                    {{page.afterimglink}}
+                <div class="col-lg-6">
+                    <img src="{{ page.img_programmation | relative_url}}" class="img-responsive" style="margin:auto;" alt="{{ page.title}}">
                 </div>
+
+                <div class="col-lg-6">
+
+                    <p class="{{ color_class }}">{{page.programheader}}</p>
+
+                    <p class="{{ color_class }}">{{page.afterimg1}}</p>
+
+                    <div class="row no-gutter pad25">
+                        {{page.afterimglink1}}
+                    </div>
+
+                    <p class="{{ color_class }}">{{page.afterimg2}}</p>
+
+                    <div class="row no-gutter" style="padding-left:25px;">
+                        {{page.afterimglink2}}
+                    </div>
+
+                </div>   
+            
             </div>
+        </div>
+        <div class="row" style="padding-top: 50px;">
 
             <div class="col-lg-6">
                 <p class="{{ color_class }}">{{page.afterimgcol1}}</p>
@@ -233,3 +257,26 @@ hubsection4: "<strong>Community Partner (Support with Online Communication and g
     </div>
 
 </section>
+
+{% comment %}<script>
+    function openCity(evt, cityName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+</script>{% endcomment %}
