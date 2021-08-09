@@ -64,10 +64,10 @@
         </div>
     </div>
 </section>
-{% comment %}
-<section id="donate" class="pad50top backgrey">
+
+<section id="donate" class="pad50top backwhite">
     <div class="container-fluid">
-        <div class="row">
+        {% comment %}<div class="row">
             <div class="col-lg-12 text-center" style="margin-bottom: -75px;">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h3 class="itemtitle colorgreen">{{site.data.footer[page.lang].contact.donatetitle}}</h3>
@@ -80,7 +80,7 @@
 
                 </div>
             </div>
-        </div>
+        </div>{% endcomment %}
 
         <img src="{{ 'assets/img/Logo2.png' | relative_url }}" class="img-responsive fab16logo marg0top" alt="Donate section FAB16 logo" width="206" height="206">
 
@@ -88,7 +88,7 @@
 
     </div>
 </section>
-{% endcomment %}
+
 
 
 <footer class="backgreen">
